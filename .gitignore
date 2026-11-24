@@ -1,0 +1,38 @@
+# Arquivos do jogo (nunca publicar)
+*.bin
+*.cue
+*.iso
+*.img
+*.BIN
+*.MSB
+*.TXD
+*.DIM
+*.STR
+*.XA
+*.sav
+SLPM_*
+disc/
+original/
+extracted/
+build/
+patch/files/
+
+# Ferramentas de terceiros (baixe cada uma no site oficial)
+tools/armips/
+tools/xdelta/
+tools/mkpsxiso/
+tools/duckstation/
+tools/ghidra*/
+tools/jdk*/
+*.exe
+*.dll
+
+# Patches gerados (publicar pela aba Releases)
+*.xdelta
+
+# Python / sistema
+__pycache__/
+*.pyc
+Thumbs.db
+desktop.ini
+.DS_Store

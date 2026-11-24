@@ -1,0 +1,62 @@
+indice	offset	bytes	ingles	traducao
+0	0000	7	Loading	Carregando
+1	0008	20	Do you want to save?	Deseja salvar?
+2	001e	4	Save	Salvar
+3	0024	10	Don't save	Não salvar
+4	0030	17	Continue playing?	Continuar jogando?
+5	0042	8	Continue	Continuar
+6	004c	7	Suspend	Pausar
+7	0054	15	Return to title	Voltar ao título
+8	0064	48	Suspend data|will disappear|Do you want to load?	O save de pausa|será apagado|Deseja carregar?
+9	0096	2	OK	OK
+10	009a	6	CANCEL	VOLTAR
+11	00a2	60	Suspend data will|not be saved|Resume only from|arising data	O save de pausa não|será gravado. Só dá|para continuar pelo|save de renascer
+12	00e0	6	Cancel	Cancelar
+13	00e8	28	Memory card is|not formatted	Cartão de memória|não formatado
+14	0106	6	Format	Formatar
+15	010e	13	Do not format	Não formatar
+16	011c	35	Formatting|Don't remove|memory card	Formatando|Não remova o|cartão de memória
+17	0140	17	Formatting failed	Erro ao formatar
+18	0152	11	Save failed	Erro ao salvar
+19	015e	22	Memory card|not found!	Cartão de memória|não encontrado!
+20	0176	13	Access failed	Erro de acesso
+21	0184	68	1 block required|to create a new save|There is not enough|free space	É preciso 1 bloco|livre para salvar|Não há espaço|suficiente
+22	01ca	69	2 blocks required|to create a new save|There is not enough|free space	São necessários 2|blocos para salvar|Não há espaço|suficiente
+23	0210	20	Checking memory card	Verificando o cartão
+24	0226	20	Checking|memory card	Verificando o|cartão de memória
+25	023c	36	Arising data {f6}SAVE|System data {f6}SAVE	Save de renascer {f6}SALVAR|Save do sistema {f6}SALVAR
+26	0262	35	Arising data {f6}SAVE|System data {f6}New	Save de renascer {f6}SALVAR|Save do sistema {f6}Novo
+27	0286	36	Suspend data {f6}SAVE|System data {f6}SAVE	Save de pausa {f6}SALVAR|Save do sistema {f6}SALVAR
+28	02ac	35	Suspend data {f6}SAVE|System data {f6}New	Save de pausa {f6}SALVAR|Save do sistema {f6}Novo
+29	02d0	35	Arising data {f6}New|System data {f6}SAVE	Save de renascer {f6}Novo|Save do sistema {f6}SALVAR
+30	02f4	34	Arising data {f6}New|System data {f6}New	Save de renascer {f6}Novo|Save do sistema {f6}Novo
+31	0318	35	Suspend data {f6}New|System data {f6}SAVE	Save de pausa {f6}Novo|Save do sistema {f6}SALVAR
+32	033c	34	Suspend data {f6}New|System data {f6}New	Save de pausa {f6}Novo|Save do sistema {f6}Novo
+33	0360	46	Arising data|Saving|Don't pull out|memory card	Gravando o save|de renascer|Não remova o|cartão de memória
+34	0390	46	Suspend data|Saving|Don't pull out|memory card	Gravando o save|de pausa|Não remova o|cartão de memória
+35	03c0	45	System data|Saving|Don't pull out|memory card	Gravando o save|do sistema|Não remova o|cartão de memória
+36	03ee	32	System data|Do you want to save?	Save do sistema|Deseja salvar?
+37	0410	19	Create system data?	Criar o save do sistema?
+38	0424	58	Saving system data|Ranking info|will not be saved|Save it?	Sem salvar o sistema|o ranking não|será gravado|Salvar?
+39	0460	61	Without system data|Ranking info|will not be saved|Create it?	Sem save do sistema|o ranking não|será gravado|Criar?
+40	049e	8	 MISSING	
+41	04a7	7	MISSING	
+42	04af	7	MISSING	
+43	04b7	7	MISSING	
+44	04bf	7	MISSING	
+45	04c7	7	MISSING	
+46	04cf	7	MISSING	
+47	04d7	7	MISSING	
+48	04df	7	MISSING	
+49	04e7	7	MISSING	
+50	04ef	7	MISSING	
+51	04f7	7	MISSING	
+52	04ff	7	MISSING	
+53	0507	7	MISSING	
+54	050f	7	MISSING	
+55	0517	7	MISSING	
+56	051f	7	MISSING	
+57	0527	7	MISSING	
+58	052f	7	MISSING	
+59	0537	7	MISSING	
+60	053f	7	MISSING	

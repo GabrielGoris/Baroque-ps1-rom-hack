@@ -1,0 +1,257 @@
+chave	ingles	traducao
+T0	{7f}{80}Pathetic     ATK+3/THROW62|A truly pathetic sword	{7f}{80}Patética   ATK+3/ARREM 62|Uma espada realmente patética
+T1	{7f}{80}Purification     ATK+4/THROW68|A basic sword	{7f}{80}Purificação   ATK+4/ARREM 68|Uma espada comum
+T2	{7f}{80}Sterilization     ATK+5/THROW73|A considerably powerful sword	{7f}{80}Esterilização   ATK+5/ARREM 73|Uma espada bastante poderosa
+T3	{7f}{80}Eradication     ATK+6/THROW79|A hugely powerful sword	{7f}{80}Erradicação   ATK+6/ARREM 79|Uma espada imensamente poderosa
+T4	{7f}{80}Cremation     ATK+4/THROW82|A fire attribute sword	{7f}{80}Cremação   ATK+4/ARREM 82|Uma espada do elemento fogo
+T5	{7f}{80}Cryosurgical     ATK+4/THROW82|An ice attribute sword	{7f}{80}Criocirúrgica   ATK+4/ARREM 82|Uma espada do elemento gelo
+T6	{7f}{80}Thunder     ATK+4/THROW82|A lightning attribute sword	{7f}{80}Trovão   ATK+4/ARREM 82|Uma espada do elemento raio
+T7	{7f}{80}Stamina     ATK+4/THROW80|Raises your HPMAX by 20	{7f}{80}Vigor   ATK+4/ARREM 80|Aumenta seu HPMAX em 20
+T8	{7f}{80}Vitality     ATK+4/THROW80|Raises your VTMAX by 20	{7f}{80}Vitalidade   ATK+4/ARREM 80|Aumenta seu VTMAX em 20
+T9	{7f}{80}Guardian     ATK+4/THROW80|Raises your DEF by 3	{7f}{80}Guardiã   ATK+4/ARREM 80|Aumenta a DEF em 3
+T10	{7f}{80}Lucky     ATK+3/THROW80|Makes it easier to land critical hits	{7f}{80}Sortuda   ATK+3/ARREM 80|Facilita acertar golpes críticos
+T11	{7f}{80}Unlucky     ATK+2/THROW90|Makes it harder to land critical hits	{7f}{80}Azarada   ATK+2/ARREM 90|Dificulta acertar golpes críticos
+T12	{7f}{80}Storm     ATK+1/THROW90|Sometimes sends enemies flying when it|deals damage	{7f}{80}Tempestade   ATK+1/ARREM 90|Às vezes arremessa inimigos longe ao|causar dano
+T13	{7f}{80}Comet     ATK+3/THROW90|A sword that attacks at high speed	{7f}{80}Cometa   ATK+3/ARREM 90|Uma espada que ataca em alta velocidade
+T14	{7f}{80}Guillotine     ATK+4/THROW90|A sword that cuts 2{97} per attack	{7f}{80}Guilhotina   ATK+4/ARREM 90|Uma espada que corta 2{97} por ataque
+T15	{7f}{80}Wave     ATK+4/THROW90|A sword that sometimes attacks with a|long-range wave	{7f}{80}Onda   ATK+4/ARREM 90|Uma espada que às vezes ataca com uma onda|de longo alcance
+T16	{7f}{80}Trident     ATK+1/THROW90|A sword that sometimes strikes 3{97} with|single swing	{7f}{80}Tridente   ATK+1/ARREM 90|Uma espada que às vezes golpeia 3{97} num só|golpe
+T17	{7f}{80}Old     ATK+0/THROW78|A sword that gets weaker every time it|hits	{7f}{80}Velha   ATK+0/ARREM 78|Uma espada que fica mais fraca a cada|golpe
+T18	{7f}{80}Twin     ATK+1/THROW80|Up to 2 can be equipped at once	{7f}{80}Gêmea   ATK+1/ARREM 80|Até 2 podem ser equipadas ao mesmo tempo
+T19	{7f}{80}Intervention     ATK+4/THROW70|A sword that grows in power as your HP|gets lower	{7f}{80}Intervenção   ATK+4/ARREM 70|Uma espada que fica mais forte quanto|menor for seu HP
+T20	{7f}{80}Explosive     ATK+9/THROW80|A sword that deals explosive fire damage.|Slow attack speed	{7f}{80}Explosiva   ATK+9/ARREM 80|Espada que causa dano explosivo de fogo.|Ataca devagar
+T21	{7f}{80}Heaven{f5}Earth     ATK+15/THROW80|Powerful when it hits. It is difficult to|use, misses frequently	{7f}{80}Céu{f5}Terra   ATK+15/ARREM 80|Poderosa quando acerta. Difícil de usar,|erra com frequência
+T22	{7f}{80}Fallen Angel     ATK+13/THROW90|An unusually strong sword. Takes 5 damage|with every swing	{7f}{80}Anjo Caído   ATK+13/ARREM 90|Espada fortíssima. Você sofre 5 de dano a|cada golpe
+T23	{7f}{80}Absorption     ATK+2/THROW100|Leeches HP from Grotesques. In rare cases,|may become stronger	{7f}{80}Absorção   ATK+2/ARREM 100|Suga HP dos Grotescos. Em raros casos,|pode ficar mais forte
+T24	{7f}{80}Growth     ATK+0/THROW100|Becomes more powerful with every floor,|but EXP1/4 while equipped. Resets if|unequipped	{7f}{80}Crescimento   ATK+0/ARREM 100|Fica mais forte a cada andar, mas EXP 1/4|se equipada. Reinicia se for desequipada
+T25	{7f}{80}Glass     ATK+10/THROW88|Frequently lands critical hits, will break|if you descend or unequip it	{7f}{80}Vidro   ATK+10/ARREM 88|Acerta críticos com frequência. Quebra se|descer ou desequipar
+T26	{7f}{80}Rose     ATK+5/THROW88|Sometimes paralyzes Grotesques, may also|paralyze you	{7f}{80}Rosa   ATK+5/ARREM 88|Às vezes paralisa Grotescos, mas pode|paralisar você
+T27	{7f}{80}Distorted     ATK+4/THROW88|Capable of attacking with great power	{7f}{80}Distorcida   ATK+4/ARREM 88|Capaz de atacar com grande força
+T28	{7f}{80}Triple Facet     ATK+5/THROW129|Possessing 3 attributes{fa19} fire, ice, and|lightning	{7f}{80}Três Faces   ATK+5/ARREM 129|Tem 3 elementos{fa19} fogo, gelo e raio
+T29	{7d}{7e}Angelic     |Consigns Grotesques to oblivion with|tremendous force	{7d}{7e}Angelical|Manda os Grotescos ao esquecimento com|força tremenda
+T30	{81}{82}Pathetic     DEF+1/THROW35|A flimsy coat	{81}{82}Patético   DEF+1/ARREM 35|Um casaco frágil
+T31	{81}{82}Pelt     DEF+2/THROW40|A basic coat	{81}{82}Pele   DEF+2/ARREM 40|Um casaco comum
+T32	{81}{82}Beast     DEF+4/THROW45|Made from the pelt of a wild beast	{81}{82}Fera   DEF+4/ARREM 45|Feito com a pele de um animal selvagem
+T33	{81}{82}Nonflammable     DEF+2/THROW50|Resistant to fire attacks	{81}{82}Antichamas   DEF+2/ARREM 50|Resistente a ataques de fogo
+T34	{81}{82}Insulating     DEF+2/THROW50|Resistant to ice attacks	{81}{82}Isolante   DEF+2/ARREM 50|Resistente a ataques de gelo
+T35	{81}{82}Grounding     DEF+2/THROW50|Resistant to electric attacks	{81}{82}Aterrado   DEF+2/ARREM 50|Resistente a ataques elétricos
+T36	{81}{82}Stamina     DEF+2/THROW63|Raises HPMAX by 25	{81}{82}Vigor   DEF+2/ARREM 63|Aumenta HPMAX em 25
+T37	{81}{82}Vitality     DEF+2/THROW49|Raises VTMAX by 25	{81}{82}Vitalidade   DEF+2/ARREM 49|Aumenta VTMAX em 25
+T38	{81}{82}AD     DEF+2/THROW72|Raises ATK by 3	{81}{82}AD   DEF+2/ARREM 72|Aumenta ATK em 3
+T39	{81}{82}Lucky     DEF+2/THROW66|Makes it easier to land critical hits	{81}{82}Sortudo   DEF+2/ARREM 66|Facilita acertar golpes críticos
+T40	{81}{82}Unlucky     DEF+3/THROW55|Makes it harder to land critical hits	{81}{82}Azarado   DEF+3/ARREM 55|Dificulta acertar golpes críticos
+T41	{81}{82}Uncomfortable     DEF+6/THROW55|High defense. VT decreases faster when|equipped	{81}{82}Incômodo   DEF+6/ARREM 55|Defesa alta. O VT cai mais rápido quando|equipado
+T42	{81}{82}Old     DEF+0/THROW55|Loses 1 DEF each time damage is taken	{81}{82}Velho   DEF+0/ARREM 55|Perde 1 de DEF cada vez que sofre dano
+T43	{81}{82}Exposure     DEF+7/THROW85|Powerful, but you feel the urge to take it|off in front of Grotesques	{81}{82}Exposição   DEF+7/ARREM 85|Forte, mas dá vontade de tirá-lo na frente|dos Grotescos
+T44	{81}{82}Growth     DEF+0/THROW75|Becomes stronger with every floor you|descend, but EXP1/4. Resets if unequipped	{81}{82}Crescimento   DEF+0/ARREM 75|Fica mais forte a cada andar que você|desce, mas EXP 1/4. Reinicia se for|desequipado
+T45	{81}{82}Stubborn     DEF+4/THROW155|Cannot be removed once equipped. DEF{97}2|when equipped with Stubborn Wings	{81}{82}Teimoso   DEF+4/ARREM 155|Não sai depois de equipado. DEF{97}2 se usado|com as Asas Teimosas
+T46	{81}{82}Distorted     DEF+4/THROW99|Prevents all ailments except for|stomachaches and confusion	{81}{82}Distorcido   DEF+4/ARREM 99|Evita todos os males exceto cólica e|confusão
+T47	{81}{82}Glass     DEF+9/THROW99|A highly protective coat, descending or|unequipping will cause it to break	{81}{82}Vidro   DEF+9/ARREM 99|Casaco muito protetor. Quebra se descer ou|desequipar
+T48	{81}{82}Triple Facet     DEF+3/THROW129|Resistant to fire, ice, and electric|attacks	{81}{82}Três Faces   DEF+3/ARREM 129|Resiste a ataques de fogo, gelo e|eletricidade
+T49	{83}{84}Enduring     THROW50|Slow VT depletion by 25{99}	{83}{84}Duradouras   ARREM 50|Reduz o gasto de VT em 25{99}
+T50	{83}{84}Assault     THROW50|Raises ATK by ?	{83}{84}Ataque   ARREM 50|Aumenta ATK em ?
+T51	{83}{84}Defense     THROW50|Raises DEF by ?	{83}{84}Defesa   ARREM 50|Aumenta DEF em ?
+T52	{83}{84}Lucky     THROW50|Raises the frequency of critical hits	{83}{84}Sortudas   ARREM 50|Aumenta a chance de golpes críticos
+T53	{83}{84}Hope     THROW50|Raises MAXHP, MAXVT, ATK, and DEF by ?	{83}{84}Esperança   ARREM 50|Aumenta MAXHP, MAXVT, ATK e DEF em ?
+T54	{83}{84}Experience     THROW50|Grants +20EXP for every Grotesque defeated	{83}{84}Experiência   ARREM 50|Dá +20EXP por cada Grotesco derrotado
+T55	{83}{84}Paralysis     THROW50|Prevents paralysis	{83}{84}Paralisia   ARREM 50|Evita paralisia
+T56	{83}{84}Serene     THROW50|Prevents confusion and lust	{83}{84}Serenas   ARREM 50|Evita confusão e luxúria
+T57	{83}{84}Antitoxin     THROW50|Prevents poison and paralysis	{83}{84}Antitoxina   ARREM 50|Evita veneno e paralisia
+T58	{83}{84}Eyeball     THROW50|Prevents blindness and lust	{83}{84}Olho   ARREM 50|Evita cegueira e luxúria
+T59	{83}{84}Special     THROW50|Prevents all ailments, except for|stomachache	{83}{84}Especiais   ARREM 50|Evita todos os males menos cólica
+T60	{83}{84}Stubborn     THROW156|Cannot be unequipped. DEF{97}2 when equipped|with a Stubborn Coat	{83}{84}Teimosas   ARREM 156|Não podem ser retiradas. DEF{97}2 com o|Casaco Teimoso
+T61	{83}{84}Glass     THROW58|Recovers VT. Descending or unequipping|will cause it to break	{83}{84}Vidro   ARREM 58|Recupera VT. Quebram se descer ou|desequipar
+T62	{85}{86}Seed     THROW50|Restores 30 VT. Raises VTMAX by 10 if|eaten while VT is full	{85}{86}Semente   ARREM 50|Recupera 30 VT. VTMAX +10 se comido com o|VT cheio
+T63	{85}{86}Fruit     THROW65|Restores all VT. Raises VTMAX by 25 if|eaten while VT is full	{85}{86}Fruto   ARREM 65|Recupera todo o VT. VTMAX +25 se comido|com o VT cheio
+T64	{85}{86}Burnt     THROW80|Burnt to a crisp. VT is fully restored,|but HP is halved	{85}{86}Queimado   ARREM 80|Torrado. Recupera todo o VT, mas o HP cai|pela metade
+T65	{79}{7a}Idiot     THROW{f98f}{f990}40|Restores 30HP. Increases HPMAX by 8 if|eaten while HP is full	{79}{7a}Idiota   ARREM 40|Recupera 30 HP. HPMAX +8 se comida com o|HP cheio
+T66	{79}{7a}Average     THROW{f98f}{f990}60|Restores 99HP. Increases HPMAX by 12 if|eaten while HP is full	{79}{7a}Mediana   ARREM 60|Recupera 99 HP. HPMAX +12 se comida com o|HP cheio
+T67	{79}{7a}Genius     THROW{f98f}{f990}999|Restores all HP. Increases HPMAX by 25 if|eaten while HP is full	{79}{7a}Genial   ARREM 999|Recupera todo o HP. HPMAX +25 se comida|com o HP cheio
+T68	{79}{7a}Grilled     THROW{f98f}{f990}999|Overcooked flesh that has burned to a|crisp. Recovers all HP, reduces VT by 50	{79}{7a}Grelhada   ARREM 999|Carne cozida demais, torrada. Recupera|todo o HP, mas tira 50 de VT
+T69	{87}{88}Empty     THROW121|A box with nothing inside	{87}{88}Vazia   ARREM 121|Uma caixa sem nada dentro
+T70	{87}{88}Recovery     THROW99|Recovers HP. The amount it recovers is|unknown until opened	{87}{88}Recuperação   ARREM 99|Recupera HP. A quantia só é conhecida ao|abrir
+T71	{87}{88}Hope     THROW75|Containing something wonderful. May|explode when opened	{87}{88}Esperança   ARREM 75|Contém algo maravilhoso. Pode explodir ao|abrir
+T72	{87}{88}Twin     THROW75|Can be opened if you have 2	{87}{88}Gêmea   ARREM 75|Só abre se você tiver 2
+T73	{87}{88}Stubborn     THROW75|Opens when your ATK is 30 or more.|Invincibility and erasure items inside	{87}{88}Teimosa   ARREM 75|Abre com ATK 30 ou mais. Tem itens de|invencibilidade e apagamento
+T74	{87}{88}Additional     THROW75|Contains the item you last obtained prior|to opening the box	{87}{88}Adicional   ARREM 75|Contém o último item que você pegou antes|de abri-la
+T75	{87}{88}Don't Have     THROW75|Contains an item you don't have	{87}{88}Não Tenho   ARREM 75|Contém um item que você não tem
+T76	{87}{88}Uncertain     THROW75|Contains standard items. May rarely|explode when opened	{87}{88}Incerta   ARREM 75|Contém itens comuns. Raramente pode|explodir ao abrir
+T77	{87}{88}Flesh     THROW75|Contains flesh. May rarely explode when|opened	{87}{88}Carne   ARREM 75|Contém carne. Pode explodir ao abrir, mas|é raro
+T78	{87}{88}Box     THROW75|Contains a box. May rarely explode when|opened	{87}{88}Caixa   ARREM 75|Contém uma caixa. Pode explodir ao abrir,|mas é raro
+T79	{87}{88}Blast     THROW75|Contains explosives. Handle with care, it|may cause a massive explosion	{87}{88}Explosão   ARREM 75|Contém explosivos. Cuidado, pode causar|uma explosão enorme
+T80	{87}{88}Revolution     THROW75|Contains revolution items. May explode|when opened	{87}{88}Revolução   ARREM 75|Contém itens de revolução. Pode explodir|ao abrir
+T81	{87}{88}Glass({7f}{80})     THROW75|A sword is just visible within the box.|May explode when opened	{87}{88}Vidro({7f}{80})   ARREM 75|Dá para ver uma espada dentro da caixa.|Pode explodir ao abrir
+T82	{87}{88}Glass({81}{82})     THROW75|A coat is just visible within the box. May|explode when opened	{87}{88}Vidro({81}{82})   ARREM 75|Dá para ver um casaco dentro da caixa.|Pode explodir ao abrir
+T83	{87}{88}Glass({83}{84})     THROW75|Wings are just visible within the box. May|explode when opened	{87}{88}Vidro({83}{84})   ARREM 75|Dá para ver asas dentro da caixa. Pode|explodir ao abrir
+T84	{87}{88}Music     THROW75|HP{f5}VT is recovered when opened at less|than 1/3 HP, or you lose HP{f5}VT	{87}{88}Música   ARREM 75|Recupera HP{f5}VT se aberta com menos de 1/3|de HP. Senão, você perde HP{f5}VT
+T85	{87}{88}Vulnerable     THROW75|Contains equippable items. When opened, it|may unequip your gear	{87}{88}Vulnerável   ARREM 75|Contém itens equipáveis. Ao abrir pode|desequipar seu equipamento
+T86	{87}{88}Pattern     THROW75|Contains a Pattern. When opened, all items|on the floor may become patterns	{87}{88}Padrão   ARREM 75|Contém um Padrão. Ao abrir, os itens do|andar podem virar padrões
+T87	{87}{88}Double Edged     THROW75|Always yields a sword, but your HP will be|halved	{87}{88}Dois Gumes   ARREM 75|Sempre dá uma espada, mas seu HP cai pela|metade
+T88	{87}{88}Stomachache     THROW75|You will experience abdominal pain after|opening, guaranteed to obtain an item	{87}{88}Cólica   ARREM 75|Dá cólica ao abrir, mas garante um item
+T89	{87}{88}Hungry     THROW128|Eats 1 item in your inventory. You can get|it back if the box doesn't explode	{87}{88}Faminta   ARREM 128|Come 1 item seu. Você o recupera se a|caixa não explodir
+T90	{87}{88}Laughing     THROW119|Laughs while held or opened. Grotesques|can track you by laughter	{87}{88}Risonha   ARREM 119|Ri quando carregada ou aberta. Grotescos|seguem a risada
+T91	{87}{88}Parasitic     THROW139|Converts your other items into|{87}{88}Parasitic, one by one	{87}{88}Parasita   ARREM 139|Converte seus outros itens em {87}{88}Parasita,|um por um
+T92	{87}{88}Magnificent     THROW115|Contains powerful equipment. In rare cases|it may explode when opened	{87}{88}Magnífica   ARREM 115|Contém equipamento poderoso. Em raros|casos pode explodir ao abrir
+T93	{87}{88}Trials     THROW108|1/2HP recovery rate. Number of defeated|enemies affects content. Void if placed|within a box	{87}{88}Provações   ARREM 108|Cura de HP pela metade. O conteúdo depende|dos abates. Anula-se se posta dentro de|uma caixa
+T94	{87}{88}Toy     THROW155|Dispenses items each time it is opened.|The box may break	{87}{88}Brinquedo   ARREM 155|Dá itens toda vez que é aberta. A caixa|pode quebrar
+T95	{87}{88}Evolution     THROW111|Containing fluids for evolution and|recovery. It may explode	{87}{88}Evolução   ARREM 111|Contém fluidos de evolução e cura. Pode|explodir
+T96	{89}{8a}Nutritive     |Restores all HP, VT, and cures lethargy	{89}{8a}Nutritiva|Recupera todo HP e VT e cura letargia
+T97	{89}{8a}Assault     |Raises the ATK of the equipped sword by 1	{89}{8a}Ataque|Aumenta em 1 o ATK da espada equipada
+T98	{89}{8a}Armor     |Raises the DEF of the equipped coat by 1	{89}{8a}Armadura|Aumenta em 1 a DEF do casaco equipado
+T99	{89}{8a}AD     |Raises the ATK of the equipped sword and|the DEF of the equipped coat by 1	{89}{8a}AD|Aumenta em 1 o ATK da espada e a DEF do|casaco equipados
+T100	{89}{8a}Rust     |Deteriorates the sword you have equipped	{89}{8a}Ferrugem|Desgasta a espada que você equipou
+T101	{89}{8a}Corrosive     |Deteriorates the coat you have equipped	{89}{8a}Corrosiva|Desgasta o casaco que você equipou
+T102	{89}{8a}Evolution     |Raises your LV by 1	{89}{8a}Evolução|Aumenta seu LV em 1
+T103	{89}{8a}Degeneration     |Lowers your LV by 1	{89}{8a}Degeneração|Diminui seu LV em 1
+T104	{89}{8a}Recovery A     |Fully recovers your ATK. If you do not|need recovery your ATKMAX raise by 1	{89}{8a}Cura A|Recupera todo o ATK. Se não precisar, o|ATKMAX sobe 1
+T105	{89}{8a}Recovery D     |Fully recovers your DEF. If you do not|need recovery your DEFMAX raise by 1	{89}{8a}Cura D|Recupera toda a DEF. Se não precisar, o|DEFMAX sobe 1
+T106	{89}{8a}Recovery AD     |Fully recovers your ATK{f5}DEF. If you do not|need recovery your MAX ATK{f5}DEF raise by 1	{89}{8a}Cura AD|Recupera ATK{f5}DEF. Se não precisar, o MAX|de ATK{f5}DEF sobe 1
+T107	{89}{8a}Recovery DX     |Fully restores your ATK{f5}DEF, while also|raising them by 2 each	{89}{8a}Cura DX|Recupera ATK{f5}DEF e ainda aumenta cada um|em 2
+T108	{89}{8a}Calming     |Cures confusion and lust	{89}{8a}Calmante|Cura confusão e luxúria
+T109	{89}{8a}Detox     |Cures poison and paralysis	{89}{8a}Desintox|Cura veneno e paralisia
+T110	{89}{8a}Eyeball     |Cures blindness and lust	{89}{8a}Olho|Cura cegueira e luxúria
+T111	{89}{8a}Energy     |Cures lethargy	{89}{8a}Energia|Cura letargia
+T112	{89}{8a}Special     |Cures all ailments	{89}{8a}Especial|Cura todos os males
+T113	{89}{8a}Hope     |Recovers all parameters when injected.|Repairs equipment. Removes rot	{89}{8a}Esperança|Recupera todos os atributos. Conserta|equipamento. Tira a podridão
+T114	{89}{8a}ID     |Identifies all items you are carrying	{89}{8a}ID|Identifica todos os itens que você tem
+T115	{89}{8a}Antiseptic     |Prevents decay and deterioration. It|effects equipped items, as well as flesh|and hearts	{89}{8a}Antisséptica|Evita podridão e desgaste. Vale para itens|equipados, carnes e corações
+T116	{89}{8a}Girder     |Multiplies the bones you are carrying	{89}{8a}Viga|Multiplica os ossos que você carrega
+T117	{89}{8a}Revolution     |Changes HP{f5}VT values. The current amount|and the amount depleted are reversed	{89}{8a}Revolução|Inverte o HP{f5}VT atual com o que já foi|perdido
+T118	{89}{8a}Cultivation     |Replicates any Grotesque it is thrown at.|No effect if injected	{89}{8a}Cultivo|Replica o Grotesco em que for jogada.|Injetada, não faz nada
+T119	{89}{8a}Waste Water     |Damages you if injected. Throw at a|Grotesque to raise its ATK by 3	{89}{8a}Água Suja|Injetada, causa dano. Jogue num Grotesco|para dar +3 de ATK a ele
+T120	{89}{8a}Worm     |Infests the body with a worm	{89}{8a}Verme|Infesta o corpo com um verme
+T121	{8b}{8c}Healing     THROW83|Speeds up HP recovery	{8b}{8c}Cura   ARREM 83|Acelera a cura de HP
+T122	{8b}{8c}Endurance     THROW83|Slows VT depletion by 50{99}	{8b}{8c}Resistência   ARREM 83|Reduz o gasto de VT em 50{99}
+T123	{8b}{8c}Immobility     THROW83|Prevents knockback and item theft by|Grotesques, as well as item scattering	{8b}{8c}Imobilidade   ARREM 83|Evita ser empurrado, roubo de itens por|Grotescos e itens espalhados
+T124	{8b}{8c}Prosperity     THROW83|Prevents boxes from exploding. When|opening boxes, your HP{f5}VT recover a little	{8b}{8c}Prosperidade   ARREM 83|Caixas não explodem. Ao abrir caixas,|recupera um pouco de HP{f5}VT
+T125	{8b}{8c}ID     THROW0|A brand with the ability to appraise|items. Identifies all items	{8b}{8c}ID   ARREM 0|Uma marca que avalia itens. Identifica|todos os itens
+T126	{8b}{8c}Resurrection     THROW153|Revives the user when HP is depleted. Once|resurrected becomes a {8b}{8c}Null	{8b}{8c}Ressurreição   ARREM 153|Revive você quando o HP zera. Depois, vira|uma {8b}{8c}Nula
+T127	{8b}{8c}Self     THROW133|When you die, items with a {8b}{8c}Self will be|returned to the ground	{8b}{8c}Própria   ARREM 133|Se você morrer, os itens com {8b}{8c}Própria|voltam ao chão
+T128	{8b}{8c}Throw     THROW133|Raises the distance and damage of thrown|items	{8b}{8c}Arremesso   ARREM 133|Aumenta a distância e o dano de itens|arremessados
+T129	{8b}{8c}Division     THROW113|An item you are carrying will divide each|time you descend	{8b}{8c}Divisão   ARREM 113|Um item que você carrega se divide cada|vez que desce
+T130	{8b}{8c}Null     THROW63|A brand whose effect has been used up	{8b}{8c}Nula   ARREM 63|Uma marca cujo efeito acabou
+T131	{8b}{8c}Adhesive     THROW63|Prevents items from being unequipped	{8b}{8c}Adesiva   ARREM 63|Impede que itens sejam desequipados
+T132	{8b}{8c}Erasure     THROW63|A brand that erases other brands	{8b}{8c}Apagadora   ARREM 63|Uma marca que apaga outras marcas
+T133	{8b}{8c}Storm     THROW113|Sometimes causes Grotesques to be blown|away by your punches or slashes	{8b}{8c}Tempestade   ARREM 113|Às vezes seus socos e cortes arremessam os|Grotescos longe
+T134	{8b}{8c}Guillotine     THROW113|When attacking with a sword, you make 2|consecutive slashes with each attack	{8b}{8c}Guilhotina   ARREM 113|Com a espada, você dá 2 cortes seguidos a|cada ataque
+T135	{8b}{8c}Wave     THROW113|Sometimes causes swords to release a wave|while attacking	{8b}{8c}Onda   ARREM 113|Às vezes a espada solta uma onda ao atacar
+T136	{8b}{8c}Trident     THROW113|Sometimes causes a sword to split into a|trident while attacking	{8b}{8c}Tridente   ARREM 113|Às vezes a espada se divide em tridente ao|atacar
+T137	{8b}{8c}Pattern ID     THROW113|Reveals the names of nearby Patterns	{8b}{8c}ID Padrão   ARREM 113|Revela o nome dos Padrões próximos
+T138	{8b}{8c}Explosive     THROW133|When you take damage, it will occasionally|trigger an explosion	{8b}{8c}Explosiva   ARREM 133|Ao sofrer dano, às vezes causa uma|explosão
+T139	{8b}{8c}Flameblower     THROW133|Will allow you to blow fire when you LV up	{8b}{8c}Lança-chamas   ARREM 133|Você cospe fogo ao subir de LV
+T140	{8b}{8c}Erotic     THROW133|When in lust, you will achieve MAX sword|speed and your crit rate will raise	{8b}{8c}Erótica   ARREM 133|Na luxúria, a espada fica rápida ao MAX e|os críticos aumentam
+T141	{8b}{8c}Invincibility     THROW0|Makes you invincible for a short time|after arriving on a floor	{8b}{8c}Invencível   ARREM 0|Invencível por um tempo ao chegar num|andar
+T142	{8b}{8c}Halftime     THROW0|Halves the duration of all status ailments	{8b}{8c}Meio-Tempo   ARREM 0|Corta pela metade a duração dos males
+T143	{93}{94}Explosive     |Has an explosive effect on all nearby|Grotesques	{93}{94}Explosivo|Efeito explosivo em todos os Grotescos|próximos
+T144	{93}{94}Big Bang     |Has an explosive effect on all Grotesques|in the room	{93}{94}Big Bang|Efeito explosivo em todos os Grotescos da|sala
+T145	{93}{94}Blaze     |Burns all Grotesques in the room	{93}{94}Chamas|Queima todos os Grotescos da sala
+T146	{93}{94}Freezing     |Freezes all Grotesques in the room	{93}{94}Congelante|Congela todos os Grotescos da sala
+T147	{93}{94}Thunderstorm     |Electrocutes all Grotesques in the room	{93}{94}Trovoada|Eletrocuta todos os Grotescos da sala
+T148	{93}{94}Paralysis     |Paralyzes all Grotesques in the room	{93}{94}Paralisia|Paralisa todos os Grotescos da sala
+T149	{93}{94}Confusion     |Confuses all Grotesques in the room	{93}{94}Confusão|Confunde todos os Grotescos da sala
+T150	{93}{94}Venomous     |Inflicts poison on all Grotesques in the|room	{93}{94}Venenoso|Envenena todos os Grotescos da sala
+T151	{93}{94}Darkness     |Inflicts blindness on all Grotesques in|the room	{93}{94}Escuridão|Cega todos os Grotescos da sala
+T152	{93}{94}Stomachache     |Inflicts abdominal pain on all of the|Grotesques in the room	{93}{94}Cólica|Dá cólica em todos os Grotescos da sala
+T153	{93}{94}Lust     |Inflicts lust on all of the Grotesques in|the room	{93}{94}Luxúria|Causa luxúria em todos os Grotescos da|sala
+T154	{93}{94}Lethargy     |Inflicts lethargy on all of the Grotesques|in the room	{93}{94}Letargia|Causa letargia em todos os Grotescos da|sala
+T155	{93}{94}Convergence     |Brings all Grotesques and items on the|floor to the room you are currently|occupying	{93}{94}Convergência|Traz todos os Grotescos e itens do andar|para a sala onde você está
+T156	{93}{94}Storm     |Blows away all nearby Grotesques	{93}{94}Tempestade|Arremessa longe os Grotescos próximos
+T157	{93}{94}Flying     |Sends Grotesques and items flying away to|another room	{93}{94}Voador|Manda Grotescos e itens voando para outra|sala
+T158	{93}{94}Heart     |Transforms all Grotesques in the room into|hearts	{93}{94}Coração|Transforma todos os Grotescos da sala em|corações
+T159	{93}{94}Carrion     |Transforms all Grotesques in the room into|rotting {79}{7a}. All {79}{7a} you're holding will|also rot	{93}{94}Carniça|Transforma os Grotescos da sala em {79}{7a}|podre. Suas {79}{7a} também apodrecem
+T160	{93}{94}Septic     |Spreads rot, damaging all Grotesques in|the room. Your {79}{7a} and {85}{86} will rot too	{93}{94}Séptico|Espalha podridão, ferindo os Grotescos da|sala. Suas {79}{7a} e {85}{86} também apodrecem
+T161	{93}{94}Absorption     |Absorbs HP from all Grotesques in the room	{93}{94}Absorção|Suga HP de todos os Grotescos da sala
+T162	{93}{94}Half     |Kills 1/2 of the Grotesques in the room	{93}{94}Metade|Mata 1/2 dos Grotescos da sala
+T163	{93}{94}Heal     |Heals 50HP for everyone in the room,|including Grotesques	{93}{94}Cura|Cura 50HP de todos na sala, inclusive dos|Grotescos
+T164	{93}{94}Revolution     |Inverts remaining and depleted HP{f5}VT of|all Grotesques in the room and your own	{93}{94}Revolução|Inverte o HP{f5}VT restante e perdido dos|Grotescos da sala e o seu
+T165	{93}{94}Arching     |Places the soul of a cat into the floor.|Avoid colliding with the walls	{93}{94}Arqueado|Põe a alma de um gato no chão. Evite bater|nas paredes
+T166	{93}{94}Anonymous     |A torture device with an unknown effect	{93}{94}Anônimo|Um instrumento de tortura de efeito|desconhecido
+T167	{8d}{8e}Recovery     |Recovers HP{f5}VT. Reversed, they will|decrease	{8d}{8e}Cura|Recupera HP{f5}VT. Invertido, eles diminuem
+T168	{8d}{8e}Suicide Bomb     |Explodes when stepped on. Reversed, you|can pick it up	{8d}{8e}Homem-Bomba|Explode ao ser pisado. Invertido, dá para|pegá-lo
+T169	{8d}{8e}Explosive     |Blasts the surrounding area with an|explosion. Reversed, you can pick it up	{8d}{8e}Explosivo|Explode a área ao redor. Invertido, dá|para pegá-lo
+T170	{8d}{8e}Big Bang     |Blasts the entire room with an explosion.|Reversed, you can pick it up	{8d}{8e}Big Bang|Explode a sala inteira. Invertido, dá para|pegá-lo
+T171	{8d}{8e}Blaze     |Engulfs the surrounding area in flames.|Reversed, you can pick it up	{8d}{8e}Chamas|Põe fogo na área ao redor. Invertido, dá|para pegá-lo
+T172	{8d}{8e}Freezing     |Freezes the surrounding area. Reversed,|you can pick it up	{8d}{8e}Congelante|Congela a área ao redor. Invertido, dá|para pegá-lo
+T173	{8d}{8e}Electrocution     |Electrocutes the surrounding area.|Reversed, you can pick it up	{8d}{8e}Eletrocução|Eletrocuta a área ao redor. Invertido, dá|para pegá-lo
+T174	{8d}{8e}Confusion     |Spreads confusion in the area. Reversed,|will heal it or you can pick it up	{8d}{8e}Confusão|Espalha confusão. Invertido, cura ou dá|para pegá-lo
+T175	{8d}{8e}Darkness     |Spreads darkness in the area. Reversed,|will heal it or you can pick it up	{8d}{8e}Escuridão|Espalha escuridão. Invertido, cura ou dá|para pegá-lo
+T176	{8d}{8e}Stomachache     |Spreads abdominal pain in the area.|Reversed, will heal it or you can pick it|up	{8d}{8e}Cólica|Espalha cólica. Invertido, cura ou dá para|pegá-lo
+T177	{8d}{8e}Special     |Spreads random ailments. Reversed, it will|heal any ailment or you can pick it up	{8d}{8e}Especial|Espalha males aleatórios. Invertido, cura|qualquer mal ou dá para pegá-lo
+T178	{8d}{8e}Rot     |Rot 1 of your hearts or pieces of flesh.|Reversed, it will remove rot from 1 item	{8d}{8e}Podridão|Apodrece 1 coração ou carne sua.|Invertido, tira a podridão de 1 item
+T179	{8d}{8e}Storm     |Sends anything that steps on it flying|backwards. Reversed, flying forwards	{8d}{8e}Tempestade|Joga quem pisar nele para trás. Invertido,|para a frente
+T180	{8d}{8e}Flight     |Sends anything that steps on it to another|room. Reversed, you can pick it up	{8d}{8e}Voo|Manda quem pisar nele para outra sala.|Invertido, dá para pegá-lo
+T181	{8d}{8e}Ancient     |Deteriorates equipment. Reversed, degraded|equipment will recover by 1 point	{8d}{8e}Antigo|Desgasta o equipamento. Invertido,|recupera 1 ponto do equipamento gasto
+T182	{8d}{8e}Food     |Changes an item into food. Reversed, food|will change into an item	{8d}{8e}Comida|Vira um item em comida. Invertido, comida|vira item
+T183	{8d}{8e}Dispersion     |Scatters possessions throughout the room.|The reverse performs the same function	{8d}{8e}Dispersão|Espalha seus itens pela sala. Invertido|faz o mesmo
+T184	{8d}{8e}Vanishing     |Erases 1 item when stepped on. Reversed,|an item will appear	{8d}{8e}Sumiço|Apaga 1 item ao ser pisado. Invertido, um|item aparece
+T185	{8d}{8e}Unbranding     |Brand you have applied to yourself will|disappear. Reversed, you can pick it up	{8d}{8e}Desmarcar|Some a marca que você aplicou em si.|Invertido, dá para pegá-lo
+T186	{8d}{8e}Inversion     |Reverses all patterns on the floor. The|reverse performs the same function	{8d}{8e}Inversão|Inverte todos os padrões do andar.|Invertido, faz o mesmo
+T187	{8d}{8e}HPVT     |Rises HPMAX by 5. Reversed, VTMAX is|raised by 5	{8d}{8e}HPVT|HPMAX +5. Invertido, VTMAX +5
+T188	{8d}{8e}Lust     |Spreads lust within the area. Reversed, it|will heal lust or you can pick it up	{8d}{8e}Luxúria|Espalha luxúria. Invertido, cura ou dá|para pegá-lo
+T189	{8f}{90}Stone     THROW88|Damage your teeth if you gnaw it. When|thrown, the bone will damage Grotesques	{8f}{90}Pedra   ARREM 88|Roer machuca os dentes. Arremessado, fere|Grotescos
+T190	{8f}{90}Arrow     THROW85|Damage your teeth if you gnaw it. If|thrown, damages and penetrates Grotesques	{8f}{90}Flecha   ARREM 85|Roer machuca os dentes. Arremessado, fere|e atravessa Grotescos
+T191	{8f}{90}Homing     THROW82|Damage your teeth if you gnaw it. If|thrown, tracks down and damages Grotesques	{8f}{90}Teleguiado   ARREM 82|Roer machuca os dentes. Arremessado,|persegue e fere Grotescos
+T192	{8f}{90}Burst     THROW82|Explodes and damages the surrounding area	{8f}{90}Estouro   ARREM 82|Explode e fere a área ao redor
+T193	{8f}{90}Protection     THROW82|Raises DEF against fire, ice, and|lightning. Effect disappears after a while	{8f}{90}Proteção   ARREM 82|Aumenta a DEF contra fogo, gelo e raio. O|efeito some com o tempo
+T194	{8f}{90}Experience     THROW92|Doubles EXP. The effect disappears after a|while	{8f}{90}Experiência   ARREM 92|Dobra a EXP. O efeito some com o tempo
+T195	{8f}{90}Paralysis     THROW0|Inflicts paralysis	{8f}{90}Paralisia   ARREM 0|Causa paralisia
+T196	{8f}{90}Chaos     THROW0|Inflicts confusion	{8f}{90}Caos   ARREM 0|Causa confusão
+T197	{8f}{90}Poison     THROW0|Inflicts poison	{8f}{90}Veneno   ARREM 0|Envenena
+T198	{8f}{90}Darkness     THROW0|Makes everything dark	{8f}{90}Escuridão   ARREM 0|Deixa tudo escuro
+T199	{8f}{90}Stomachache     THROW0|Inflicts stomachache	{8f}{90}Cólica   ARREM 0|Causa cólica
+T200	{8f}{90}Desire     THROW0|Inflicts lust	{8f}{90}Desejo   ARREM 0|Causa luxúria
+T201	{8f}{90}Lethargy     THROW0|Inflicts lethargy	{8f}{90}Letargia   ARREM 0|Causa letargia
+T202	{8f}{90}Rotten     THROW0|Changes Grotesques into rotten flesh when|thrown. Induces stomachache if gnawed	{8f}{90}Podre   ARREM 0|Arremessado, vira Grotescos em carne|podre. Roído, dá cólica
+T203	{8f}{90}Walking     THROW0|Causes an instantaneous warp. Doesn't work|in rooms with stairs	{8f}{90}Andarilho   ARREM 0|Teletransporta na hora. Não funciona em|salas com escada
+T204	{8f}{90}Invincibility     THROW0|Imparts invincibility. The effect|disappears after a while	{8f}{90}Invencível   ARREM 0|Dá invencibilidade. O efeito some com o|tempo
+T205	{8f}{90}Earplug     THROW92|Plugs into the ear. Sound may no longer be|heard. Effect disappears after a while	{8f}{90}Tampão   ARREM 92|Tampa o ouvido. Você pode não ouvir sons.|O efeito some com o tempo
+T206	{8f}{90}Death     THROW0|A bone that lowers HP to 1	{8f}{90}Morte   ARREM 0|Um osso que reduz o HP a 1
+T207	{8f}{90}Secretion     THROW0|Causes bodily fluids to pool at your feet|when gnawed	{8f}{90}Secreção   ARREM 0|Roído, faz fluidos do corpo vazarem a seus|pés
+T208	{8f}{90}Silver     THROW90|Blows fire when gnawed. 3 can be exchanged|by Crypt Angel for a {87}{88}Toy	{8f}{90}Prata   ARREM 90|Roído, solta fogo. O Anjo da Cripta troca|3 por uma {87}{88}Brinquedo
+T209	{8f}{90}Gold     THROW90|Massive explosion when gnawed. 1 can be|exchanged by Crypt Angel for a {87}{88}Toy	{8f}{90}Ouro   ARREM 90|Roído, explode forte. O Anjo da Cripta|troca 1 por uma {87}{88}Brinquedo
+T210	{8f}{90}Evacuation     THROW0|Gnaw this bone to return to stairs. Won't|work if you haven't found the stairs yet	{8f}{90}Evacuação   ARREM 0|Roa para voltar à escada. Não funciona se|você ainda não achou a escada
+T211	{8f}{90}ID     THROW0|You will take damage if you gnaw it. Will|identify all your items.	{8f}{90}ID   ARREM 0|Roer causa dano. Identifica todos os seus|itens.
+T212	{91}{92}Grub     THROW70|May mature while descending to the next|floor	{91}{92}Larva   ARREM 70|Pode amadurecer ao descer para o próximo|andar
+T213	{91}{92}Fire     THROW70|Bestows fire attacks when it infests you|or a sword	{91}{92}Fogo   ARREM 70|Dá ataques de fogo quando infesta você ou|uma espada
+T214	{91}{92}Ice     THROW70|Bestows ice attacks when it infests you or|a sword	{91}{92}Gelo   ARREM 70|Dá ataques de gelo quando infesta você ou|uma espada
+T215	{91}{92}Thunder     THROW70|Bestows electric attacks when it infests|you or a sword	{91}{92}Trovão   ARREM 70|Dá ataques elétricos quando infesta você|ou uma espada
+T216	{91}{92}Stamina     THROW90|Raises your HPMAX by ? when it infests you	{91}{92}Vigor   ARREM 90|HPMAX +? quando infesta você
+T217	{91}{92}Vitality     THROW90|Raises your VTMAX by ? when it infests you	{91}{92}Vitalidade   ARREM 90|VTMAX +? quando infesta você
+T218	{91}{92}Assault     THROW90|Raises your ATK by ? when it infests you	{91}{92}Ataque   ARREM 90|ATK +? quando infesta você
+T219	{91}{92}Guard     THROW90|Raises your DEF by ? when it infests you	{91}{92}Guarda   ARREM 90|DEF +? quando infesta você
+T220	{91}{92}Lucky     THROW90|Raises your luck when it infests you	{91}{92}Sortudo   ARREM 90|Aumenta sua sorte quando infesta você
+T221	{91}{92}Paralysis     THROW60|Infests you or your coat and prevents|paralysis	{91}{92}Paralisia   ARREM 60|Infesta você ou seu casaco e evita|paralisia
+T222	{91}{92}Chaos     THROW60|Infests you or your coat and prevents|confusion	{91}{92}Caos   ARREM 60|Infesta você ou seu casaco e evita|confusão
+T223	{91}{92}Poison     THROW90|Infests you or your coat and prevents|poisoning	{91}{92}Veneno   ARREM 90|Infesta você ou seu casaco e evita|envenenamento
+T224	{91}{92}Darkness     THROW60|Infests you or your coat and prevents|blindness	{91}{92}Escuridão   ARREM 60|Infesta você ou seu casaco e evita|cegueira
+T225	{91}{92}Stomachache     THROW60|Infests you or your coat and prevents|stomachache	{91}{92}Cólica   ARREM 60|Infesta você ou seu casaco e evita cólica
+T226	{91}{92}Desire     THROW60|Infests you or your coat and prevents lust	{91}{92}Desejo   ARREM 60|Infesta você ou seu casaco e evita luxúria
+T227	{91}{92}Lethargy     THROW60|Infests you or your coat and prevents|lethargy	{91}{92}Letargia   ARREM 60|Infesta você ou seu casaco e evita|letargia
+T228	{91}{92}Comet     THROW90|Infests you or your sword and raises your|ATK speed	{91}{92}Cometa   ARREM 90|Infesta você ou sua espada e aumenta a|velocidade do ataque
+T229	{91}{92}ID     THROW90|Identifies any item it infests	{91}{92}ID   ARREM 90|Identifica o item que infestar
+T230	{91}{92}Defusal     THROW81|Infests a box and prevents it from|exploding	{91}{92}Desarme   ARREM 81|Infesta uma caixa e impede que ela exploda
+T231	{91}{92}Cannibal     THROW81|Grows by eating other worms. At +11,|evolves into {91}{92}Assault/Guard	{91}{92}Canibal   ARREM 81|Cresce comendo outros vermes. No +11,|evolui para {91}{92}Ataque/Guarda
+T232	{91}{92}Feather     THROW0|Flies away with any item it infests	{91}{92}Pena   ARREM 0|Sai voando com o item que infestar
+T233	{91}{92}Resurrection     THROW25|Can revive a {91}{92}Corpse	{91}{92}Ressurreição   ARREM 25|Pode reviver um {91}{92}Cadáver
+T234	{91}{92}Corpse     THROW3|A corpse	{91}{92}Cadáver   ARREM 3|Um cadáver
+T235	{95}{96}Neck Thing     THROW120|The Idea Sefirah of Neck Thing	{95}{96}Coisa Pescoço   ARREM 120|A Ideia Sefirah da Coisa Pescoço
+T236	{95}{96}My     THROW120|Your own Idea Sefirah	{95}{96}Minha   ARREM 120|Sua própria Ideia Sefirah
+T237	{95}{96}Koriel     THROW120|The Idea Sefirah of the Koriel	{95}{96}Koriel   ARREM 120|A Ideia Sefirah de Koriel
+T238	{95}{96}Sack Thing     THROW120|The Idea Sefirah of Sack Thing	{95}{96}Coisa Saco   ARREM 120|A Ideia Sefirah da Coisa Saco
+T239	{95}{96}Littles     THROW120|The Idea Sefirah of the Littles	{95}{96}Pequeninos   ARREM 120|A Ideia Sefirah dos Pequeninos
+T240	{95}{96}Horned Woman     THROW120|The Idea Sefirah of the Horned Woman	{95}{96}Chifruda   ARREM 120|A Ideia Sefirah da Mulher Chifruda
+T241	{95}{96}Box Thing     THROW120|The Idea Sefirah of Box Thing	{95}{96}Coisa Caixa   ARREM 120|A Ideia Sefirah da Coisa Caixa
+T242	MOVIE|Logo animation	VÍDEO|Animação do logo
+T243	MOVIE   |Release for SHOP	VÍDEO|Vídeo promocional para lojas
+S0	Title demo|Nerve Tower {f6}PICNIC	Demo do título|Torre dos Nervos {f6}PICNIC
+S1	Title demo|Baroque {f6}WORDS	Demo do título|Baroque {f6}WORDS
+S2	Title demo|BAROQUE MODE	Demo do título|BAROQUE MODE
+S3	Consciousness Simulation	Simulação de Consciência
+S4	Consciousness Simulation {f6}END	Simulação de Consciência {f6}FIM
+S5	Consciousness Simulation {f7}END	Simulação de Consciência {f7}FIM
+S6	Heart of 20320514 {f6}Right	Coração de 20320514 {f6}Direita
+S7	Heart of 20320514 {f6}Left	Coração de 20320514 {f6}Esquerda
+S8	Reincarnation Crystal	Cristal da Reencarnação
+S9	Those who know no pain	Os que não conhecem a dor
+S10	Our Lord, the Profane Multiple Divinity	Nosso Senhor, a Divindade Múltipla Profana
+S11	Credits	Créditos

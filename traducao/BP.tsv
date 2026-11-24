@@ -1,0 +1,130 @@
+indice	offset	bytes	ingles	traducao
+0	0000	153	A B C D E   F G H I J   K L M N O|P Q R S T   U V W X Y   Z|a b c d e   f g h i j   k l m n o|p q r s t   u v w x y   z|0 1 2 3 4   5 6 7 8 9   + - ? ! {b0}	
+1	009a	13	Start game   	Novo jogo
+2	00a8	13	Load suspend 	Retomar
+3	00b6	13	Load arising 	Renascer
+4	00c4	13	Options      	Opções
+5	00d2	12	Ranking     	
+6	00e0	12	Scene list  	Cenas
+7	00ee	12	Items list  	Itens
+8	00fc	12	Movies      	Vídeos
+9	010a	12	Brightness  	Brilho
+10	0118	12	Settings    	Ajustes
+11	0126	20	Checking memory card	Verificando o cartão
+12	013c	24	Memory card is not found	Cartão não encontrado
+13	0156	21	Memory card is broken	Cartão danificado
+14	016c	11	Save failed	Erro ao salvar
+15	0178	13	Format failed	Erro ao formatar
+16	0186	14	Failed to load	Erro ao carregar
+17	0196	20	  No arising data   	Sem save de renascer
+18	01ac	24	System data is corrupted	Save do sistema corrompido
+19	01c6	25	Arising data is corrupted	Save de renascer corrompido
+20	01e0	20	  No suspend data   	  Sem save de pausa 
+21	01f6	25	Suspend data is corrupted	Save de pausa corrompido
+22	0210	13	Save changes?	Salvar mudanças?
+23	021e	16	System data {f6}New	Save do sistema {f6}Novo
+24	0230	74	Arising data {f7}LOAD|Resume the game from the time|of arising data recording	Save de renascer {f7}CARREGAR|Continua o jogo a partir do|momento do save de renascer
+25	027c	61	Suspend data {f7}LOAD|Suspend data will be erased|after loading!	Save de pausa {f7}CARREGAR|O save de pausa será apagado|depois de carregado!
+26	02ba	49	Saving system data|  Don't pull out|  memory card	Salvando o sistema|  Não remova o|  cartão de memória
+27	02ec	68	1 block required to create a new save|There is not enough free space	É preciso 1 bloco livre para salvar|Não há espaço suficiente
+28	0332	47	Formatting|   Memory card|   Don't pull it out!	Formatando o|   cartão de memória|   Não o remova!
+29	0362	42	No system data|Initialize default settings	Sem save do sistema|Usando as configurações padrão
+30	038e	49	Loading system data|Do not remove the memory card	Carregando o sistema|Não remova o cartão de memória
+31	03c0	54	Saved data is corrupted|Please use another|memory card	Dados salvos corrompidos|Use outro|cartão de memória
+32	03f8	56	No system data|Resume the game with|the default settings	Sem save do sistema|O jogo continua com|as configurações padrão
+33	0432	51	Loading arising data|  Don't pull out|  memory card	Carregando renascer|  Não remova o|  cartão de memória
+34	0466	51	Loading suspend data|  Don't pull out|  memory card	Carregando pausa|  Não remova o|  cartão de memória
+35	049a	55	No system data|Start the game with|the default settings	Sem save do sistema|O jogo começa com|as configurações padrão
+36	04d2	6	Memory	Cartão
+37	04da	7	Default	Padrão
+38	04e2	6	Stereo	Estéreo
+39	04ea	6	Mono  	Mono
+40	04f2	6	ON    	
+41	04fa	6	OFF   	
+42	0502	6	Custom	Pessoal
+43	050a	70	Select type with left and right keys| Press the start button to return	Escolha o tipo com esquerda/direita| Aperte START para voltar
+44	0552	113	“Baroque” doesn't end here.|You can continue to play|the game after the ending||Do you want to save arising data?	“Baroque” não acaba aqui.|Você pode continuar jogando|depois do final.||Deseja gravar o save de renascer?
+45	05c4	31	Save and go to the title screen	Salvar e ir para a tela título
+46	05e4	37	Go to the title screen without saving	Ir para a tela título sem salvar
+47	060a	36	Suspend data {f6}SAVE|System data {f6}SAVE	Save de pausa {f6}SALVAR|Save do sistema {f6}SALVAR
+48	0630	35	Arising data {f6}SAVE|System data {f6}New	Save de renascer {f6}SALVAR|Save do sistema {f6}Novo
+49	0654	35	Arising data {f6}New|System data {f6}SAVE	Save de renascer {f6}Novo|Save do sistema {f6}SALVAR
+50	0678	34	Arising data {f6}New|System data {f6}New	Save de renascer {f6}Novo|Save do sistema {f6}Novo
+51	069c	3	OK 	
+52	06a0	6	CANCEL	VOLTAR
+53	06a8	45	Saving arising data|Do not remove memory card	Salvando o renascer|Não remova o cartão
+54	06d6	44	Saving system data|Do not remove memory card	Salvando o sistema|Não remova o cartão
+55	0704	49	No system data|Do you want to create system data?	Sem save do sistema|Deseja criar o save do sistema?
+56	0736	63	If there is no system data|Ranking etc. are not saved|Is it OK?	Sem o save do sistema|o ranking etc. não é salvo|Tudo bem?
+57	0776	28	Memory card is not formatted	Cartão de memória não formatado
+58	0794	6	Format	Formatar
+59	079c	13	Do not format	Não formatar
+60	07aa	60	Would you like to exit the game|without saving arising data?	Deseja sair do jogo|sem salvar o renascer?
+61	07e8	69	2 blocks required|to create a new save|There is not enough|free space	São necessários 2 blocos|para criar um save|Não há espaço|suficiente
+62	082e	12	Attk/Confirm	Atacar/OK
+63	083c	12	Item/Confirm	Item/OK
+64	084a	12	Cancel      	Cancelar
+65	0858	12	Minimap     	Minimapa
+66	0866	12	Sort items  	Ordenar itens
+67	0874	6	A Type	Tipo A
+68	087c	6	B Type	Tipo B
+69	0884	6	C Type	Tipo C
+70	088c	19	 {9c}{9d}| {9a}{9b}| ><| ><| {9e}{9f}	
+71	08a0	19	 {9c}{9d}| {9a}{9b}| ><| {9e}{9f}| {9e}{9f}	
+72	08b4	19	 {9a}{9b}| {9c}{9d}| ><| {9e}{9f}| {9e}{9f}	
+73	08c8	10	Cursor    	
+74	08d4	10	Audio     	Áudio
+75	08e0	10	BGM Volume	Música
+76	08ec	10	SFX Volume	Efeitos
+77	08f8	10	Controller	Controle
+78	0904	10	Vibration 	Vibração
+79	0910	107	ABCDE FGHIJ KLMNO|PQRST UVWXY Z    |abcde fghij klmno|pqrst uvwxy z    |01234 56789 +-?!{b0}|                 	
+80	097c	1	{b9}	
+81	097e	1	{b8}	
+82	0980	3	End	Fim
+83	0984	1	 	
+84	0986	1	{76}	
+85	0988	8	 MISSING	
+86	0991	7	MISSING	
+87	0999	7	MISSING	
+88	09a1	7	MISSING	
+89	09a9	7	MISSING	
+90	09b1	7	MISSING	
+91	09b9	7	MISSING	
+92	09c1	7	MISSING	
+93	09c9	7	MISSING	
+94	09d1	7	MISSING	
+95	09d9	7	MISSING	
+96	09e1	7	MISSING	
+97	09e9	7	MISSING	
+98	09f1	7	MISSING	
+99	09f9	7	MISSING	
+100	0a01	7	MISSING	
+101	0a09	7	MISSING	
+102	0a11	7	MISSING	
+103	0a19	7	MISSING	
+104	0a21	7	MISSING	
+105	0a29	7	MISSING	
+106	0a31	7	MISSING	
+107	0a39	7	MISSING	
+108	0a41	7	MISSING	
+109	0a49	7	MISSING	
+110	0a51	7	MISSING	
+111	0a59	7	MISSING	
+112	0a61	7	MISSING	
+113	0a69	7	MISSING	
+114	0a71	7	MISSING	
+115	0a79	7	MISSING	
+116	0a81	7	MISSING	
+117	0a89	7	MISSING	
+118	0a91	7	MISSING	
+119	0a99	7	MISSING	
+120	0aa1	7	MISSING	
+121	0aa9	7	MISSING	
+122	0ab1	7	MISSING	
+123	0ab9	7	MISSING	
+124	0ac1	7	MISSING	
+125	0ac9	7	MISSING	
+126	0ad1	7	MISSING	
+127	0ad9	7	MISSING	
+128	0ae2	2	  	

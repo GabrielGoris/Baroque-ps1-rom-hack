@@ -1,0 +1,1148 @@
+indice	offset	bytes	ingles	traducao
+0	0000	3	 LV	
+1	0004	2	HP	
+2	0008	2	VT	
+3	000c	5	HP{b0}VT	
+4	0012	3	ATK	
+5	0016	3	DEF	
+6	001a	7	ATK{b0}DEF	
+7	0022	3	MAX	
+8	0026	1	 	
+9	0028	10	Invincible	Invencível
+10	0034	14	 matured into 	 virou 
+11	0044	16	 converted into 	 se converteu em 
+12	0056	10	{7f}{80}Pathetic	{7f}{80}Patética
+13	0062	22	A truly pathetic|sword	Uma espada|realmente patética
+14	007a	14	{7f}{80}Purification	{7f}{80}Purificação
+15	008a	13	A basic sword	Uma espada comum
+16	0098	15	{7f}{80}Sterilization	{7f}{80}Esterilização
+17	00a8	29	A considerably|powerful sword	Uma espada bastante|poderosa
+18	00c6	13	{7f}{80}Eradication	{7f}{80}Erradicação
+19	00d4	23	A hugely powerful|sword	Uma espada|imensamente poderosa
+20	00ec	11	{7f}{80}Cremation	{7f}{80}Cremação
+21	00f8	22	A fire attribute|sword	Uma espada do|elemento fogo
+22	0110	14	{7f}{80}Cryosurgical	{7f}{80}Criocirúrgica
+23	0120	22	An ice attribute|sword	Uma espada do|elemento gelo
+24	0138	9	{7f}{80}Thunder	{7f}{80}Trovão
+25	0142	27	A lightning|attribute sword	Uma espada do|elemento raio
+26	015e	9	{7f}{80}Stamina	{7f}{80}Vigor
+27	0168	22	Raises your HPMAX by|{fc}	Aumenta seu HPMAX|em {fc}
+28	0180	10	{7f}{80}Vitality	{7f}{80}Vitalidade
+29	018c	22	Raises your VTMAX by|{fc}	Aumenta seu VTMAX|em {fc}
+30	01a4	10	{7f}{80}Guardian	{7f}{80}Guardiã
+31	01b0	20	Raises your DEF by {fc}	Aumenta a DEF em {fc}
+32	01c6	7	{7f}{80}Lucky	{7f}{80}Sortuda
+33	01ce	37	Makes it easier to|land critical hits	Facilita acertar|golpes críticos
+34	01f4	9	{7f}{80}Unlucky	{7f}{80}Azarada
+35	01fe	37	Makes it harder to|land critical hits	Dificulta acertar|golpes críticos
+36	0224	7	{7f}{80}Storm	{7f}{80}Tempestade
+37	022c	51	Sometimes sends|enemies flying when|it deals damage	Às vezes arremessa|inimigos longe ao|causar dano
+38	0260	7	{7f}{80}Comet	{7f}{80}Cometa
+39	0268	34	A sword that attacks|at high speed	Uma espada que ataca|em alta velocidade
+40	028c	12	{7f}{80}Guillotine	{7f}{80}Guilhotina
+41	029a	31	A sword that cuts 2{97}|per attack	Uma espada que corta|2{97} por ataque
+42	02ba	6	{7f}{80}Wave	{7f}{80}Onda
+43	02c2	53	A sword that|sometimes attacks|with a long-range|wave	Uma espada que às|vezes ataca com uma|onda de longo|alcance
+44	02f8	9	{7f}{80}Trident	{7f}{80}Tridente
+45	0302	51	A sword that|sometimes strikes 3{97}|with single swing	Uma espada que às|vezes golpeia 3{97}|num só golpe
+46	0336	5	{7f}{80}Old	{7f}{80}Velha
+47	033c	43	A sword that gets|weaker every time it|hits	Uma espada que fica|mais fraca a cada|golpe
+48	0368	6	{7f}{80}Twin	{7f}{80}Gêmea
+49	0370	31	Up to 2 can be|equipped at once	Até 2 podem ser|equipadas ao mesmo|tempo
+50	0390	14	{7f}{80}Intervention	{7f}{80}Intervenção
+51	03a0	49	A sword that grows|in power as your HP|gets lower	Uma espada que fica|mais forte quanto|menor for seu HP
+52	03d2	11	{7f}{80}Explosive	{7f}{80}Explosiva
+53	03de	59	A sword that deals|explosive fire|damage. Slow attack|speed	Espada que causa|dano explosivo de|fogo. Ataca devagar
+54	041a	14	{7f}{80}Heaven{f5}Earth	{7f}{80}Céu{f5}Terra
+55	042a	64	Powerful when it|hits. It is|difficult to use,|misses frequently	Poderosa quando|acerta. Difícil de|usar, erra com|frequência
+56	046c	14	{7f}{80}Fallen Angel	{7f}{80}Anjo Caído
+57	047c	58	An unusually strong|sword. Takes 5|damage with every|swing	Espada fortíssima.|Você sofre 5 de|dano a cada golpe
+58	04b8	12	{7f}{80}Absorption	{7f}{80}Absorção
+59	04c6	62	Leeches HP from|Grotesques. In rare|cases, may become|stronger	Suga HP dos|Grotescos. Em raros|casos, pode ficar|mais forte
+60	0506	8	{7f}{80}Growth	{7f}{80}Crescimento
+61	0510	87	Becomes more|powerful with every|floor, but EXP1/4|while equipped.|Resets if unequipped	Fica mais forte a|cada andar, mas EXP|1/4 se equipada.|Reinicia se for|desequipada
+62	0568	7	{7f}{80}Glass	{7f}{80}Vidro
+63	0570	71	Frequently lands|critical hits, will|break if you descend|or unequip it	Acerta críticos com|frequência. Quebra|se descer ou|desequipar
+64	05b8	6	{7f}{80}Rose	{7f}{80}Rosa
+65	05c0	53	Sometimes paralyzes|Grotesques, may also|paralyze you	Às vezes paralisa|Grotescos, mas pode|paralisar você
+66	05f6	11	{7f}{80}Distorted	{7f}{80}Distorcida
+67	0602	37	Capable of attacking|with great power	Capaz de atacar|com grande força
+68	0628	14	{7f}{80}Triple Facet	{7f}{80}Três Faces
+69	0638	50	Possessing 3|attributes{fa19} fire,|ice, and lightning	Tem 3 elementos{fa19}|fogo, gelo e raio
+70	066c	9	{7d}{7e}Angelic	{7d}{7e}Angelical
+71	0676	53	Consigns Grotesques|to oblivion with|tremendous force	Manda os Grotescos|ao esquecimento com|força tremenda
+72	06ac	10	{81}{82}Pathetic	{81}{82}Patético
+73	06b8	13	A flimsy coat	Um casaco frágil
+74	06c6	6	{81}{82}Pelt	{81}{82}Pele
+75	06ce	12	A basic coat	Um casaco comum
+76	06dc	7	{81}{82}Beast	{81}{82}Fera
+77	06e4	34	Made from the pelt|of a wild beast	Feito com a pele de|um animal selvagem
+78	0708	14	{81}{82}Nonflammable	{81}{82}Antichamas
+79	0718	25	Resistant to fire|attacks	Resistente a|ataques de fogo
+80	0732	12	{81}{82}Insulating	{81}{82}Isolante
+81	0740	24	Resistant to ice|attacks	Resistente a|ataques de gelo
+82	075a	11	{81}{82}Grounding	{81}{82}Aterrado
+83	0766	29	Resistant to|electric attacks	Resistente a|ataques elétricos
+84	0784	9	{81}{82}Stamina	{81}{82}Vigor
+85	078e	17	Raises HPMAX by {fc}	Aumenta HPMAX em {fc}
+86	07a0	10	{81}{82}Vitality	{81}{82}Vitalidade
+87	07ac	17	Raises VTMAX by {fc}	Aumenta VTMAX em {fc}
+88	07be	4	{81}{82}AD	{81}{82}AD
+89	07c4	15	Raises ATK by {fc}	Aumenta ATK em {fc}
+90	07d4	7	{81}{82}Lucky	{81}{82}Sortudo
+91	07dc	37	Makes it easier to|land critical hits	Facilita acertar|golpes críticos
+92	0802	9	{81}{82}Unlucky	{81}{82}Azarado
+93	080c	37	Makes it harder to|land critical hits	Dificulta acertar|golpes críticos
+94	0832	15	{81}{82}Uncomfortable	{81}{82}Incômodo
+95	0842	47	High defense. VT|decreases faster|when equipped	Defesa alta. O VT|cai mais rápido|quando equipado
+96	0872	5	{81}{82}Old	{81}{82}Velho
+97	0878	37	Loses 1 DEF each|time damage is taken	Perde 1 de DEF cada|vez que sofre dano
+98	089e	10	{81}{82}Exposure	{81}{82}Exposição
+99	08aa	69	Powerful, but you|feel the urge to|take it off in front|of Grotesques	Forte, mas dá|vontade de tirá-lo|na frente dos|Grotescos
+100	08f0	8	{81}{82}Growth	{81}{82}Crescimento
+101	08fa	79	Becomes stronger|with every floor you|descend, but EXP1/4.|Resets if unequipped	Fica mais forte a|cada andar que você|desce, mas EXP 1/4.|Reinicia se for|desequipado
+102	094a	10	{81}{82}Stubborn	{81}{82}Teimoso
+103	0956	72	Cannot be removed|once equipped. DEF{97}2|when equipped with|Stubborn Wings	Não sai depois de|equipado. DEF{97}2 se|usado com as Asas|Teimosas
+104	09a0	11	{81}{82}Distorted	{81}{82}Distorcido
+105	09ac	59	Prevents all|ailments except for|stomachaches and|confusion	Evita todos os males|exceto cólica e|confusão
+106	09e8	7	{81}{82}Glass	{81}{82}Vidro
+107	09f0	74	A highly protective|coat, descending or|unequipping will|cause it to break	Casaco muito|protetor. Quebra se|descer ou|desequipar
+108	0a3c	14	{81}{82}Triple Facet	{81}{82}Três Faces
+109	0a4c	44	Resistant to fire,|ice, and electric|attacks	Resiste a ataques|de fogo, gelo e|eletricidade
+110	0a7a	10	{83}{84}Enduring	{83}{84}Duradouras
+111	0a86	24	Slow VT depletion by|25{99}	Reduz o gasto de VT|em 25{99}
+112	0aa0	9	{83}{84}Assault	{83}{84}Ataque
+113	0aaa	15	Raises ATK by {fc}	Aumenta ATK em {fc}
+114	0aba	9	{83}{84}Defense	{83}{84}Defesa
+115	0ac4	15	Raises DEF by {fc}	Aumenta DEF em {fc}
+116	0ad4	7	{83}{84}Lucky	{83}{84}Sortudas
+117	0adc	37	Raises the frequency|of critical hits	Aumenta a chance de|golpes críticos
+118	0b02	6	{83}{84}Hope	{83}{84}Esperança
+119	0b0a	38	Raises MAXHP, MAXVT,|ATK, and DEF by {fc}	Aumenta MAXHP, MAXVT|ATK e DEF em {fc}
+120	0b32	12	{83}{84}Experience	{83}{84}Experiência
+121	0b40	42	Grants +20EXP for|every Grotesque|defeated	Dá +20EXP por cada|Grotesco derrotado
+122	0b6c	11	{83}{84}Paralysis	{83}{84}Paralisia
+123	0b78	18	Prevents paralysis	Evita paralisia
+124	0b8c	8	{83}{84}Serene	{83}{84}Serenas
+125	0b96	27	Prevents confusion|and lust	Evita confusão e|luxúria
+126	0bb2	11	{83}{84}Antitoxin	{83}{84}Antitoxina
+127	0bbe	29	Prevents poison and|paralysis	Evita veneno e|paralisia
+128	0bdc	9	{83}{84}Eyeball	{83}{84}Olho
+129	0be6	27	Prevents blindness|and lust	Evita cegueira e|luxúria
+130	0c02	9	{83}{84}Special	{83}{84}Especiais
+131	0c0c	45	Prevents all|ailments, except for|stomachache	Evita todos os males|menos cólica
+132	0c3a	10	{83}{84}Stubborn	{83}{84}Teimosas
+133	0c46	62	Cannot be|unequipped. DEF{97}2|when equipped with a|Stubborn Coat	Não podem ser|retiradas. DEF{97}2|com o Casaco|Teimoso
+134	0c86	7	{83}{84}Glass	{83}{84}Vidro
+135	0c8e	61	Recovers VT.|Descending or|unequipping will|cause it to break	Recupera VT.|Quebram se descer|ou desequipar
+136	0ccc	6	{85}{86}Seed	{85}{86}Semente
+137	0cd4	59	Restores {fc} VT.|Raises VTMAX by 10|if eaten while VT is|full	Recupera {fc} VT.|VTMAX +10 se comido|com o VT cheio
+138	0d10	7	{85}{86}Fruit	{85}{86}Fruto
+139	0d18	61	Restores all VT.|Raises VTMAX by 25|if eaten while VT is|full	Recupera todo o VT.|VTMAX +25 se comido|com o VT cheio
+140	0d56	7	{85}{86}Burnt	{85}{86}Queimado
+141	0d5e	56	Burnt to a crisp. VT|is fully restored,|but HP is halved	Torrado. Recupera|todo o VT, mas o HP|cai pela metade
+142	0d98	7	{79}{7a}Idiot	{79}{7a}Idiota
+143	0da0	61	Restores {fc} HP.|Increases HPMAX by 8|if eaten while HP is|full	Recupera {fc} HP.|HPMAX +8 se comida|com o HP cheio
+144	0dde	9	{79}{7a}Average	{79}{7a}Mediana
+145	0de8	62	Restores {fc} HP.|Increases HPMAX by|12 if eaten while HP|is full	Recupera {fc} HP.|HPMAX +12 se comida|com o HP cheio
+146	0e28	8	{79}{7a}Genius	{79}{7a}Genial
+147	0e32	64	Restores all HP.|Increases HPMAX by|25 if eaten while HP|is full	Recupera todo o HP.|HPMAX +25 se comida|com o HP cheio
+148	0e74	9	{79}{7a}Grilled	{79}{7a}Grelhada
+149	0e7e	78	Overcooked flesh|that has burned to a|crisp. Recovers all|HP, reduces VT by 50	Carne cozida demais,|torrada. Recupera|todo o HP, mas tira|50 de VT
+150	0ece	7	{87}{88}Empty	{87}{88}Vazia
+151	0ed6	25	A box with nothing|inside	Uma caixa sem nada|dentro
+152	0ef0	10	{87}{88}Recovery	{87}{88}Recuperação
+153	0efc	59	Recovers HP. The|amount it recovers|is unknown until|opened	Recupera HP. A|quantia só é|conhecida ao abrir
+154	0f38	6	{87}{88}Hope	{87}{88}Esperança
+155	0f40	55	Containing something|wonderful. May|explode when opened	Contém algo|maravilhoso. Pode|explodir ao abrir
+156	0f78	6	{87}{88}Twin	{87}{88}Gêmea
+157	0f80	27	Can be opened if you|have 2	Só abre se você|tiver 2
+158	0f9c	10	{87}{88}Stubborn	{87}{88}Teimosa
+159	0fa8	73	Opens when your ATK|is 30 or more.|Invincibility and|erasure items inside	Abre com ATK 30 ou|mais. Tem itens de|invencibilidade e|apagamento
+160	0ff2	12	{87}{88}Additional	{87}{88}Adicional
+161	1000	60	Contains the item|you last obtained|prior to opening the|box	Contém o último|item que você pegou|antes de abri-la
+162	103e	12	{87}{88}Don't Have	{87}{88}Não Tenho
+163	104c	31	Contains an item you|don't have	Contém um item que|você não tem
+164	106c	11	{87}{88}Uncertain	{87}{88}Incerta
+165	1078	55	Contains standard|items. May rarely|explode when opened	Contém itens comuns.|Raramente pode|explodir ao abrir
+166	10b0	7	{87}{88}Flesh	{87}{88}Carne
+167	10b8	46	Contains flesh. May|rarely explode when|opened	Contém carne. Pode|explodir ao abrir,|mas é raro
+168	10e8	5	{87}{88}Box	{87}{88}Caixa
+169	10ee	46	Contains a box. May|rarely explode when|opened	Contém uma caixa.|Pode explodir ao|abrir, mas é raro
+170	111e	7	{87}{88}Blast	{87}{88}Explosão
+171	1126	71	Contains explosives.|Handle with care, it|may cause a massive|explosion	Contém explosivos.|Cuidado, pode causar|uma explosão enorme
+172	116e	12	{87}{88}Revolution	{87}{88}Revolução
+173	117c	50	Contains revolution|items. May explode|when opened	Contém itens de|revolução. Pode|explodir ao abrir
+174	11b0	7	{87}{88}Glass	{87}{88}Vidro
+175	11b8	63	A sword is just|visible within the|box. May explode|when opened	Dá para ver uma|espada lá dentro.|Pode explodir ao|abrir
+176	11f8	62	A coat is just|visible within the|box. May explode|when opened	Dá para ver um|casaco lá dentro.|Pode explodir ao|abrir
+177	1238	62	Wings are just|visible within the|box. May explode|when opened	Dá para ver asas|lá dentro. Pode|explodir ao abrir
+178	1278	7	{87}{88}Music	{87}{88}Música
+179	1280	69	HP{f5}VT is recovered|when opened at less|than 1/3 HP, or you|lose HP{f5}VT	Recupera HP{f5}VT se|aberta com menos de|1/3 de HP. Senão,|você perde HP{f5}VT
+180	12c6	12	{87}{88}Vulnerable	{87}{88}Vulnerável
+181	12d4	64	Contains equippable|items. When opened,|it may unequip your|gear	Contém itens|equipáveis. Ao abrir|pode desequipar seu|equipamento
+182	1316	9	{87}{88}Pattern	{87}{88}Padrão
+183	1320	75	Contains a Pattern.|When opened, all|items on the floor|may become patterns	Contém um Padrão. Ao|abrir, os itens do|andar podem virar|padrões
+184	136c	14	{87}{88}Double Edged	{87}{88}Dois Gumes
+185	137c	49	Always yields a|sword, but your HP|will be halved	Sempre dá uma|espada, mas seu HP|cai pela metade
+186	13ae	13	{87}{88}Stomachache	{87}{88}Cólica
+187	13bc	78	You will experience|abdominal pain after|opening, guaranteed|to obtain an item	Dá cólica ao abrir,|mas garante um item
+188	140c	8	{87}{88}Hungry	{87}{88}Faminta
+189	1416	77	Eats 1 item in your|inventory. You can|get it back if the|box doesn't explode	Come 1 item seu.|Você o recupera se|a caixa não|explodir
+190	1464	10	{87}{88}Laughing	{87}{88}Risonha
+191	1470	65	Laughs while held or|opened. Grotesques|can track you by|laughter	Ri quando carregada|ou aberta. Grotescos|seguem a risada
+192	14b2	11	{87}{88}Parasitic	{87}{88}Parasita
+193	14be	54	Converts your other|items into|{87}{88}Parasitic, one by|one	Converte seus outros|itens em {87}{88}Parasita,|um por um
+194	14f6	13	{87}{88}Magnificent	{87}{88}Magnífica
+195	1504	69	Contains powerful|equipment. In rare|cases it may explode|when opened	Contém equipamento|poderoso. Em raros|casos pode explodir|ao abrir
+196	154a	8	{87}{88}Trials	{87}{88}Provações
+197	1554	92	1/2HP recovery rate.|Number of defeated|enemies affects|content. Void if|placed within a box	Cura de HP pela|metade. O conteúdo|depende dos abates.|Anula-se se posta|dentro de uma caixa
+198	15b2	5	{87}{88}Toy	{87}{88}Brinquedo
+199	15b8	57	Dispenses items each|time it is opened.|The box may break	Dá itens toda vez|que é aberta. A|caixa pode quebrar
+200	15f2	11	{87}{88}Evolution	{87}{88}Evolução
+201	15fe	60	Containing fluids|for evolution and|recovery. It may|explode	Contém fluidos de|evolução e cura.|Pode explodir
+202	163c	11	{89}{8a}Nutritive	{89}{8a}Nutritiva
+203	1648	39	Restores all HP, VT,|and cures lethargy	Recupera todo HP e|VT e cura letargia
+204	1670	9	{89}{8a}Assault	{89}{8a}Ataque
+205	167a	41	Raises the ATK of|the equipped sword|by 1	Aumenta em 1 o ATK|da espada equipada
+206	16a4	7	{89}{8a}Armor	{89}{8a}Armadura
+207	16ac	40	Raises the DEF of|the equipped coat by|1	Aumenta em 1 a DEF|do casaco equipado
+208	16d6	4	{89}{8a}AD	{89}{8a}AD
+209	16dc	74	Raises the ATK of|the equipped sword|and the DEF of the|equipped coat by 1	Aumenta em 1 o ATK|da espada e a DEF do|casaco equipados
+210	1728	6	{89}{8a}Rust	{89}{8a}Ferrugem
+211	1730	40	Deteriorates the|sword you have|equipped	Desgasta a espada|que você equipou
+212	175a	11	{89}{8a}Corrosive	{89}{8a}Corrosiva
+213	1766	39	Deteriorates the|coat you have|equipped	Desgasta o casaco|que você equipou
+214	178e	11	{89}{8a}Evolution	{89}{8a}Evolução
+215	179a	19	Raises your LV by 1	Aumenta seu LV em 1
+216	17ae	14	{89}{8a}Degeneration	{89}{8a}Degeneração
+217	17be	19	Lowers your LV by 1	Diminui seu LV em 1
+218	17d2	12	{89}{8a}Recovery A	{89}{8a}Cura A
+219	17e0	75	Fully recovers your|ATK. If you do not|need recovery your|ATKMAX raise by 1	Recupera todo o ATK.|Se não precisar, o|ATKMAX sobe 1
+220	182c	12	{89}{8a}Recovery D	{89}{8a}Cura D
+221	183a	75	Fully recovers your|DEF. If you do not|need recovery your|DEFMAX raise by 1	Recupera toda a DEF.|Se não precisar, o|DEFMAX sobe 1
+222	1886	13	{89}{8a}Recovery AD	{89}{8a}Cura AD
+223	1894	84	Fully recovers your|ATK{f5}DEF. If you do|not need recovery|your MAX ATK{f5}DEF|raise by 1	Recupera ATK{f5}DEF.|Se não precisar, o|MAX de ATK{f5}DEF|sobe 1
+224	18ea	13	{89}{8a}Recovery DX	{89}{8a}Cura DX
+225	18f8	62	Fully restores your|ATK{f5}DEF, while also|raising them by 2|each	Recupera ATK{f5}DEF|e ainda aumenta|cada um em 2
+226	1938	9	{89}{8a}Calming	{89}{8a}Calmante
+227	1942	24	Cures confusion and|lust	Cura confusão e|luxúria
+228	195c	7	{89}{8a}Detox	{89}{8a}Desintox
+229	1964	26	Cures poison and|paralysis	Cura veneno e|paralisia
+230	1980	9	{89}{8a}Eyeball	{89}{8a}Olho
+231	198a	24	Cures blindness and|lust	Cura cegueira e|luxúria
+232	19a4	8	{89}{8a}Energy	{89}{8a}Energia
+233	19ae	14	Cures lethargy	Cura letargia
+234	19be	9	{89}{8a}Special	{89}{8a}Especial
+235	19c8	18	Cures all ailments	Cura todos os males
+236	19dc	6	{89}{8a}Hope	{89}{8a}Esperança
+237	19e4	69	Recovers all|parameters when|injected. Repairs|equipment. Removes|rot	Recupera todos os|atributos. Conserta|equipamento. Tira a|podridão
+238	1a2a	4	{89}{8a}ID	{89}{8a}ID
+239	1a30	37	Identifies all items|you are carrying	Identifica todos os|itens que você tem
+240	1a56	12	{89}{8a}Antiseptic	{89}{8a}Antisséptica
+241	1a64	88	Prevents decay and|deterioration. It|effects equipped|items, as well as|flesh and hearts	Evita podridão e|desgaste. Vale para|itens equipados,|carnes e corações
+242	1abe	8	{89}{8a}Girder	{89}{8a}Viga
+243	1ac8	37	Multiplies the bones|you are carrying	Multiplica os ossos|que você carrega
+244	1aee	12	{89}{8a}Revolution	{89}{8a}Revolução
+245	1afc	77	Changes HP{f5}VT|values. The current|amount and the|amount depleted are|reversed	Inverte o HP{f5}VT|atual com o que|já foi perdido
+246	1b4a	13	{89}{8a}Cultivation	{89}{8a}Cultivo
+247	1b58	63	Replicates any|Grotesque it is|thrown at. No effect|if injected	Replica o Grotesco|em que for jogada.|Injetada, não faz|nada
+248	1b98	13	{89}{8a}Waste Water	{89}{8a}Água Suja
+249	1ba6	67	Damages you if|injected. Throw at a|Grotesque to raise|its ATK by 3	Injetada, causa|dano. Jogue num|Grotesco para dar|+3 de ATK a ele
+250	1bea	6	{89}{8a}Worm	{89}{8a}Verme
+251	1bf2	28	Infests the body|with a worm	Infesta o corpo com|um verme
+252	1c10	9	{8b}{8c}Healing	{8b}{8c}Cura
+253	1c1a	21	Speeds up HP|recovery	Acelera a cura de HP
+254	1c30	11	{8b}{8c}Endurance	{8b}{8c}Resistência
+255	1c3c	25	Slows VT depletion|by 50{99}	Reduz o gasto de VT|em 50{99}
+256	1c56	12	{8b}{8c}Immobility	{8b}{8c}Imobilidade
+257	1c64	75	Prevents knockback|and item theft by|Grotesques, as well|as item scattering	Evita ser empurrado,|roubo de itens por|Grotescos e itens|espalhados
+258	1cb0	12	{8b}{8c}Prosperity	{8b}{8c}Prosperidade
+259	1cbe	78	Prevents boxes from|exploding. When|opening boxes, your|HP{f5}VT recover a|little	Caixas não explodem.|Ao abrir caixas,|recupera um pouco|de HP{f5}VT
+260	1d0e	4	{8b}{8c}ID	{8b}{8c}ID
+261	1d14	64	A brand with the|ability to appraise|items. Identifies|all items	Uma marca que avalia|itens. Identifica|todos os itens
+262	1d56	14	{8b}{8c}Resurrection	{8b}{8c}Ressurreição
+263	1d66	71	Revives the user|when HP is depleted.|Once resurrected|becomes a {8b}{8c}Null	Revive você quando o|HP zera. Depois,|vira uma {8b}{8c}Nula
+264	1dae	6	{8b}{8c}Self	{8b}{8c}Própria
+265	1db6	64	When you die, items|with a {8b}{8c}Self will|be returned to the|ground	Se você morrer, os|itens com {8b}{8c}Própria|voltam ao chão
+266	1df8	7	{8b}{8c}Throw	{8b}{8c}Arremesso
+267	1e00	46	Raises the distance|and damage of thrown|items	Aumenta a distância|e o dano de itens|arremessados
+268	1e30	10	{8b}{8c}Division	{8b}{8c}Divisão
+269	1e3c	58	An item you are|carrying will divide|each time you|descend	Um item que você|carrega se divide|cada vez que desce
+270	1e78	6	{8b}{8c}Null	{8b}{8c}Nula
+271	1e80	37	A brand whose effect|has been used up	Uma marca cujo|efeito acabou
+272	1ea6	10	{8b}{8c}Adhesive	{8b}{8c}Adesiva
+273	1eb2	36	Prevents items from|being unequipped	Impede que itens|sejam desequipados
+274	1ed8	9	{8b}{8c}Erasure	{8b}{8c}Apagadora
+275	1ee2	32	A brand that erases|other brands	Uma marca que apaga|outras marcas
+276	1f04	7	{8b}{8c}Storm	{8b}{8c}Tempestade
+277	1f0c	71	Sometimes causes|Grotesques to be|blown away by your|punches or slashes	Às vezes seus socos|e cortes arremessam|os Grotescos longe
+278	1f54	12	{8b}{8c}Guillotine	{8b}{8c}Guilhotina
+279	1f62	76	When attacking with|a sword, you make 2|consecutive slashes|with each attack	Com a espada, você|dá 2 cortes|seguidos a cada|ataque
+280	1fb0	6	{8b}{8c}Wave	{8b}{8c}Onda
+281	1fb8	57	Sometimes causes|swords to release a|wave while attacking	Às vezes a espada|solta uma onda ao|atacar
+282	1ff2	9	{8b}{8c}Trident	{8b}{8c}Tridente
+283	1ffc	64	Sometimes causes a|sword to split into|a trident while|attacking	Às vezes a espada se|divide em tridente|ao atacar
+284	203e	12	{8b}{8c}Pattern ID	{8b}{8c}ID Padrão
+285	204c	36	Reveals the names of|nearby Patterns	Revela o nome dos|Padrões próximos
+286	2072	11	{8b}{8c}Explosive	{8b}{8c}Explosiva
+287	207e	63	When you take|damage, it will|occasionally trigger|an explosion	Ao sofrer dano, às|vezes causa uma|explosão
+288	20be	13	{8b}{8c}Flameblower	{8b}{8c}Lança-chamas
+289	20cc	42	Will allow you to|blow fire when you|LV up	Você cospe fogo ao|subir de LV
+290	20f8	8	{8b}{8c}Erotic	{8b}{8c}Erótica
+291	2102	76	When in lust, you|will achieve MAX|sword speed and your|crit rate will raise	Na luxúria, a|espada fica rápida|ao MAX e os críticos|aumentam
+292	2150	15	{8b}{8c}Invincibility	{8b}{8c}Invencível
+293	2160	63	Makes you invincible|for a short time|after arriving on a|floor	Invencível por um|tempo ao chegar|num andar
+294	21a0	10	{8b}{8c}Halftime	{8b}{8c}Meio-Tempo
+295	21ac	42	Halves the duration|of all status|ailments	Corta pela metade a|duração dos males
+296	21d8	11	{93}{94}Explosive	{93}{94}Explosivo
+297	21e4	48	Has an explosive|effect on all nearby|Grotesques	Efeito explosivo em|todos os Grotescos|próximos
+298	2216	10	{93}{94}Big Bang	{93}{94}Big Bang
+299	2222	53	Has an explosive|effect on all|Grotesques in the|room	Efeito explosivo em|todos os Grotescos|da sala
+300	2258	7	{93}{94}Blaze	{93}{94}Chamas
+301	2260	32	Burns all Grotesques|in the room	Queima todos os|Grotescos da sala
+302	2282	10	{93}{94}Freezing	{93}{94}Congelante
+303	228e	34	Freezes all|Grotesques in the|room	Congela todos os|Grotescos da sala
+304	22b2	14	{93}{94}Thunderstorm	{93}{94}Trovoada
+305	22c2	39	Electrocutes all|Grotesques in the|room	Eletrocuta todos os|Grotescos da sala
+306	22ea	11	{93}{94}Paralysis	{93}{94}Paralisia
+307	22f6	36	Paralyzes all|Grotesques in the|room	Paralisa todos os|Grotescos da sala
+308	231c	11	{93}{94}Confusion	{93}{94}Confusão
+309	2328	35	Confuses all|Grotesques in the|room	Confunde todos os|Grotescos da sala
+310	234c	10	{93}{94}Venomous	{93}{94}Venenoso
+311	2358	45	Inflicts poison on|all Grotesques in|the room	Envenena todos os|Grotescos da sala
+312	2386	10	{93}{94}Darkness	{93}{94}Escuridão
+313	2392	48	Inflicts blindness|on all Grotesques in|the room	Cega todos os|Grotescos da sala
+314	23c4	13	{93}{94}Stomachache	{93}{94}Cólica
+315	23d2	60	Inflicts abdominal|pain on all of the|Grotesques in the|room	Dá cólica em todos|os Grotescos da sala
+316	2410	6	{93}{94}Lust	{93}{94}Luxúria
+317	2418	50	Inflicts lust on all|of the Grotesques in|the room	Causa luxúria em|todos os Grotescos|da sala
+318	244c	10	{93}{94}Lethargy	{93}{94}Letargia
+319	2458	54	Inflicts lethargy on|all of the|Grotesques in the|room	Causa letargia em|todos os Grotescos|da sala
+320	2490	13	{93}{94}Convergence	{93}{94}Convergência
+321	249e	84	Brings all|Grotesques and items|on the floor to the|room you are|currently occupying	Traz todos os|Grotescos e itens do|andar para a sala|onde você está
+322	24f4	7	{93}{94}Storm	{93}{94}Tempestade
+323	24fc	32	Blows away all|nearby Grotesques	Arremessa longe os|Grotescos próximos
+324	251e	8	{93}{94}Flying	{93}{94}Voador
+325	2528	54	Sends Grotesques and|items flying away to|another room	Manda Grotescos e|itens voando para|outra sala
+326	2560	7	{93}{94}Heart	{93}{94}Coração
+327	2568	49	Transforms all|Grotesques in the|room into hearts	Transforma todos os|Grotescos da sala em|corações
+328	259a	9	{93}{94}Carrion	{93}{94}Carniça
+329	25a4	90	Transforms all|Grotesques in the|room into rotting|{79}{7a}. All {79}{7a} you're|holding will also|rot	Transforma os|Grotescos da sala em|{79}{7a} podre. Suas|{79}{7a} também|apodrecem
+330	2600	8	{93}{94}Septic	{93}{94}Séptico
+331	260a	77	Spreads rot,|damaging all|Grotesques in the|room. Your {79}{7a} and {85}{86}|will rot too	Espalha podridão,|ferindo os Grotescos|da sala. Suas {79}{7a} e|{85}{86} também apodrecem
+332	2658	12	{93}{94}Absorption	{93}{94}Absorção
+333	2666	42	Absorbs HP from all|Grotesques in the|room	Suga HP de todos os|Grotescos da sala
+334	2692	6	{93}{94}Half	{93}{94}Metade
+335	269a	39	Kills 1/2 of the|Grotesques in the|room	Mata 1/2 dos|Grotescos da sala
+336	26c2	6	{93}{94}Heal	{93}{94}Cura
+337	26ca	57	Heals 50HP for|everyone in the|room, including|Grotesques	Cura 50HP de todos|na sala, inclusive|dos Grotescos
+338	2704	12	{93}{94}Revolution	{93}{94}Revolução
+339	2712	79	Inverts remaining|and depleted HP{f5}VT|of all Grotesques in|the room and your|own	Inverte o HP{f5}VT|restante e perdido|dos Grotescos da|sala e o seu
+340	2762	9	{93}{94}Arching	{93}{94}Arqueado
+341	276c	71	Places the soul of a|cat into the floor.|Avoid colliding with|the walls	Põe a alma de um|gato no chão. Evite|bater nas paredes
+342	27b4	11	{93}{94}Anonymous	{93}{94}Anônimo
+343	27c0	39	A torture device|with an unknown|effect	Um instrumento de|tortura de efeito|desconhecido
+344	27e8	10	{8d}{8e}Recovery	{8d}{8e}Cura
+345	27f4	44	Recovers HP{f5}VT.|Reversed, they will|decrease	Recupera HP{f5}VT.|Invertido, eles|diminuem
+346	2822	14	{8d}{8e}Suicide Bomb	{8d}{8e}Homem-Bomba
+347	2832	54	Explodes when|stepped on.|Reversed, you can|pick it up	Explode ao ser|pisado. Invertido,|dá para pegá-lo
+348	286a	11	{8d}{8e}Explosive	{8d}{8e}Explosivo
+349	2876	75	Blasts the|surrounding area|with an explosion.|Reversed, you can|pick it up	Explode a área ao|redor. Invertido,|dá para pegá-lo
+350	28c2	10	{8d}{8e}Big Bang	{8d}{8e}Big Bang
+351	28ce	70	Blasts the entire|room with an|explosion. Reversed,|you can pick it up	Explode a sala|inteira. Invertido,|dá para pegá-lo
+352	2916	7	{8d}{8e}Blaze	{8d}{8e}Chamas
+353	291e	68	Engulfs the|surrounding area in|flames. Reversed,|you can pick it up	Põe fogo na área ao|redor. Invertido,|dá para pegá-lo
+354	2964	10	{8d}{8e}Freezing	{8d}{8e}Congelante
+355	2970	58	Freezes the|surrounding area.|Reversed, you can|pick it up	Congela a área ao|redor. Invertido,|dá para pegá-lo
+356	29ac	15	{8d}{8e}Electrocution	{8d}{8e}Eletrocução
+357	29bc	63	Electrocutes the|surrounding area.|Reversed, you can|pick it up	Eletrocuta a área ao|redor. Invertido,|dá para pegá-lo
+358	29fc	11	{8d}{8e}Confusion	{8d}{8e}Confusão
+359	2a08	75	Spreads confusion in|the area. Reversed,|will heal it or you|can pick it up	Espalha confusão.|Invertido, cura ou|dá para pegá-lo
+360	2a54	10	{8d}{8e}Darkness	{8d}{8e}Escuridão
+361	2a60	74	Spreads darkness in|the area. Reversed,|will heal it or you|can pick it up	Espalha escuridão.|Invertido, cura ou|dá para pegá-lo
+362	2aac	13	{8d}{8e}Stomachache	{8d}{8e}Cólica
+363	2aba	80	Spreads abdominal|pain in the area.|Reversed, will heal|it or you can pick|it up	Espalha cólica.|Invertido, cura ou|dá para pegá-lo
+364	2b0c	9	{8d}{8e}Special	{8d}{8e}Especial
+365	2b16	81	Spreads random|ailments. Reversed,|it will heal any|ailment or you can|pick it up	Espalha males|aleatórios.|Invertido, cura|qualquer mal ou dá|para pegá-lo
+366	2b68	5	{8d}{8e}Rot	{8d}{8e}Podridão
+367	2b6e	81	Rot 1 of your hearts|or pieces of flesh.|Reversed, it will|remove rot from 1|item	Apodrece 1 coração|ou carne sua.|Invertido, tira a|podridão de 1 item
+368	2bc0	7	{8d}{8e}Storm	{8d}{8e}Tempestade
+369	2bc8	75	Sends anything that|steps on it flying|backwards. Reversed,|flying forwards	Joga quem pisar|nele para trás.|Invertido, para a|frente
+370	2c14	8	{8d}{8e}Flight	{8d}{8e}Voo
+371	2c1e	77	Sends anything that|steps on it to|another room.|Reversed, you can|pick it up	Manda quem pisar|nele para outra|sala. Invertido, dá|para pegá-lo
+372	2c6c	9	{8d}{8e}Ancient	{8d}{8e}Antigo
+373	2c76	76	Deteriorates|equipment. Reversed,|degraded equipment|will recover by 1|point	Desgasta o|equipamento.|Invertido, recupera|1 ponto do|equipamento gasto
+374	2cc4	6	{8d}{8e}Food	{8d}{8e}Comida
+375	2ccc	66	Changes an item into|food. Reversed, food|will change into an|item	Vira um item em|comida. Invertido,|comida vira item
+376	2d10	12	{8d}{8e}Dispersion	{8d}{8e}Dispersão
+377	2d1e	80	Scatters possessions|throughout the room.|The reverse performs|the same function	Espalha seus itens|pela sala. Invertido|faz o mesmo
+378	2d70	11	{8d}{8e}Vanishing	{8d}{8e}Sumiço
+379	2d7c	60	Erases 1 item when|stepped on.|Reversed, an item|will appear	Apaga 1 item ao ser|pisado. Invertido,|um item aparece
+380	2dba	12	{8d}{8e}Unbranding	{8d}{8e}Desmarcar
+381	2dc8	79	Brand you have|applied to yourself|will disappear.|Reversed, you can|pick it up	Some a marca que|você aplicou em si.|Invertido, dá para|pegá-lo
+382	2e18	11	{8d}{8e}Inversion	{8d}{8e}Inversão
+383	2e24	74	Reverses all|patterns on the|floor. The reverse|performs the same|function	Inverte todos os|padrões do andar.|Invertido, faz o|mesmo
+384	2e70	6	{8d}{8e}HPVT	{8d}{8e}HPVT
+385	2e78	48	Rises HPMAX by 5.|Reversed, VTMAX is|raised by 5	HPMAX +5.|Invertido, VTMAX +5
+386	2eaa	6	{8d}{8e}Lust	{8d}{8e}Luxúria
+387	2eb2	79	Spreads lust within|the area. Reversed,|it will heal lust or|you can pick it up	Espalha luxúria.|Invertido, cura ou|dá para pegá-lo
+388	2f02	7	{8f}{90}Stone	{8f}{90}Pedra
+389	2f0a	78	Damage your teeth if|you gnaw it. When|thrown, the bone|will damage|Grotesques	Roer machuca os|dentes. Arremessado,|fere Grotescos
+390	2f5a	7	{8f}{90}Arrow	{8f}{90}Flecha
+391	2f62	78	Damage your teeth if|you gnaw it. If|thrown, damages and|penetrates|Grotesques	Roer machuca os|dentes. Arremessado,|fere e atravessa|Grotescos
+392	2fb2	8	{8f}{90}Homing	{8f}{90}Teleguiado
+393	2fbc	79	Damage your teeth if|you gnaw it. If|thrown, tracks down|and damages|Grotesques	Roer machuca os|dentes. Arremessado,|persegue e fere|Grotescos
+394	300c	7	{8f}{90}Burst	{8f}{90}Estouro
+395	3014	41	Explodes and damages|the surrounding area	Explode e fere a|área ao redor
+396	303e	12	{8f}{90}Protection	{8f}{90}Proteção
+397	304c	76	Raises DEF against|fire, ice, and|lightning. Effect|disappears after a|while	Aumenta a DEF contra|fogo, gelo e raio.|O efeito some com o|tempo
+398	309a	12	{8f}{90}Experience	{8f}{90}Experiência
+399	30a8	48	Doubles EXP. The|effect disappears|after a while	Dobra a EXP. O|efeito some com o|tempo
+400	30da	11	{8f}{90}Paralysis	{8f}{90}Paralisia
+401	30e6	18	Inflicts paralysis	Causa paralisia
+402	30fa	7	{8f}{90}Chaos	{8f}{90}Caos
+403	3102	18	Inflicts confusion	Causa confusão
+404	3116	8	{8f}{90}Poison	{8f}{90}Veneno
+405	3120	15	Inflicts poison	Envenena
+406	3130	10	{8f}{90}Darkness	{8f}{90}Escuridão
+407	313c	21	Makes everything|dark	Deixa tudo escuro
+408	3152	13	{8f}{90}Stomachache	{8f}{90}Cólica
+409	3160	20	Inflicts stomachache	Causa cólica
+410	3176	8	{8f}{90}Desire	{8f}{90}Desejo
+411	3180	13	Inflicts lust	Causa luxúria
+412	318e	10	{8f}{90}Lethargy	{8f}{90}Letargia
+413	319a	17	Inflicts lethargy	Causa letargia
+414	31ac	8	{8f}{90}Rotten	{8f}{90}Podre
+415	31b6	79	Changes Grotesques|into rotten flesh|when thrown. Induces|stomachache if|gnawed	Arremessado, vira|Grotescos em carne|podre. Roído, dá|cólica
+416	3206	9	{8f}{90}Walking	{8f}{90}Andarilho
+417	3210	63	Causes an|instantaneous warp.|Doesn't work in|rooms with stairs	Teletransporta na|hora. Não funciona|em salas com escada
+418	3250	15	{8f}{90}Invincibility	{8f}{90}Invencível
+419	3260	58	Imparts|invincibility. The|effect disappears|after a while	Dá invencibilidade.|O efeito some com o|tempo
+420	329c	9	{8f}{90}Earplug	{8f}{90}Tampão
+421	32a6	81	Plugs into the ear.|Sound may no longer|be heard. Effect|disappears after a|while	Tampa o ouvido. Você|pode não ouvir sons.|O efeito some com o|tempo
+422	32f8	7	{8f}{90}Death	{8f}{90}Morte
+423	3300	26	A bone that lowers|HP to 1	Um osso que reduz o|HP a 1
+424	331c	11	{8f}{90}Secretion	{8f}{90}Secreção
+425	3328	76	Causes bodily fluids|to pool at your feet|when gnawed. You can|also throw it	Roído, faz fluidos|do corpo vazarem a|seus pés. Também dá|para arremessar
+426	3376	8	{8f}{90}Silver	{8f}{90}Prata
+427	3380	69	Blows fire when|gnawed. 3 can be|exchanged by Crypt|Angel for a {87}{88}Toy	Roído, solta fogo.|O Anjo da Cripta|troca 3 por uma|{87}{88}Brinquedo
+428	33c6	6	{8f}{90}Gold	{8f}{90}Ouro
+429	33ce	76	Massive explosion|when gnawed. 1 can|be exchanged by|Crypt Angel for a|{87}{88}Toy	Roído, explode|forte. O Anjo da|Cripta troca 1 por|uma {87}{88}Brinquedo
+430	341c	12	{8f}{90}Evacuation	{8f}{90}Evacuação
+431	342a	82	Gnaw this bone to|return to stairs.|Won't work if you|haven't found the|stairs yet	Roa para voltar à|escada. Não funciona|se você ainda não|achou a escada
+432	347e	4	{8f}{90}ID	{8f}{90}ID
+433	3484	66	You will take damage|if you gnaw it. Will|identify all your|items.	Roer causa dano.|Identifica todos os|seus itens.
+434	34c8	6	{91}{92}Grub	{91}{92}Larva
+435	34d0	45	May mature while|descending to the|next floor	Pode amadurecer ao|descer para o|próximo andar
+436	34fe	6	{91}{92}Fire	{91}{92}Fogo
+437	3506	51	Bestows fire attacks|when it infests you|or a sword	Dá ataques de fogo|quando infesta você|ou uma espada
+438	353a	5	{91}{92}Ice	{91}{92}Gelo
+439	3540	50	Bestows ice attacks|when it infests you|or a sword	Dá ataques de gelo|quando infesta você|ou uma espada
+440	3574	9	{91}{92}Thunder	{91}{92}Trovão
+441	357e	55	Bestows electric|attacks when it|infests you or a|sword	Dá ataques elétricos|quando infesta você|ou uma espada
+442	35b6	9	{91}{92}Stamina	{91}{92}Vigor
+443	35c0	42	Raises your HPMAX by|{fc} when it infests|you	HPMAX +{fc} quando|infesta você
+444	35ec	10	{91}{92}Vitality	{91}{92}Vitalidade
+445	35f8	42	Raises your VTMAX by|{fc} when it infests|you	VTMAX +{fc} quando|infesta você
+446	3624	9	{91}{92}Assault	{91}{92}Ataque
+447	362e	40	Raises your ATK by {fc}|when it infests you	ATK +{fc} quando|infesta você
+448	3658	7	{91}{92}Guard	{91}{92}Guarda
+449	3660	40	Raises your DEF by {fc}|when it infests you	DEF +{fc} quando|infesta você
+450	368a	7	{91}{92}Lucky	{91}{92}Sortudo
+451	3692	36	Raises your luck|when it infests you	Aumenta sua sorte|quando infesta você
+452	36b8	11	{91}{92}Paralysis	{91}{92}Paralisia
+453	36c4	47	Infests you or your|coat and prevents|paralysis	Infesta você ou seu|casaco e evita|paralisia
+454	36f4	7	{91}{92}Chaos	{91}{92}Caos
+455	36fc	47	Infests you or your|coat and prevents|confusion	Infesta você ou seu|casaco e evita|confusão
+456	372c	8	{91}{92}Poison	{91}{92}Veneno
+457	3736	47	Infests you or your|coat and prevents|poisoning	Infesta você ou seu|casaco e evita|envenenamento
+458	3766	10	{91}{92}Darkness	{91}{92}Escuridão
+459	3772	47	Infests you or your|coat and prevents|blindness	Infesta você ou seu|casaco e evita|cegueira
+460	37a2	13	{91}{92}Stomachache	{91}{92}Cólica
+461	37b0	49	Infests you or your|coat and prevents|stomachache	Infesta você ou seu|casaco e evita|cólica
+462	37e2	8	{91}{92}Desire	{91}{92}Desejo
+463	37ec	42	Infests you or your|coat and prevents|lust	Infesta você ou seu|casaco e evita|luxúria
+464	3818	10	{91}{92}Lethargy	{91}{92}Letargia
+465	3824	46	Infests you or your|coat and prevents|lethargy	Infesta você ou seu|casaco e evita|letargia
+466	3854	7	{91}{92}Comet	{91}{92}Cometa
+467	385c	51	Infests you or your|sword and raises|your ATK speed	Infesta você ou sua|espada e aumenta a|velocidade do ataque
+468	3890	4	{91}{92}ID	{91}{92}ID
+469	3896	30	Identifies any item|it infests	Identifica o item|que infestar
+470	38b6	9	{91}{92}Defusal	{91}{92}Desarme
+471	38c0	44	Infests a box and|prevents it from|exploding	Infesta uma caixa e|impede que ela|exploda
+472	38ee	10	{91}{92}Cannibal	{91}{92}Canibal
+473	38fa	65	Grows by eating|other worms. At +11,|evolves into|{91}{92}Assault/Guard	Cresce comendo|outros vermes. No|+11, evolui para|{91}{92}Ataque/Guarda
+474	393c	9	{91}{92}Feather	{91}{92}Pena
+475	3946	35	Flies away with any|item it infests	Sai voando com o|item que infestar
+476	396a	14	{91}{92}Resurrection	{91}{92}Ressurreição
+477	397a	21	Can revive a|{91}{92}Corpse	Pode reviver um|{91}{92}Cadáver
+478	3990	8	{91}{92}Corpse	{91}{92}Cadáver
+479	399a	8	A corpse	Um cadáver
+480	39a4	12	{95}{96}Neck Thing	{95}{96}Coisa Pescoço
+481	39b2	30	The Idea Sefirah of|Neck Thing	A Ideia Sefirah da|Coisa Pescoço
+482	39d2	4	{95}{96}My	{95}{96}Minha
+483	39d8	21	Your own Idea|Sefirah	Sua própria Ideia|Sefirah
+484	39ee	8	{95}{96}Koriel	{95}{96}Koriel
+485	39f8	30	The Idea Sefirah of|the Koriel	A Ideia Sefirah de|Koriel
+486	3a18	12	{95}{96}Sack Thing	{95}{96}Coisa Saco
+487	3a26	30	The Idea Sefirah of|Sack Thing	A Ideia Sefirah da|Coisa Saco
+488	3a46	9	{95}{96}Littles	{95}{96}Pequeninos
+489	3a50	31	The Idea Sefirah of|the Littles	A Ideia Sefirah dos|Pequeninos
+490	3a70	14	{95}{96}Horned Woman	{95}{96}Chifruda
+491	3a80	36	The Idea Sefirah of|the Horned Woman	A Ideia Sefirah da|Mulher Chifruda
+492	3aa6	11	{95}{96}Box Thing	{95}{96}Coisa Caixa
+493	3ab2	29	The Idea Sefirah of|Box Thing	A Ideia Sefirah da|Coisa Caixa
+494	3ad0	14	 invincibility	 invencibilidade
+495	3ae0	11	Unprotected	Desprotegido
+496	3aec	9	Paralysis	Paralisia
+497	3af6	9	Confusion	Confusão
+498	3b00	6	Poison	Veneno
+499	3b08	8	Darkness	Escuridão
+500	3b12	11	Stomachache	Cólica
+501	3b1e	4	Lust	Luxúria
+502	3b24	8	Lethargy	Letargia
+503	3b2e	26	 transferred to the ground	 foi para o chão
+504	3b4a	22	Transfer limit reached	Limite de transferência
+505	3b62	16	Item thrown back	Item devolvido
+506	3b74	5	Equip	Equipar
+507	3b7a	5	Throw	Jogar
+508	3b80	4	Drop	Largar
+509	3b86	6	Remove	Tirar
+510	3b8e	3	Eat	Comer
+511	3b92	4	Open	Abrir
+512	3b98	6	Inject	Injetar
+513	3ba0	5	Brand	Marcar
+514	3ba6	7	Execute	Executar
+515	3bae	7	Install	Instalar
+516	3bb6	7	Reverse	Inverter
+517	3bbe	4	Gnaw	Roer
+518	3bc4	6	Infest	Infestar
+519	3bcc	4	Give	Dar
+520	3bd2	7	{7f}{80}Sword	{7f}{80}Espada
+521	3bda	6	{81}{82}Coat	{81}{82}Casaco
+522	3be2	7	{83}{84}Wings	{83}{84}Asas
+523	3bea	7	{85}{86}Heart	{85}{86}Coração
+524	3bf2	7	{79}{7a}Flesh	{79}{7a}Carne
+525	3bfa	5	{87}{88}Box	{87}{88}Caixa
+526	3c00	11	{89}{8a}Injection	{89}{8a}Injeção
+527	3c0c	7	{8b}{8c}Brand	{8b}{8c}Marca
+528	3c14	10	{93}{94}Torturer	{93}{94}Torturador
+529	3c20	9	{8d}{8e}Pattern	{8d}{8e}Padrão
+530	3c2a	6	{8f}{90}Bone	{8f}{90}Osso
+531	3c32	6	{91}{92}Worm	{91}{92}Verme
+532	3c3a	9	 obtained	 está com você
+533	3c44	12	Items full{fa19}	Sem espaço{fa19}
+534	3c52	13	 not obtained	 ficou no chão
+535	3c60	19	Legs have gone numb	As pernas adormeceram
+536	3c74	7	 rotten	 apodreceu
+537	3c7c	13	 deteriorated	 se desgastou
+538	3c8a	11	 is crushed	 se despedaçou
+539	3c96	15	 effect is over	{fa19} efeito acabou
+540	3ca6	12	 has evolved	 evoluiu
+541	3cb4	12	 disappeared	 sumiu
+542	3cc2	9	 appeared	 apareceu
+543	3ccc	10	 is broken	 quebrou
+544	3cd8	9	 split up	 se dividiu
+545	3ce2	1	 	
+546	3ce4	13	 changed into	 virou
+547	3cf2	7	 healed	 passou
+548	3cfa	10	 recovered	 se recuperou
+549	3d06	1	{fc}	
+550	3d08	10	 recovered	 recuperado
+551	3d14	10	 activated	 entrou em ação
+552	3d20	14	 was activated	 disparou
+553	3d30	14	Grotesque got 	Grotesco obteve 
+554	3d40	13	 I'm thrilled	 Que emoção
+555	3d4e	9	No effect	Sem efeito
+556	3d58	7	 evaded	{fa19} evitado
+557	3d60	7	Revived	Reviveu
+558	3d68	9	VT is low	VT está baixo
+559	3d72	10	VT is gone	VT acabou
+560	3d7e	5	 full	 cheio
+561	3d84	3	 up	 a mais
+562	3d88	5	 down	 a menos
+563	3d8e	7	 damage	 de dano
+564	3d96	10	Remaining 	Restante: 
+565	3da2	12	 do not give	 nenhum
+566	3db0	15	 lost its power	 perdeu o poder
+567	3dc0	15	 from Grotesque	 Sugou do Grotesco
+568	3dd0	7	 absorb	 
+569	3dd8	18	Great power attack	Ataque poderoso
+570	3dec	9	 taken of	 foi tirado
+571	3df6	7	 halved	 pela metade
+572	3dfe	5	 ate 	 comeu 
+573	3e04	9	 appeared	 apareceu
+574	3e0e	11	Transferred	Transferido
+575	3e1a	16	but nothing rots	mas nada apodrece
+576	3e2c	22	but nothing to recover	mas não há o que curar
+577	3e44	24	but nothing deteriorates	mas nada se desgasta
+578	3e5e	21	but nothing scattered	mas nada se espalhou
+579	3e74	19	but nothing appears	mas nada aparece
+580	3e88	34	but there is no brand to disappear	mas não há marca para sumir
+581	3eac	38	All patterns on the floor are reversed	Os padrões do andar se inverteram
+582	3ed4	17	Earplugs came off	Os tampões saíram
+583	3ee6	24	Current bottom floor is 	Andar mais fundo: 
+584	3f00	35	Identified that you're above ground	Você está na superfície
+585	3f24	1	 	
+586	3f26	25	 flew away with {91}{92}Feather	 saiu voando com o {91}{92}Pena
+587	3f40	9	 obtained	 te atingiu
+588	3f4a	33	Are you going to the lower floor?	Descer para o próximo andar?
+589	3f6c	9	Stay here	Ficar aqui
+590	3f76	7	Proceed	Seguir
+591	3f7e	24	Head to the Nerve Tower?	Ir para a Torre dos Nervos?
+592	3f98	36	Would you like to enter the dungeon?	Deseja entrar na masmorra?
+593	3fbe	9	Stay here	Ficar aqui
+594	3fc8	7	Proceed	Seguir
+595	3fd0	36	Do you want to enter the laboratory?	Deseja entrar no laboratório?
+596	3ff6	5	Eliza	
+597	3ffc	5	Alice	
+598	4002	9	Archangel	Arcanjo
+599	400c	6	Koriel	
+600	4014	14	Guardian Angel	Anjo Guardião
+601	4024	12	Worker Angel	Anjo Operário
+602	4032	18	Mind Reading Thing	Coisa Telepata
+603	4046	12	Sentry Angel	Anjo Sentinela
+604	4054	10	Coffin Man	Homem Caixão
+605	4060	9	Box Thing	Coisa Caixa
+606	406a	10	Neck Thing	Coisa Pescoço
+607	4076	12	Horned Woman	Mulher Chifruda
+608	4084	10	Sack Thing	Coisa Saco
+609	4090	14	Research Angel	Anjo Cientista
+610	40a0	11	Crypt Angel	Anjo da Cripta
+611	40ac	11	Thing Thing	Coisa Coisa
+612	40b8	37	Can't fire the Angelic Insects' power	Insetos Angélicos não disparam
+613	40de	35	Can't fire after they were purified	Purificados, não disparam mais
+614	4102	6	Myself	Eu mesmo
+615	410a	2	{b0}{fc}	
+616	410e	3	{b0}{7b}{7c}	
+617	4112	1	{b9}	
+618	4114	1	{b0}	
+619	4116	13	Identified as	Identificado como
+620	4124	1	 	
+621	4126	1	 	
+622	4128	6	Status	
+623	4130	2	{fa19}	
+624	4134	6	normal	
+625	413c	1	-	
+626	413e	1	+	
+627	4140	1	{f6}	
+628	4142	1	{f7}	
+629	4144	15	Details unknown	Efeito desconhecido
+630	4154	17	But it was rotten	Mas estava podre
+631	4166	39	Items on the|floor have|become patterns	Os itens do|andar viraram|padrões
+632	418e	7	 halved	 pela metade
+633	4196	1	 	
+634	4198	19	came out of the box	saiu da caixa
+635	41ac	9	LV 1 down	LV caiu 1
+636	41b6	7	LV 1 up	LV subiu 1
+637	41be	8	MAX {fc} up	MAX +{fc}
+638	41c8	14	Increased by {fc}	Aumentou {fc}
+639	41d8	7	 rotten	 Apodrecimento
+640	41e0	13	Deterioration	Desgaste
+641	41ee	10	 prevented	 evitado
+642	41fa	23	Nothing can be| branded	Nada pode ser| marcado
+643	4212	7	 erased	 sumiu
+644	421a	19	Cannot be used here	Não dá para usar aqui
+645	422e	9	Toothache	Dor de dente
+646	4238	1	 	
+647	423a	11	EXP doubled	EXP dobrada
+648	4246	53	Increased protection|against fire, ice,|and lightning	Proteção maior|contra fogo, gelo|e raio
+649	427c	17	Nothing to infest	Nada para infestar
+650	428e	8	 is dead	 morreu
+651	4298	24	All equipment|is removed	Todo o equipamento|foi removido
+652	42b2	19	I had a stomachache	Deu cólica
+653	42c6	9	 received	 te atingiu
+654	42d0	9	 received	 te atingiu
+655	42da	8	 Is back	 voltou ao normal
+656	42e4	22	There was an adhesive!	Tinha uma marca Adesiva!
+657	42fc	11	It was good	Estava gostoso
+658	4308	1	 	
+659	430a	12	 infested|me	 me|infestou
+660	4318	23	{91}{92}Cannibal +{fc}|to evolve	{91}{92}Canibal{fa19} +{fc}|para evoluir
+661	4330	8	Inside{fa19}	Dentro{fa19}
+662	433a	45	But when I open it|The remaining HP|is halved	Mas ao abrir|o HP restante|cai pela metade
+663	4368	38	But when I open it|I get a stomachache	Mas ao abrir|dá cólica
+664	4390	26	But when I open it|explode	Mas ao abrir|ela explode
+665	43ac	25	Release the box explosion	Explosão liberada
+666	43c6	14	Here, I return	Tome, devolvo
+667	43d6	6	to you	para você
+668	43de	16	You already have	Você já tem
+669	43f0	6	a lot.	demais.
+670	43f8	39	{91}{92}Cannibal evolved|into {91}{92}Assault/Guard	{91}{92}Canibal evoluiu|para {91}{92}Ataque/Guarda
+671	4420	23	There is no one to give	Não há a quem dar
+672	4438	10	Can't open	Não abre
+673	4444	34	It's stubborn and|can't be removed	Teimosia{fa19} não dá|para tirar
+674	4468	19	Nothing to identify	Nada para identificar
+675	447c	9	Was a box	Era uma caixa
+676	4486	19	Cannot be installed	Não dá para instalar
+677	449a	23	Not removed{fa19}{8b}{8c}Adhesive	Não sai{fa19}{8b}{8c}Adesiva
+678	44b2	31	Can't be equipped|on this floor	Não dá para equipar|neste andar
+679	44d2	22	Worm came back|to life	O verme voltou|à vida
+680	44ea	20	A dead worm|came out	Saiu um verme|morto
+681	4500	7	MISSING	
+682	4508	7	MISSING	
+683	4510	7	MISSING	
+684	4518	7	MISSING	
+685	4520	7	MISSING	
+686	4528	7	MISSING	
+687	4530	7	MISSING	
+688	4538	7	MISSING	
+689	4540	7	MISSING	
+690	4548	7	MISSING	
+691	4550	7	MISSING	
+692	4558	7	MISSING	
+693	4560	7	MISSING	
+694	4568	7	MISSING	
+695	4570	7	MISSING	
+696	4578	7	MISSING	
+697	4580	7	MISSING	
+698	4588	7	MISSING	
+699	4590	7	MISSING	
+700	4598	7	MISSING	
+701	45a0	7	MISSING	
+702	45a8	7	MISSING	
+703	45b0	7	MISSING	
+704	45b8	7	MISSING	
+705	45c0	7	MISSING	
+706	45c8	7	MISSING	
+707	45d0	7	MISSING	
+708	45d8	7	MISSING	
+709	45e0	7	MISSING	
+710	45e8	7	MISSING	
+711	45f0	7	MISSING	
+712	45f8	7	MISSING	
+713	4600	7	MISSING	
+714	4608	7	MISSING	
+715	4610	7	MISSING	
+716	4618	7	MISSING	
+717	4620	7	MISSING	
+718	4628	7	MISSING	
+719	4630	7	MISSING	
+720	4638	7	MISSING	
+721	4640	7	MISSING	
+722	4648	7	MISSING	
+723	4650	7	MISSING	
+724	4658	7	MISSING	
+725	4660	7	MISSING	
+726	4668	7	MISSING	
+727	4670	7	MISSING	
+728	4678	7	MISSING	
+729	4680	7	MISSING	
+730	4688	7	MISSING	
+731	4690	7	MISSING	
+732	4698	7	MISSING	
+733	46a0	7	MISSING	
+734	46a8	7	MISSING	
+735	46b0	7	MISSING	
+736	46b8	7	MISSING	
+737	46c0	7	MISSING	
+738	46c8	7	MISSING	
+739	46d0	7	MISSING	
+740	46d8	7	MISSING	
+741	46e0	7	MISSING	
+742	46e8	7	MISSING	
+743	46f0	7	MISSING	
+744	46f8	7	MISSING	
+745	4700	7	MISSING	
+746	4708	7	MISSING	
+747	4710	7	MISSING	
+748	4718	7	MISSING	
+749	4720	7	MISSING	
+750	4728	7	MISSING	
+751	4730	7	MISSING	
+752	4738	7	MISSING	
+753	4740	7	MISSING	
+754	4748	7	MISSING	
+755	4750	7	MISSING	
+756	4758	7	MISSING	
+757	4760	7	MISSING	
+758	4768	7	MISSING	
+759	4770	7	MISSING	
+760	4778	7	MISSING	
+761	4780	7	MISSING	
+762	4788	7	MISSING	
+763	4790	7	MISSING	
+764	4798	7	MISSING	
+765	47a0	7	MISSING	
+766	47a8	7	MISSING	
+767	47b0	7	MISSING	
+768	47b8	7	MISSING	
+769	47c0	7	MISSING	
+770	47c8	7	MISSING	
+771	47d0	7	MISSING	
+772	47d8	7	MISSING	
+773	47e0	7	MISSING	
+774	47e8	7	MISSING	
+775	47f0	7	MISSING	
+776	47f8	7	MISSING	
+777	4800	7	MISSING	
+778	4808	7	MISSING	
+779	4810	7	MISSING	
+780	4818	7	MISSING	
+781	4820	7	MISSING	
+782	4828	7	MISSING	
+783	4830	7	MISSING	
+784	4838	7	MISSING	
+785	4840	7	MISSING	
+786	4848	7	MISSING	
+787	4850	7	MISSING	
+788	4858	7	MISSING	
+789	4860	7	MISSING	
+790	4868	7	MISSING	
+791	4870	7	MISSING	
+792	4878	7	MISSING	
+793	4880	7	MISSING	
+794	4888	7	MISSING	
+795	4890	7	MISSING	
+796	4898	7	MISSING	
+797	48a0	7	MISSING	
+798	48a8	7	MISSING	
+799	48b0	7	MISSING	
+800	48b8	7	MISSING	
+801	48c0	7	MISSING	
+802	48c8	7	MISSING	
+803	48d0	7	MISSING	
+804	48d8	7	MISSING	
+805	48e0	7	MISSING	
+806	48e8	7	MISSING	
+807	48f0	7	MISSING	
+808	48f8	7	MISSING	
+809	4900	7	MISSING	
+810	4908	7	MISSING	
+811	4910	7	MISSING	
+812	4918	7	MISSING	
+813	4920	7	MISSING	
+814	4928	7	MISSING	
+815	4930	7	MISSING	
+816	4938	7	MISSING	
+817	4940	7	MISSING	
+818	4948	7	MISSING	
+819	4950	7	MISSING	
+820	4958	7	MISSING	
+821	4960	7	MISSING	
+822	4968	7	MISSING	
+823	4970	7	MISSING	
+824	4978	7	MISSING	
+825	4980	7	MISSING	
+826	4988	7	MISSING	
+827	4990	7	MISSING	
+828	4998	7	MISSING	
+829	49a0	7	MISSING	
+830	49a8	7	MISSING	
+831	49b0	7	MISSING	
+832	49b8	7	MISSING	
+833	49c0	7	MISSING	
+834	49c8	7	MISSING	
+835	49d0	7	MISSING	
+836	49d8	7	MISSING	
+837	49e0	7	MISSING	
+838	49e8	7	MISSING	
+839	49f0	7	MISSING	
+840	49f8	7	MISSING	
+841	4a00	7	MISSING	
+842	4a08	7	MISSING	
+843	4a10	7	MISSING	
+844	4a18	7	MISSING	
+845	4a20	7	MISSING	
+846	4a28	7	MISSING	
+847	4a30	7	MISSING	
+848	4a38	7	MISSING	
+849	4a40	7	MISSING	
+850	4a48	7	MISSING	
+851	4a50	7	MISSING	
+852	4a58	7	MISSING	
+853	4a60	7	MISSING	
+854	4a68	7	MISSING	
+855	4a70	7	MISSING	
+856	4a78	7	MISSING	
+857	4a80	7	MISSING	
+858	4a88	7	MISSING	
+859	4a90	7	MISSING	
+860	4a98	7	MISSING	
+861	4aa0	7	MISSING	
+862	4aa8	7	MISSING	
+863	4ab0	7	MISSING	
+864	4ab8	7	MISSING	
+865	4ac0	7	MISSING	
+866	4ac8	7	MISSING	
+867	4ad0	7	MISSING	
+868	4ad8	7	MISSING	
+869	4ae0	7	MISSING	
+870	4ae8	7	MISSING	
+871	4af0	7	MISSING	
+872	4af8	7	MISSING	
+873	4b00	7	MISSING	
+874	4b08	7	MISSING	
+875	4b10	7	MISSING	
+876	4b18	7	MISSING	
+877	4b20	7	MISSING	
+878	4b28	7	MISSING	
+879	4b30	7	MISSING	
+880	4b38	7	MISSING	
+881	4b40	7	MISSING	
+882	4b48	7	MISSING	
+883	4b50	7	MISSING	
+884	4b58	7	MISSING	
+885	4b60	7	MISSING	
+886	4b68	7	MISSING	
+887	4b70	7	MISSING	
+888	4b78	7	MISSING	
+889	4b80	7	MISSING	
+890	4b88	7	MISSING	
+891	4b90	7	MISSING	
+892	4b98	7	MISSING	
+893	4ba0	7	MISSING	
+894	4ba8	7	MISSING	
+895	4bb0	7	MISSING	
+896	4bb8	7	MISSING	
+897	4bc0	7	MISSING	
+898	4bc8	7	MISSING	
+899	4bd0	7	MISSING	
+900	4bd8	7	MISSING	
+901	4be0	7	MISSING	
+902	4be8	7	MISSING	
+903	4bf0	7	MISSING	
+904	4bf8	7	MISSING	
+905	4c00	7	MISSING	
+906	4c08	7	MISSING	
+907	4c10	7	MISSING	
+908	4c18	7	MISSING	
+909	4c20	7	MISSING	
+910	4c28	7	MISSING	
+911	4c30	7	MISSING	
+912	4c38	7	MISSING	
+913	4c40	7	MISSING	
+914	4c48	7	MISSING	
+915	4c50	7	MISSING	
+916	4c58	7	MISSING	
+917	4c60	7	MISSING	
+918	4c68	7	MISSING	
+919	4c70	7	MISSING	
+920	4c78	7	MISSING	
+921	4c80	7	MISSING	
+922	4c88	7	MISSING	
+923	4c90	7	MISSING	
+924	4c98	7	MISSING	
+925	4ca0	7	MISSING	
+926	4ca8	7	MISSING	
+927	4cb0	7	MISSING	
+928	4cb8	7	MISSING	
+929	4cc0	7	MISSING	
+930	4cc8	7	MISSING	
+931	4cd0	7	MISSING	
+932	4cd8	7	MISSING	
+933	4ce0	7	MISSING	
+934	4ce8	7	MISSING	
+935	4cf0	7	MISSING	
+936	4cf8	7	MISSING	
+937	4d00	7	MISSING	
+938	4d08	7	MISSING	
+939	4d10	7	MISSING	
+940	4d18	7	MISSING	
+941	4d20	7	MISSING	
+942	4d28	7	MISSING	
+943	4d30	7	MISSING	
+944	4d38	7	MISSING	
+945	4d40	7	MISSING	
+946	4d48	7	MISSING	
+947	4d50	7	MISSING	
+948	4d58	7	MISSING	
+949	4d60	7	MISSING	
+950	4d68	7	MISSING	
+951	4d70	7	MISSING	
+952	4d78	7	MISSING	
+953	4d80	7	MISSING	
+954	4d88	7	MISSING	
+955	4d90	7	MISSING	
+956	4d98	7	MISSING	
+957	4da0	7	MISSING	
+958	4da8	7	MISSING	
+959	4db0	7	MISSING	
+960	4db8	7	MISSING	
+961	4dc0	7	MISSING	
+962	4dc8	7	MISSING	
+963	4dd0	7	MISSING	
+964	4dd8	7	MISSING	
+965	4de0	7	MISSING	
+966	4de8	7	MISSING	
+967	4df0	7	MISSING	
+968	4df8	7	MISSING	
+969	4e00	7	MISSING	
+970	4e08	7	MISSING	
+971	4e10	7	MISSING	
+972	4e18	7	MISSING	
+973	4e20	7	MISSING	
+974	4e28	7	MISSING	
+975	4e30	7	MISSING	
+976	4e38	7	MISSING	
+977	4e40	7	MISSING	
+978	4e48	7	MISSING	
+979	4e50	7	MISSING	
+980	4e58	7	MISSING	
+981	4e60	7	MISSING	
+982	4e68	7	MISSING	
+983	4e70	7	MISSING	
+984	4e78	7	MISSING	
+985	4e80	7	MISSING	
+986	4e88	7	MISSING	
+987	4e90	7	MISSING	
+988	4e98	7	MISSING	
+989	4ea0	7	MISSING	
+990	4ea8	7	MISSING	
+991	4eb0	7	MISSING	
+992	4eb8	7	MISSING	
+993	4ec0	7	MISSING	
+994	4ec8	7	MISSING	
+995	4ed0	7	MISSING	
+996	4ed8	7	MISSING	
+997	4ee0	7	MISSING	
+998	4ee8	7	MISSING	
+999	4ef0	7	MISSING	
+1000	4ef8	7	MISSING	
+1001	4f00	7	MISSING	
+1002	4f08	7	MISSING	
+1003	4f10	7	MISSING	
+1004	4f18	7	MISSING	
+1005	4f20	7	MISSING	
+1006	4f28	7	MISSING	
+1007	4f30	7	MISSING	
+1008	4f38	7	MISSING	
+1009	4f40	7	MISSING	
+1010	4f48	7	MISSING	
+1011	4f50	7	MISSING	
+1012	4f58	7	MISSING	
+1013	4f60	7	MISSING	
+1014	4f68	7	MISSING	
+1015	4f70	7	MISSING	
+1016	4f78	7	MISSING	
+1017	4f80	7	MISSING	
+1018	4f88	7	MISSING	
+1019	4f90	7	MISSING	
+1020	4f98	7	MISSING	
+1021	4fa0	7	MISSING	
+1022	4fa8	7	MISSING	
+1023	4fb0	7	MISSING	
+1024	4fb8	7	MISSING	
+1025	4fc0	7	MISSING	
+1026	4fc8	7	MISSING	
+1027	4fd0	7	MISSING	
+1028	4fd8	7	MISSING	
+1029	4fe0	7	MISSING	
+1030	4fe8	7	MISSING	
+1031	4ff0	7	MISSING	
+1032	4ff8	7	MISSING	
+1033	5000	7	MISSING	
+1034	5008	7	MISSING	
+1035	5010	7	MISSING	
+1036	5018	7	MISSING	
+1037	5020	7	MISSING	
+1038	5028	7	MISSING	
+1039	5030	7	MISSING	
+1040	5038	7	MISSING	
+1041	5040	7	MISSING	
+1042	5048	7	MISSING	
+1043	5050	7	MISSING	
+1044	5058	7	MISSING	
+1045	5060	7	MISSING	
+1046	5068	7	MISSING	
+1047	5070	7	MISSING	
+1048	5078	7	MISSING	
+1049	5080	7	MISSING	
+1050	5088	7	MISSING	
+1051	5090	7	MISSING	
+1052	5098	7	MISSING	
+1053	50a0	7	MISSING	
+1054	50a8	7	MISSING	
+1055	50b0	7	MISSING	
+1056	50b8	7	MISSING	
+1057	50c0	7	MISSING	
+1058	50c8	7	MISSING	
+1059	50d0	7	MISSING	
+1060	50d8	7	MISSING	
+1061	50e0	7	MISSING	
+1062	50e8	7	MISSING	
+1063	50f0	7	MISSING	
+1064	50f8	7	MISSING	
+1065	5100	7	MISSING	
+1066	5108	7	MISSING	
+1067	5110	7	MISSING	
+1068	5118	7	MISSING	
+1069	5120	7	MISSING	
+1070	5128	7	MISSING	
+1071	5130	7	MISSING	
+1072	5138	7	MISSING	
+1073	5140	7	MISSING	
+1074	5148	7	MISSING	
+1075	5150	7	MISSING	
+1076	5158	7	MISSING	
+1077	5160	7	MISSING	
+1078	5168	7	MISSING	
+1079	5170	7	MISSING	
+1080	5178	7	MISSING	
+1081	5180	7	MISSING	
+1082	5188	7	MISSING	
+1083	5190	7	MISSING	
+1084	5198	7	MISSING	
+1085	51a0	7	MISSING	
+1086	51a8	7	MISSING	
+1087	51b0	7	MISSING	
+1088	51b8	7	MISSING	
+1089	51c0	7	MISSING	
+1090	51c8	7	MISSING	
+1091	51d0	7	MISSING	
+1092	51d8	7	MISSING	
+1093	51e0	7	MISSING	
+1094	51e8	7	MISSING	
+1095	51f0	7	MISSING	
+1096	51f8	7	MISSING	
+1097	5200	7	MISSING	
+1098	5208	7	MISSING	
+1099	5210	7	MISSING	
+1100	5218	7	MISSING	
+1101	5220	7	MISSING	
+1102	5228	7	MISSING	
+1103	5230	7	MISSING	
+1104	5238	7	MISSING	
+1105	5240	7	MISSING	
+1106	5248	7	MISSING	
+1107	5250	7	MISSING	
+1108	5258	7	MISSING	
+1109	5260	7	MISSING	
+1110	5268	7	MISSING	
+1111	5270	7	MISSING	
+1112	5278	7	MISSING	
+1113	5280	7	MISSING	
+1114	5288	7	MISSING	
+1115	5290	7	MISSING	
+1116	5298	7	MISSING	
+1117	52a0	7	MISSING	
+1118	52a8	7	MISSING	
+1119	52b0	7	MISSING	
+1120	52b8	7	MISSING	
+1121	52c0	7	MISSING	
+1122	52c8	7	MISSING	
+1123	52d0	7	MISSING	
+1124	52d8	7	MISSING	
+1125	52e0	7	MISSING	
+1126	52e8	7	MISSING	
+1127	52f0	7	MISSING	
+1128	52f8	7	MISSING	
+1129	5300	7	MISSING	
+1130	5308	7	MISSING	
+1131	5310	7	MISSING	
+1132	5318	7	MISSING	
+1133	5320	7	MISSING	
+1134	5328	7	MISSING	
+1135	5330	7	MISSING	
+1136	5338	7	MISSING	
+1137	5340	7	MISSING	
+1138	5348	7	MISSING	
+1139	5350	7	MISSING	
+1140	5358	7	MISSING	
+1141	5360	7	MISSING	
+1142	5368	7	MISSING	
+1143	5370	7	MISSING	
+1144	5378	7	MISSING	
+1145	5380	7	MISSING	
+1146	5388	7	MISSING	

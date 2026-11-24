@@ -1,0 +1,17 @@
+indice	offset	bytes	ingles	traducao
+0	0000	10	Brightness	Brilho
+1	000c	7	Presets	Padrão
+2	0014	6	Custom	Pessoal
+3	001c	6	Return	Voltar
+4	0024	25	When {9c}{9d} appears… Press {9c}{9d}	Quando {9c}{9d} aparecer… Aperte {9c}{9d}
+5	003e	25	When {9e}{9f} appears… Press {9e}{9f}	Quando {9e}{9f} aparecer… Aperte {9e}{9f}
+6	0058	18	Too dark… Press ><	Escuro demais… Aperte ><
+7	006c	26	Stop with the start button	Pare com o botão START
+8	0088	27	Is this brightness correct?	Este brilho está bom?
+9	00a4	3	Yes	Sim
+10	00a8	9	Try again	De novo
+11	00b2	25	Use left and right inputs	Use esquerda e direita
+12	00cc	40	Adjust brightness by|answering questions	Ajuste o brilho|respondendo perguntas
+13	00f6	48	Adjust brightness by using|left and right inputs	Ajuste o brilho usando|esquerda e direita
+14	0128	14	Return to menu	Voltar ao menu
+15	0138	7	MISSING	

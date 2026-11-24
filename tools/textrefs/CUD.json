@@ -1,0 +1,482 @@
+{
+"text": "ETC/CUD.MSB",
+"base": 2149320704,
+"refs": [
+{
+"file": "SLPM_863.41",
+"offset": 187968,
+"kind": "abs_lo",
+"msg": 0,
+"lui": 187960
+},
+{
+"file": "SLPM_863.41",
+"offset": 195752,
+"kind": "abs_lo",
+"msg": 1,
+"lui": 195744
+},
+{
+"file": "SLPM_863.41",
+"offset": 195780,
+"kind": "abs_lo",
+"msg": 2,
+"lui": 195772
+},
+{
+"file": "SLPM_863.41",
+"offset": 195808,
+"kind": "abs_lo",
+"msg": 3,
+"lui": 195800
+},
+{
+"file": "SLPM_863.41",
+"offset": 195844,
+"kind": "abs_lo",
+"msg": 4,
+"lui": 195836
+},
+{
+"file": "SLPM_863.41",
+"offset": 195872,
+"kind": "abs_lo",
+"msg": 5,
+"lui": 195864
+},
+{
+"file": "SLPM_863.41",
+"offset": 195900,
+"kind": "abs_lo",
+"msg": 6,
+"lui": 195892
+},
+{
+"file": "SLPM_863.41",
+"offset": 195928,
+"kind": "abs_lo",
+"msg": 7,
+"lui": 195920
+},
+{
+"file": "SLPM_863.41",
+"offset": 198560,
+"kind": "abs_lo",
+"msg": 8,
+"lui": 198552
+},
+{
+"file": "SLPM_863.41",
+"offset": 198588,
+"kind": "abs_lo",
+"msg": 9,
+"lui": 198580
+},
+{
+"file": "SLPM_863.41",
+"offset": 198616,
+"kind": "abs_lo",
+"msg": 10,
+"lui": 198608
+},
+{
+"file": "SLPM_863.41",
+"offset": 198756,
+"kind": "abs_lo",
+"msg": 11,
+"lui": 198748
+},
+{
+"file": "SLPM_863.41",
+"offset": 198784,
+"kind": "abs_lo",
+"msg": 9,
+"lui": 198776
+},
+{
+"file": "SLPM_863.41",
+"offset": 198812,
+"kind": "abs_lo",
+"msg": 10,
+"lui": 198804
+},
+{
+"file": "SLPM_863.41",
+"offset": 198952,
+"kind": "abs_lo",
+"msg": 11,
+"lui": 198944
+},
+{
+"file": "SLPM_863.41",
+"offset": 198980,
+"kind": "abs_lo",
+"msg": 7,
+"lui": 198972
+},
+{
+"file": "SLPM_863.41",
+"offset": 199008,
+"kind": "abs_lo",
+"msg": 12,
+"lui": 199000
+},
+{
+"file": "SLPM_863.41",
+"offset": 199148,
+"kind": "abs_lo",
+"msg": 13,
+"lui": 199140
+},
+{
+"file": "SLPM_863.41",
+"offset": 199176,
+"kind": "abs_lo",
+"msg": 14,
+"lui": 199168
+},
+{
+"file": "SLPM_863.41",
+"offset": 199204,
+"kind": "abs_lo",
+"msg": 15,
+"lui": 199196
+},
+{
+"file": "SLPM_863.41",
+"offset": 199296,
+"kind": "abs_lo",
+"msg": 16,
+"lui": 199288
+},
+{
+"file": "SLPM_863.41",
+"offset": 199384,
+"kind": "abs_lo",
+"msg": 17,
+"lui": 199376
+},
+{
+"file": "SLPM_863.41",
+"offset": 199472,
+"kind": "abs_lo",
+"msg": 18,
+"lui": 199464
+},
+{
+"file": "SLPM_863.41",
+"offset": 199560,
+"kind": "abs_lo",
+"msg": 19,
+"lui": 199552
+},
+{
+"file": "SLPM_863.41",
+"offset": 199648,
+"kind": "abs_lo",
+"msg": 20,
+"lui": 199640
+},
+{
+"file": "SLPM_863.41",
+"offset": 199736,
+"kind": "abs_lo",
+"msg": 21,
+"lui": 199728
+},
+{
+"file": "SLPM_863.41",
+"offset": 199824,
+"kind": "abs_lo",
+"msg": 22,
+"lui": 199816
+},
+{
+"file": "SLPM_863.41",
+"offset": 199912,
+"kind": "abs_lo",
+"msg": 23,
+"lui": 199904
+},
+{
+"file": "SLPM_863.41",
+"offset": 200000,
+"kind": "abs_lo",
+"msg": 24,
+"lui": 199992
+},
+{
+"file": "SLPM_863.41",
+"offset": 200172,
+"kind": "abs_lo",
+"msg": 25,
+"lui": 200164
+},
+{
+"file": "SLPM_863.41",
+"offset": 200200,
+"kind": "abs_lo",
+"msg": 9,
+"lui": 200192
+},
+{
+"file": "SLPM_863.41",
+"offset": 200228,
+"kind": "abs_lo",
+"msg": 10,
+"lui": 200220
+},
+{
+"file": "SLPM_863.41",
+"offset": 200264,
+"kind": "abs_lo",
+"msg": 26,
+"lui": 200256
+},
+{
+"file": "SLPM_863.41",
+"offset": 200292,
+"kind": "abs_lo",
+"msg": 9,
+"lui": 200284
+},
+{
+"file": "SLPM_863.41",
+"offset": 200320,
+"kind": "abs_lo",
+"msg": 10,
+"lui": 200312
+},
+{
+"file": "SLPM_863.41",
+"offset": 200376,
+"kind": "abs_lo",
+"msg": 27,
+"lui": 200368
+},
+{
+"file": "SLPM_863.41",
+"offset": 200404,
+"kind": "abs_lo",
+"msg": 9,
+"lui": 200396
+},
+{
+"file": "SLPM_863.41",
+"offset": 200432,
+"kind": "abs_lo",
+"msg": 10,
+"lui": 200424
+},
+{
+"file": "SLPM_863.41",
+"offset": 200468,
+"kind": "abs_lo",
+"msg": 28,
+"lui": 200460
+},
+{
+"file": "SLPM_863.41",
+"offset": 200496,
+"kind": "abs_lo",
+"msg": 9,
+"lui": 200488
+},
+{
+"file": "SLPM_863.41",
+"offset": 200524,
+"kind": "abs_lo",
+"msg": 10,
+"lui": 200516
+},
+{
+"file": "SLPM_863.41",
+"offset": 200700,
+"kind": "abs_lo",
+"msg": 29,
+"lui": 200692
+},
+{
+"file": "SLPM_863.41",
+"offset": 200728,
+"kind": "abs_lo",
+"msg": 9,
+"lui": 200720
+},
+{
+"file": "SLPM_863.41",
+"offset": 200756,
+"kind": "abs_lo",
+"msg": 10,
+"lui": 200748
+},
+{
+"file": "SLPM_863.41",
+"offset": 200792,
+"kind": "abs_lo",
+"msg": 30,
+"lui": 200784
+},
+{
+"file": "SLPM_863.41",
+"offset": 200820,
+"kind": "abs_lo",
+"msg": 9,
+"lui": 200812
+},
+{
+"file": "SLPM_863.41",
+"offset": 200848,
+"kind": "abs_lo",
+"msg": 10,
+"lui": 200840
+},
+{
+"file": "SLPM_863.41",
+"offset": 200904,
+"kind": "abs_lo",
+"msg": 31,
+"lui": 200896
+},
+{
+"file": "SLPM_863.41",
+"offset": 200932,
+"kind": "abs_lo",
+"msg": 9,
+"lui": 200924
+},
+{
+"file": "SLPM_863.41",
+"offset": 200960,
+"kind": "abs_lo",
+"msg": 10,
+"lui": 200952
+},
+{
+"file": "SLPM_863.41",
+"offset": 200996,
+"kind": "abs_lo",
+"msg": 32,
+"lui": 200988
+},
+{
+"file": "SLPM_863.41",
+"offset": 201024,
+"kind": "abs_lo",
+"msg": 9,
+"lui": 201016
+},
+{
+"file": "SLPM_863.41",
+"offset": 201052,
+"kind": "abs_lo",
+"msg": 10,
+"lui": 201044
+},
+{
+"file": "SLPM_863.41",
+"offset": 201160,
+"kind": "abs_lo",
+"msg": 33,
+"lui": 201152
+},
+{
+"file": "SLPM_863.41",
+"offset": 201196,
+"kind": "abs_lo",
+"msg": 34,
+"lui": 201188
+},
+{
+"file": "SLPM_863.41",
+"offset": 201284,
+"kind": "abs_lo",
+"msg": 35,
+"lui": 201276
+},
+{
+"file": "SLPM_863.41",
+"offset": 201420,
+"kind": "abs_lo",
+"msg": 36,
+"lui": 201412
+},
+{
+"file": "SLPM_863.41",
+"offset": 201448,
+"kind": "abs_lo",
+"msg": 9,
+"lui": 201440
+},
+{
+"file": "SLPM_863.41",
+"offset": 201476,
+"kind": "abs_lo",
+"msg": 10,
+"lui": 201468
+},
+{
+"file": "SLPM_863.41",
+"offset": 201616,
+"kind": "abs_lo",
+"msg": 37,
+"lui": 201608
+},
+{
+"file": "SLPM_863.41",
+"offset": 201644,
+"kind": "abs_lo",
+"msg": 9,
+"lui": 201636
+},
+{
+"file": "SLPM_863.41",
+"offset": 201672,
+"kind": "abs_lo",
+"msg": 10,
+"lui": 201664
+},
+{
+"file": "SLPM_863.41",
+"offset": 201812,
+"kind": "abs_lo",
+"msg": 38,
+"lui": 201804
+},
+{
+"file": "SLPM_863.41",
+"offset": 201840,
+"kind": "abs_lo",
+"msg": 9,
+"lui": 201832
+},
+{
+"file": "SLPM_863.41",
+"offset": 201868,
+"kind": "abs_lo",
+"msg": 10,
+"lui": 201860
+},
+{
+"file": "SLPM_863.41",
+"offset": 202008,
+"kind": "abs_lo",
+"msg": 39,
+"lui": 202000
+},
+{
+"file": "SLPM_863.41",
+"offset": 202036,
+"kind": "abs_lo",
+"msg": 9,
+"lui": 202028
+},
+{
+"file": "SLPM_863.41",
+"offset": 202064,
+"kind": "abs_lo",
+"msg": 10,
+"lui": 202056
+}
+]
+}

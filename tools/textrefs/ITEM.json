@@ -1,0 +1,5513 @@
+{
+"text": "ETC/ITEM.MSB",
+"base": 2149322752,
+"fixed": 9,
+"refs": [
+{
+"file": "BIN01/GAME.BIN",
+"offset": 23452,
+"kind": "abs_lo",
+"msg": 614,
+"lui": 23444
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 24948,
+"kind": "abs_lo",
+"msg": 615,
+"lui": 24932
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 25012,
+"kind": "abs_lo",
+"msg": 616,
+"lui": 24996
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 25516,
+"kind": "abs_lo",
+"msg": 617,
+"lui": 25504
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 25752,
+"kind": "abs_lo",
+"msg": 618,
+"lui": 25744
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 25844,
+"kind": "abs_lo",
+"msg": 619,
+"lui": 25832
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 25896,
+"kind": "abs_lo",
+"msg": 620,
+"lui": 25884
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 25948,
+"kind": "abs_lo",
+"msg": 621,
+"lui": 25936
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 26036,
+"kind": "abs_lo",
+"msg": 614,
+"lui": 26028
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 26076,
+"kind": "abs_lo",
+"msg": 620,
+"lui": 26068
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 26124,
+"kind": "abs_lo",
+"msg": 621,
+"lui": 26116
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 26180,
+"kind": "abs_lo",
+"msg": 622,
+"lui": 26172
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 26220,
+"kind": "abs_lo",
+"msg": 623,
+"lui": 26208
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 26312,
+"kind": "abs_lo",
+"msg": 496,
+"lui": 26296
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 26400,
+"kind": "abs_lo",
+"msg": 497,
+"lui": 26384
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 26488,
+"kind": "abs_lo",
+"msg": 498,
+"lui": 26472
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 26576,
+"kind": "abs_lo",
+"msg": 499,
+"lui": 26560
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 26664,
+"kind": "abs_lo",
+"msg": 500,
+"lui": 26648
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 26752,
+"kind": "abs_lo",
+"msg": 501,
+"lui": 26736
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 26840,
+"kind": "abs_lo",
+"msg": 502,
+"lui": 26824
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 26904,
+"kind": "abs_lo",
+"msg": 618,
+"lui": 26888
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 27016,
+"kind": "abs_lo",
+"msg": 618,
+"lui": 27000
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 27080,
+"kind": "abs_lo",
+"msg": 495,
+"lui": 27064
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 27144,
+"kind": "abs_lo",
+"msg": 624,
+"lui": 27128
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 27200,
+"kind": "abs_lo",
+"msg": 625,
+"lui": 27192
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 27256,
+"kind": "abs_lo",
+"msg": 626,
+"lui": 27248
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 27524,
+"kind": "abs_lo",
+"msg": 4,
+"lui": 27516
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 27620,
+"kind": "abs_lo",
+"msg": 627,
+"lui": 27608
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 27712,
+"kind": "abs_lo",
+"msg": 628,
+"lui": 27700
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 27824,
+"kind": "abs_lo",
+"msg": 5,
+"lui": 27816
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 27920,
+"kind": "abs_lo",
+"msg": 627,
+"lui": 27908
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 28012,
+"kind": "abs_lo",
+"msg": 628,
+"lui": 28000
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 29552,
+"kind": "abs_lo",
+"msg": 629,
+"lui": 29544
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 32316,
+"kind": "abs_lo",
+"msg": 630,
+"lui": 32308
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 32832,
+"kind": "rel16",
+"msg": 672
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 33376,
+"kind": "abs_lo",
+"msg": 631,
+"lui": 33368
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 33860,
+"kind": "abs_lo",
+"msg": 560,
+"lui": 33848
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 33936,
+"kind": "abs_lo",
+"msg": 632,
+"lui": 33924
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 34604,
+"kind": "abs_lo",
+"msg": 555,
+"lui": 34596
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 34784,
+"kind": "rel16",
+"msg": 675
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 35976,
+"kind": "abs_lo",
+"msg": 633,
+"lui": 35968
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 36024,
+"kind": "abs_lo",
+"msg": 634,
+"lui": 36016
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 36384,
+"kind": "abs_lo",
+"msg": 562,
+"lui": 36372
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 36508,
+"kind": "abs_lo",
+"msg": 555,
+"lui": 36500
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 36768,
+"kind": "abs_lo",
+"msg": 549,
+"lui": 36756
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 36804,
+"kind": "abs_lo",
+"msg": 561,
+"lui": 36792
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 36900,
+"kind": "abs_lo",
+"msg": 549,
+"lui": 36888
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 36936,
+"kind": "abs_lo",
+"msg": 562,
+"lui": 36924
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 37112,
+"kind": "abs_lo",
+"msg": 549,
+"lui": 37096
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 37152,
+"kind": "abs_lo",
+"msg": 561,
+"lui": 37136
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 37256,
+"kind": "abs_lo",
+"msg": 549,
+"lui": 37240
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 37296,
+"kind": "abs_lo",
+"msg": 562,
+"lui": 37280
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 37364,
+"kind": "abs_lo",
+"msg": 555,
+"lui": 37356
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 37608,
+"kind": "rel16",
+"msg": 555
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 37848,
+"kind": "rel16",
+"msg": 555
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 38040,
+"kind": "rel16",
+"msg": 674
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 38216,
+"kind": "abs_lo",
+"msg": 560,
+"lui": 38204
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 38280,
+"kind": "abs_lo",
+"msg": 560,
+"lui": 38268
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 38344,
+"kind": "abs_lo",
+"msg": 560,
+"lui": 38332
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 38408,
+"kind": "abs_lo",
+"msg": 560,
+"lui": 38396
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 38884,
+"kind": "abs_lo",
+"msg": 555,
+"lui": 38876
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 39208,
+"kind": "abs_lo",
+"msg": 635,
+"lui": 39200
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 39372,
+"kind": "abs_lo",
+"msg": 636,
+"lui": 39364
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 39420,
+"kind": "abs_lo",
+"msg": 555,
+"lui": 39412
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 39792,
+"kind": "abs_lo",
+"msg": 555,
+"lui": 39784
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 39996,
+"kind": "abs_lo",
+"msg": 560,
+"lui": 39984
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 40104,
+"kind": "abs_lo",
+"msg": 560,
+"lui": 40092
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 40476,
+"kind": "abs_lo",
+"msg": 555,
+"lui": 40468
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 40800,
+"kind": "abs_lo",
+"msg": 627,
+"lui": 40784
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 40860,
+"kind": "abs_lo",
+"msg": 628,
+"lui": 40844
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 41132,
+"kind": "abs_lo",
+"msg": 627,
+"lui": 41120
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 41188,
+"kind": "abs_lo",
+"msg": 628,
+"lui": 41176
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 41308,
+"kind": "abs_lo",
+"msg": 549,
+"lui": 41296
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 41352,
+"kind": "abs_lo",
+"msg": 561,
+"lui": 41336
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 41412,
+"kind": "abs_lo",
+"msg": 549,
+"lui": 41400
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 41456,
+"kind": "abs_lo",
+"msg": 562,
+"lui": 41440
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 41708,
+"kind": "abs_lo",
+"msg": 555,
+"lui": 41700
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 41916,
+"kind": "abs_lo",
+"msg": 627,
+"lui": 41904
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 41972,
+"kind": "abs_lo",
+"msg": 628,
+"lui": 41960
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 42080,
+"kind": "abs_lo",
+"msg": 549,
+"lui": 42072
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 42120,
+"kind": "abs_lo",
+"msg": 561,
+"lui": 42108
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 42176,
+"kind": "abs_lo",
+"msg": 549,
+"lui": 42168
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 42216,
+"kind": "abs_lo",
+"msg": 562,
+"lui": 42204
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 42528,
+"kind": "abs_lo",
+"msg": 637,
+"lui": 42516
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 42568,
+"kind": "abs_lo",
+"msg": 560,
+"lui": 42556
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 42792,
+"kind": "abs_lo",
+"msg": 637,
+"lui": 42776
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 42836,
+"kind": "abs_lo",
+"msg": 560,
+"lui": 42820
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 42984,
+"kind": "abs_lo",
+"msg": 560,
+"lui": 42968
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 43104,
+"kind": "abs_lo",
+"msg": 560,
+"lui": 43088
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 43268,
+"kind": "abs_lo",
+"msg": 637,
+"lui": 43252
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 43424,
+"kind": "abs_lo",
+"msg": 637,
+"lui": 43408
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 43632,
+"kind": "abs_lo",
+"msg": 555,
+"lui": 43624
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 43892,
+"kind": "abs_lo",
+"msg": 555,
+"lui": 43884
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 44196,
+"kind": "abs_lo",
+"msg": 638,
+"lui": 44188
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 44232,
+"kind": "abs_lo",
+"msg": 555,
+"lui": 44224
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 45372,
+"kind": "abs_lo",
+"msg": 639,
+"lui": 45364
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 45412,
+"kind": "abs_lo",
+"msg": 550,
+"lui": 45400
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 45624,
+"kind": "abs_lo",
+"msg": 640,
+"lui": 45616
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 45664,
+"kind": "abs_lo",
+"msg": 550,
+"lui": 45652
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 46192,
+"kind": "abs_lo",
+"msg": 639,
+"lui": 46184
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 46228,
+"kind": "abs_lo",
+"msg": 641,
+"lui": 46216
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 46440,
+"kind": "abs_lo",
+"msg": 640,
+"lui": 46432
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 46476,
+"kind": "abs_lo",
+"msg": 641,
+"lui": 46464
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 46740,
+"kind": "abs_lo",
+"msg": 642,
+"lui": 46732
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 47296,
+"kind": "abs_lo",
+"msg": 643,
+"lui": 47284
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 47648,
+"kind": "abs_lo",
+"msg": 644,
+"lui": 47640
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 48112,
+"kind": "rel16",
+"msg": 676
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 48264,
+"kind": "abs_lo",
+"msg": 645,
+"lui": 48256
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 48308,
+"kind": "abs_lo",
+"msg": 549,
+"lui": 48300
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 48348,
+"kind": "abs_lo",
+"msg": 563,
+"lui": 48336
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 48948,
+"kind": "abs_lo",
+"msg": 9,
+"lui": 48940
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 48988,
+"kind": "abs_lo",
+"msg": 646,
+"lui": 48976
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 49840,
+"kind": "abs_lo",
+"msg": 647,
+"lui": 49832
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 49980,
+"kind": "abs_lo",
+"msg": 648,
+"lui": 49972
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 50164,
+"kind": "abs_lo",
+"msg": 645,
+"lui": 50156
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 50208,
+"kind": "abs_lo",
+"msg": 549,
+"lui": 50200
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 50248,
+"kind": "abs_lo",
+"msg": 563,
+"lui": 50236
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 50440,
+"kind": "abs_lo",
+"msg": 645,
+"lui": 50432
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 50484,
+"kind": "abs_lo",
+"msg": 549,
+"lui": 50476
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 50524,
+"kind": "abs_lo",
+"msg": 563,
+"lui": 50512
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 50716,
+"kind": "abs_lo",
+"msg": 645,
+"lui": 50708
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 50760,
+"kind": "abs_lo",
+"msg": 549,
+"lui": 50752
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 50800,
+"kind": "abs_lo",
+"msg": 563,
+"lui": 50788
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 51352,
+"kind": "rel16",
+"msg": 674
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 51512,
+"kind": "abs_lo",
+"msg": 649,
+"lui": 51504
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 51872,
+"kind": "abs_lo",
+"msg": 650,
+"lui": 51860
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 52160,
+"kind": "rel16",
+"msg": 671
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 54660,
+"kind": "abs_lo",
+"msg": 560,
+"lui": 54644
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 54748,
+"kind": "abs_lo",
+"msg": 550,
+"lui": 54732
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 57684,
+"kind": "abs_lo",
+"msg": 651,
+"lui": 57676
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 57848,
+"kind": "abs_lo",
+"msg": 632,
+"lui": 57836
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 58000,
+"kind": "abs_lo",
+"msg": 652,
+"lui": 57992
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 58288,
+"kind": "abs_lo",
+"msg": 497,
+"lui": 58280
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 58384,
+"kind": "abs_lo",
+"msg": 498,
+"lui": 58376
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 58480,
+"kind": "abs_lo",
+"msg": 501,
+"lui": 58472
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 58576,
+"kind": "abs_lo",
+"msg": 502,
+"lui": 58568
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 58672,
+"kind": "abs_lo",
+"msg": 496,
+"lui": 58664
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 58768,
+"kind": "abs_lo",
+"msg": 499,
+"lui": 58760
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 58864,
+"kind": "abs_lo",
+"msg": 500,
+"lui": 58856
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 58952,
+"kind": "abs_lo",
+"msg": 495,
+"lui": 58944
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 59252,
+"kind": "abs_lo",
+"msg": 547,
+"lui": 59240
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 59292,
+"kind": "abs_lo",
+"msg": 556,
+"lui": 59280
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 59472,
+"kind": "abs_lo",
+"msg": 653,
+"lui": 59460
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 59512,
+"kind": "abs_lo",
+"msg": 654,
+"lui": 59500
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 59552,
+"kind": "abs_lo",
+"msg": 587,
+"lui": 59540
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 59644,
+"kind": "abs_lo",
+"msg": 549,
+"lui": 59632
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 59680,
+"kind": "abs_lo",
+"msg": 562,
+"lui": 59668
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 59772,
+"kind": "abs_lo",
+"msg": 549,
+"lui": 59760
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 59808,
+"kind": "abs_lo",
+"msg": 562,
+"lui": 59796
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 59848,
+"kind": "abs_lo",
+"msg": 8,
+"lui": 59836
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 61056,
+"kind": "rel16",
+"msg": 673
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 61100,
+"kind": "rel16",
+"msg": 677
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 61144,
+"kind": "rel16",
+"msg": 678
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 61284,
+"kind": "abs_lo",
+"msg": 60,
+"lui": 61276
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 61312,
+"kind": "abs_lo",
+"msg": 655,
+"lui": 61304
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 61460,
+"kind": "abs_lo",
+"msg": 100,
+"lui": 61452
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 61488,
+"kind": "abs_lo",
+"msg": 655,
+"lui": 61480
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 61736,
+"kind": "abs_lo",
+"msg": 62,
+"lui": 61728
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 61776,
+"kind": "abs_lo",
+"msg": 538,
+"lui": 61764
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 61880,
+"kind": "abs_lo",
+"msg": 106,
+"lui": 61872
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 61920,
+"kind": "abs_lo",
+"msg": 538,
+"lui": 61908
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 62024,
+"kind": "abs_lo",
+"msg": 134,
+"lui": 62016
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 62064,
+"kind": "abs_lo",
+"msg": 538,
+"lui": 62052
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 62160,
+"kind": "abs_lo",
+"msg": 656,
+"lui": 62152
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 62460,
+"kind": "abs_lo",
+"msg": 632,
+"lui": 62448
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 62664,
+"kind": "abs_lo",
+"msg": 637,
+"lui": 62652
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 62756,
+"kind": "abs_lo",
+"msg": 657,
+"lui": 62748
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 63108,
+"kind": "abs_lo",
+"msg": 562,
+"lui": 63096
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 63304,
+"kind": "abs_lo",
+"msg": 637,
+"lui": 63292
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 63388,
+"kind": "abs_lo",
+"msg": 657,
+"lui": 63380
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 63972,
+"kind": "abs_lo",
+"msg": 198,
+"lui": 63964
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 64012,
+"kind": "abs_lo",
+"msg": 538,
+"lui": 64000
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 64428,
+"kind": "abs_lo",
+"msg": 658,
+"lui": 64420
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 64516,
+"kind": "abs_lo",
+"msg": 659,
+"lui": 64504
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 65552,
+"kind": "abs_lo",
+"msg": 572,
+"lui": 65540
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 65952,
+"kind": "abs_lo",
+"msg": 670,
+"lui": 65940
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 65980,
+"kind": "abs_lo",
+"msg": 660,
+"lui": 65972
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 66904,
+"kind": "abs_lo",
+"msg": 661,
+"lui": 66896
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 67024,
+"kind": "abs_lo",
+"msg": 662,
+"lui": 67016
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 67060,
+"kind": "abs_lo",
+"msg": 663,
+"lui": 67052
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 67112,
+"kind": "abs_lo",
+"msg": 664,
+"lui": 67104
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 67240,
+"kind": "abs_lo",
+"msg": 665,
+"lui": 67232
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 67412,
+"kind": "abs_lo",
+"msg": 572,
+"lui": 67400
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 67716,
+"kind": "abs_lo",
+"msg": 670,
+"lui": 67704
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 67744,
+"kind": "abs_lo",
+"msg": 660,
+"lui": 67736
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 68072,
+"kind": "rel16",
+"msg": 679
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 68240,
+"kind": "rel16",
+"msg": 679
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 69164,
+"kind": "rel16",
+"msg": 680
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 69784,
+"kind": "abs_lo",
+"msg": 666,
+"lui": 69776
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 69832,
+"kind": "abs_lo",
+"msg": 667,
+"lui": 69824
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 69892,
+"kind": "abs_lo",
+"msg": 668,
+"lui": 69884
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 69920,
+"kind": "abs_lo",
+"msg": 669,
+"lui": 69912
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 108312,
+"kind": "abs_lo",
+"msg": 494,
+"lui": 108296
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 116696,
+"kind": "abs_lo",
+"msg": 58,
+"lui": 116680
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 117460,
+"kind": "abs_lo",
+"msg": 60,
+"lui": 117444
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 117556,
+"kind": "abs_lo",
+"msg": 100,
+"lui": 117540
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161360,
+"kind": "ptr32",
+"msg": 506
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161364,
+"kind": "ptr32",
+"msg": 507
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161368,
+"kind": "ptr32",
+"msg": 508
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161372,
+"kind": "ptr32",
+"msg": 509
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161376,
+"kind": "ptr32",
+"msg": 510
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161380,
+"kind": "ptr32",
+"msg": 507
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161384,
+"kind": "ptr32",
+"msg": 508
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161388,
+"kind": "ptr32",
+"msg": 511
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161392,
+"kind": "ptr32",
+"msg": 507
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161396,
+"kind": "ptr32",
+"msg": 508
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161400,
+"kind": "ptr32",
+"msg": 512
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161404,
+"kind": "ptr32",
+"msg": 507
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161408,
+"kind": "ptr32",
+"msg": 508
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161412,
+"kind": "ptr32",
+"msg": 513
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161416,
+"kind": "ptr32",
+"msg": 507
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161420,
+"kind": "ptr32",
+"msg": 508
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161424,
+"kind": "ptr32",
+"msg": 514
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161428,
+"kind": "ptr32",
+"msg": 507
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161432,
+"kind": "ptr32",
+"msg": 508
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161436,
+"kind": "ptr32",
+"msg": 515
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161440,
+"kind": "ptr32",
+"msg": 507
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161444,
+"kind": "ptr32",
+"msg": 516
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161448,
+"kind": "ptr32",
+"msg": 517
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161452,
+"kind": "ptr32",
+"msg": 507
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161456,
+"kind": "ptr32",
+"msg": 508
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161460,
+"kind": "ptr32",
+"msg": 518
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161464,
+"kind": "ptr32",
+"msg": 507
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161468,
+"kind": "ptr32",
+"msg": 508
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161472,
+"kind": "ptr32",
+"msg": 519
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161476,
+"kind": "ptr32",
+"msg": 507
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161480,
+"kind": "ptr32",
+"msg": 508
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161840,
+"kind": "ptr32",
+"msg": 520
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161848,
+"kind": "ptr32",
+"msg": 521
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161852,
+"kind": "ptr32",
+"msg": 522
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161856,
+"kind": "ptr32",
+"msg": 523
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161860,
+"kind": "ptr32",
+"msg": 524
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161864,
+"kind": "ptr32",
+"msg": 525
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161868,
+"kind": "ptr32",
+"msg": 526
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161872,
+"kind": "ptr32",
+"msg": 527
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161876,
+"kind": "ptr32",
+"msg": 528
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161880,
+"kind": "ptr32",
+"msg": 529
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161884,
+"kind": "ptr32",
+"msg": 530
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 161888,
+"kind": "ptr32",
+"msg": 531
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165172,
+"kind": "ptr32",
+"msg": 532
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165180,
+"kind": "ptr32",
+"msg": 533
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165188,
+"kind": "ptr32",
+"msg": 534
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165196,
+"kind": "ptr32",
+"msg": 535
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165208,
+"kind": "ptr32",
+"msg": 536
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165220,
+"kind": "ptr32",
+"msg": 537
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165232,
+"kind": "ptr32",
+"msg": 538
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165244,
+"kind": "ptr32",
+"msg": 539
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165256,
+"kind": "ptr32",
+"msg": 540
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165268,
+"kind": "ptr32",
+"msg": 541
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165280,
+"kind": "ptr32",
+"msg": 542
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165292,
+"kind": "ptr32",
+"msg": 543
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165304,
+"kind": "ptr32",
+"msg": 544
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165316,
+"kind": "ptr32",
+"msg": 546
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165328,
+"kind": "ptr32",
+"msg": 8
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165340,
+"kind": "ptr32",
+"msg": 547
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165352,
+"kind": "ptr32",
+"msg": 548
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165364,
+"kind": "ptr32",
+"msg": 545
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165368,
+"kind": "ptr32",
+"msg": 549
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165372,
+"kind": "ptr32",
+"msg": 550
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165384,
+"kind": "ptr32",
+"msg": 551
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165396,
+"kind": "ptr32",
+"msg": 552
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165404,
+"kind": "ptr32",
+"msg": 553
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165416,
+"kind": "ptr32",
+"msg": 554
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165424,
+"kind": "ptr32",
+"msg": 555
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165436,
+"kind": "ptr32",
+"msg": 556
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165444,
+"kind": "ptr32",
+"msg": 557
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165452,
+"kind": "ptr32",
+"msg": 558
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165460,
+"kind": "ptr32",
+"msg": 559
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165472,
+"kind": "ptr32",
+"msg": 560
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165484,
+"kind": "ptr32",
+"msg": 549
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165488,
+"kind": "ptr32",
+"msg": 550
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165500,
+"kind": "ptr32",
+"msg": 549
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165504,
+"kind": "ptr32",
+"msg": 561
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165516,
+"kind": "ptr32",
+"msg": 549
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165520,
+"kind": "ptr32",
+"msg": 562
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165532,
+"kind": "ptr32",
+"msg": 549
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165536,
+"kind": "ptr32",
+"msg": 561
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165548,
+"kind": "ptr32",
+"msg": 549
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165552,
+"kind": "ptr32",
+"msg": 562
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165568,
+"kind": "ptr32",
+"msg": 549
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165572,
+"kind": "ptr32",
+"msg": 561
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165588,
+"kind": "ptr32",
+"msg": 549
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165592,
+"kind": "ptr32",
+"msg": 561
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165604,
+"kind": "ptr32",
+"msg": 549
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165608,
+"kind": "ptr32",
+"msg": 561
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165620,
+"kind": "ptr32",
+"msg": 549
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165624,
+"kind": "ptr32",
+"msg": 561
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165636,
+"kind": "ptr32",
+"msg": 549
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165640,
+"kind": "ptr32",
+"msg": 562
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165652,
+"kind": "ptr32",
+"msg": 549
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165656,
+"kind": "ptr32",
+"msg": 562
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165664,
+"kind": "ptr32",
+"msg": 549
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165668,
+"kind": "ptr32",
+"msg": 563
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165676,
+"kind": "ptr32",
+"msg": 564
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165684,
+"kind": "ptr32",
+"msg": 549
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165692,
+"kind": "ptr32",
+"msg": 563
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165696,
+"kind": "ptr32",
+"msg": 565
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165704,
+"kind": "ptr32",
+"msg": 46
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165708,
+"kind": "ptr32",
+"msg": 566
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165716,
+"kind": "ptr32",
+"msg": 567
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165724,
+"kind": "ptr32",
+"msg": 549
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165728,
+"kind": "ptr32",
+"msg": 568
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165736,
+"kind": "ptr32",
+"msg": 569
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165744,
+"kind": "ptr32",
+"msg": 98
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165748,
+"kind": "ptr32",
+"msg": 570
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165756,
+"kind": "ptr32",
+"msg": 96
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165760,
+"kind": "ptr32",
+"msg": 566
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165768,
+"kind": "ptr32",
+"msg": 564
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165776,
+"kind": "ptr32",
+"msg": 571
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165784,
+"kind": "ptr32",
+"msg": 188
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165788,
+"kind": "ptr32",
+"msg": 572
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165796,
+"kind": "ptr32",
+"msg": 8
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165808,
+"kind": "ptr32",
+"msg": 11
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165812,
+"kind": "ptr32",
+"msg": 192
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165816,
+"kind": "ptr32",
+"msg": 8
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165824,
+"kind": "ptr32",
+"msg": 574
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165832,
+"kind": "ptr32",
+"msg": 575
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165840,
+"kind": "ptr32",
+"msg": 576
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165848,
+"kind": "ptr32",
+"msg": 577
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165856,
+"kind": "ptr32",
+"msg": 576
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165864,
+"kind": "ptr32",
+"msg": 578
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165872,
+"kind": "ptr32",
+"msg": 579
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165880,
+"kind": "ptr32",
+"msg": 580
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165888,
+"kind": "ptr32",
+"msg": 581
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165896,
+"kind": "ptr32",
+"msg": 582
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165904,
+"kind": "ptr32",
+"msg": 583
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165908,
+"kind": "ptr32",
+"msg": 549
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165924,
+"kind": "ptr32",
+"msg": 584
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165932,
+"kind": "ptr32",
+"msg": 585
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165940,
+"kind": "ptr32",
+"msg": 586
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165948,
+"kind": "ptr32",
+"msg": 434
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165952,
+"kind": "ptr32",
+"msg": 10
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165960,
+"kind": "ptr32",
+"msg": 8
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165968,
+"kind": "ptr32",
+"msg": 588
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165972,
+"kind": "ptr32",
+"msg": 589
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165976,
+"kind": "ptr32",
+"msg": 590
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165980,
+"kind": "ptr32",
+"msg": 591
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165984,
+"kind": "ptr32",
+"msg": 589
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165988,
+"kind": "ptr32",
+"msg": 590
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165992,
+"kind": "ptr32",
+"msg": 592
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 165996,
+"kind": "ptr32",
+"msg": 593
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166000,
+"kind": "ptr32",
+"msg": 594
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166004,
+"kind": "ptr32",
+"msg": 595
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166008,
+"kind": "ptr32",
+"msg": 593
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166012,
+"kind": "ptr32",
+"msg": 594
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166016,
+"kind": "ptr32",
+"msg": 596
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166024,
+"kind": "ptr32",
+"msg": 597
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166032,
+"kind": "ptr32",
+"msg": 598
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166040,
+"kind": "ptr32",
+"msg": 599
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166048,
+"kind": "ptr32",
+"msg": 600
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166056,
+"kind": "ptr32",
+"msg": 601
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166064,
+"kind": "ptr32",
+"msg": 602
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166072,
+"kind": "ptr32",
+"msg": 603
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166080,
+"kind": "ptr32",
+"msg": 604
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166088,
+"kind": "ptr32",
+"msg": 605
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166096,
+"kind": "ptr32",
+"msg": 606
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166104,
+"kind": "ptr32",
+"msg": 607
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166112,
+"kind": "ptr32",
+"msg": 608
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166120,
+"kind": "ptr32",
+"msg": 609
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166128,
+"kind": "ptr32",
+"msg": 610
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166136,
+"kind": "ptr32",
+"msg": 611
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166152,
+"kind": "ptr32",
+"msg": 612
+},
+{
+"file": "BIN01/GAME.BIN",
+"offset": 166160,
+"kind": "ptr32",
+"msg": 613
+},
+{
+"file": "SLPM_863.41",
+"offset": 120176,
+"kind": "abs_lo",
+"msg": 494,
+"lui": 120160
+},
+{
+"file": "SLPM_863.41",
+"offset": 140016,
+"kind": "abs_lo",
+"msg": 495,
+"lui": 140000
+},
+{
+"file": "SLPM_863.41",
+"offset": 152648,
+"kind": "abs_lo",
+"msg": 396,
+"lui": 152632
+},
+{
+"file": "SLPM_863.41",
+"offset": 152780,
+"kind": "abs_lo",
+"msg": 398,
+"lui": 152764
+},
+{
+"file": "SLPM_863.41",
+"offset": 155536,
+"kind": "abs_lo",
+"msg": 496,
+"lui": 155520
+},
+{
+"file": "SLPM_863.41",
+"offset": 155596,
+"kind": "abs_lo",
+"msg": 496,
+"lui": 155580
+},
+{
+"file": "SLPM_863.41",
+"offset": 155772,
+"kind": "abs_lo",
+"msg": 497,
+"lui": 155756
+},
+{
+"file": "SLPM_863.41",
+"offset": 155832,
+"kind": "abs_lo",
+"msg": 497,
+"lui": 155816
+},
+{
+"file": "SLPM_863.41",
+"offset": 156012,
+"kind": "abs_lo",
+"msg": 498,
+"lui": 155996
+},
+{
+"file": "SLPM_863.41",
+"offset": 156084,
+"kind": "abs_lo",
+"msg": 498,
+"lui": 156068
+},
+{
+"file": "SLPM_863.41",
+"offset": 156260,
+"kind": "abs_lo",
+"msg": 499,
+"lui": 156244
+},
+{
+"file": "SLPM_863.41",
+"offset": 156320,
+"kind": "abs_lo",
+"msg": 499,
+"lui": 156304
+},
+{
+"file": "SLPM_863.41",
+"offset": 156540,
+"kind": "abs_lo",
+"msg": 500,
+"lui": 156524
+},
+{
+"file": "SLPM_863.41",
+"offset": 156632,
+"kind": "abs_lo",
+"msg": 500,
+"lui": 156616
+},
+{
+"file": "SLPM_863.41",
+"offset": 156808,
+"kind": "abs_lo",
+"msg": 501,
+"lui": 156792
+},
+{
+"file": "SLPM_863.41",
+"offset": 156868,
+"kind": "abs_lo",
+"msg": 501,
+"lui": 156852
+},
+{
+"file": "SLPM_863.41",
+"offset": 157044,
+"kind": "abs_lo",
+"msg": 502,
+"lui": 157028
+},
+{
+"file": "SLPM_863.41",
+"offset": 157104,
+"kind": "abs_lo",
+"msg": 502,
+"lui": 157088
+},
+{
+"file": "SLPM_863.41",
+"offset": 185056,
+"kind": "abs_lo",
+"msg": 496,
+"lui": 185040
+},
+{
+"file": "SLPM_863.41",
+"offset": 185116,
+"kind": "abs_lo",
+"msg": 497,
+"lui": 185100
+},
+{
+"file": "SLPM_863.41",
+"offset": 185176,
+"kind": "abs_lo",
+"msg": 498,
+"lui": 185160
+},
+{
+"file": "SLPM_863.41",
+"offset": 185236,
+"kind": "abs_lo",
+"msg": 499,
+"lui": 185220
+},
+{
+"file": "SLPM_863.41",
+"offset": 185296,
+"kind": "abs_lo",
+"msg": 500,
+"lui": 185280
+},
+{
+"file": "SLPM_863.41",
+"offset": 185356,
+"kind": "abs_lo",
+"msg": 501,
+"lui": 185340
+},
+{
+"file": "SLPM_863.41",
+"offset": 185416,
+"kind": "abs_lo",
+"msg": 502,
+"lui": 185400
+},
+{
+"file": "SLPM_863.41",
+"offset": 186072,
+"kind": "abs_lo",
+"msg": 496,
+"lui": 186056
+},
+{
+"file": "SLPM_863.41",
+"offset": 186144,
+"kind": "abs_lo",
+"msg": 497,
+"lui": 186128
+},
+{
+"file": "SLPM_863.41",
+"offset": 186216,
+"kind": "abs_lo",
+"msg": 498,
+"lui": 186200
+},
+{
+"file": "SLPM_863.41",
+"offset": 186288,
+"kind": "abs_lo",
+"msg": 499,
+"lui": 186272
+},
+{
+"file": "SLPM_863.41",
+"offset": 186432,
+"kind": "abs_lo",
+"msg": 500,
+"lui": 186416
+},
+{
+"file": "SLPM_863.41",
+"offset": 186504,
+"kind": "abs_lo",
+"msg": 501,
+"lui": 186488
+},
+{
+"file": "SLPM_863.41",
+"offset": 186576,
+"kind": "abs_lo",
+"msg": 502,
+"lui": 186560
+},
+{
+"file": "SLPM_863.41",
+"offset": 339556,
+"kind": "ptr32",
+"msg": 503
+},
+{
+"file": "SLPM_863.41",
+"offset": 339564,
+"kind": "ptr32",
+"msg": 504
+},
+{
+"file": "SLPM_863.41",
+"offset": 339572,
+"kind": "ptr32",
+"msg": 505
+},
+{
+"file": "SLPM_863.41",
+"offset": 364368,
+"kind": "rel16",
+"msg": 12
+},
+{
+"file": "SLPM_863.41",
+"offset": 364370,
+"kind": "rel16",
+"msg": 13
+},
+{
+"file": "SLPM_863.41",
+"offset": 364372,
+"kind": "rel16",
+"msg": 14
+},
+{
+"file": "SLPM_863.41",
+"offset": 364374,
+"kind": "rel16",
+"msg": 15
+},
+{
+"file": "SLPM_863.41",
+"offset": 364376,
+"kind": "rel16",
+"msg": 16
+},
+{
+"file": "SLPM_863.41",
+"offset": 364378,
+"kind": "rel16",
+"msg": 17
+},
+{
+"file": "SLPM_863.41",
+"offset": 364380,
+"kind": "rel16",
+"msg": 18
+},
+{
+"file": "SLPM_863.41",
+"offset": 364382,
+"kind": "rel16",
+"msg": 19
+},
+{
+"file": "SLPM_863.41",
+"offset": 364384,
+"kind": "rel16",
+"msg": 20
+},
+{
+"file": "SLPM_863.41",
+"offset": 364386,
+"kind": "rel16",
+"msg": 21
+},
+{
+"file": "SLPM_863.41",
+"offset": 364388,
+"kind": "rel16",
+"msg": 22
+},
+{
+"file": "SLPM_863.41",
+"offset": 364390,
+"kind": "rel16",
+"msg": 23
+},
+{
+"file": "SLPM_863.41",
+"offset": 364392,
+"kind": "rel16",
+"msg": 24
+},
+{
+"file": "SLPM_863.41",
+"offset": 364394,
+"kind": "rel16",
+"msg": 25
+},
+{
+"file": "SLPM_863.41",
+"offset": 364396,
+"kind": "rel16",
+"msg": 26
+},
+{
+"file": "SLPM_863.41",
+"offset": 364398,
+"kind": "rel16",
+"msg": 27
+},
+{
+"file": "SLPM_863.41",
+"offset": 364400,
+"kind": "rel16",
+"msg": 28
+},
+{
+"file": "SLPM_863.41",
+"offset": 364402,
+"kind": "rel16",
+"msg": 29
+},
+{
+"file": "SLPM_863.41",
+"offset": 364404,
+"kind": "rel16",
+"msg": 30
+},
+{
+"file": "SLPM_863.41",
+"offset": 364406,
+"kind": "rel16",
+"msg": 31
+},
+{
+"file": "SLPM_863.41",
+"offset": 364408,
+"kind": "rel16",
+"msg": 32
+},
+{
+"file": "SLPM_863.41",
+"offset": 364410,
+"kind": "rel16",
+"msg": 33
+},
+{
+"file": "SLPM_863.41",
+"offset": 364412,
+"kind": "rel16",
+"msg": 34
+},
+{
+"file": "SLPM_863.41",
+"offset": 364414,
+"kind": "rel16",
+"msg": 35
+},
+{
+"file": "SLPM_863.41",
+"offset": 364416,
+"kind": "rel16",
+"msg": 36
+},
+{
+"file": "SLPM_863.41",
+"offset": 364418,
+"kind": "rel16",
+"msg": 37
+},
+{
+"file": "SLPM_863.41",
+"offset": 364420,
+"kind": "rel16",
+"msg": 38
+},
+{
+"file": "SLPM_863.41",
+"offset": 364422,
+"kind": "rel16",
+"msg": 39
+},
+{
+"file": "SLPM_863.41",
+"offset": 364424,
+"kind": "rel16",
+"msg": 40
+},
+{
+"file": "SLPM_863.41",
+"offset": 364426,
+"kind": "rel16",
+"msg": 41
+},
+{
+"file": "SLPM_863.41",
+"offset": 364428,
+"kind": "rel16",
+"msg": 42
+},
+{
+"file": "SLPM_863.41",
+"offset": 364430,
+"kind": "rel16",
+"msg": 43
+},
+{
+"file": "SLPM_863.41",
+"offset": 364432,
+"kind": "rel16",
+"msg": 44
+},
+{
+"file": "SLPM_863.41",
+"offset": 364434,
+"kind": "rel16",
+"msg": 45
+},
+{
+"file": "SLPM_863.41",
+"offset": 364436,
+"kind": "rel16",
+"msg": 46
+},
+{
+"file": "SLPM_863.41",
+"offset": 364438,
+"kind": "rel16",
+"msg": 47
+},
+{
+"file": "SLPM_863.41",
+"offset": 364440,
+"kind": "rel16",
+"msg": 48
+},
+{
+"file": "SLPM_863.41",
+"offset": 364442,
+"kind": "rel16",
+"msg": 49
+},
+{
+"file": "SLPM_863.41",
+"offset": 364444,
+"kind": "rel16",
+"msg": 50
+},
+{
+"file": "SLPM_863.41",
+"offset": 364446,
+"kind": "rel16",
+"msg": 51
+},
+{
+"file": "SLPM_863.41",
+"offset": 364448,
+"kind": "rel16",
+"msg": 52
+},
+{
+"file": "SLPM_863.41",
+"offset": 364450,
+"kind": "rel16",
+"msg": 53
+},
+{
+"file": "SLPM_863.41",
+"offset": 364452,
+"kind": "rel16",
+"msg": 54
+},
+{
+"file": "SLPM_863.41",
+"offset": 364454,
+"kind": "rel16",
+"msg": 55
+},
+{
+"file": "SLPM_863.41",
+"offset": 364456,
+"kind": "rel16",
+"msg": 56
+},
+{
+"file": "SLPM_863.41",
+"offset": 364458,
+"kind": "rel16",
+"msg": 57
+},
+{
+"file": "SLPM_863.41",
+"offset": 364460,
+"kind": "rel16",
+"msg": 58
+},
+{
+"file": "SLPM_863.41",
+"offset": 364462,
+"kind": "rel16",
+"msg": 59
+},
+{
+"file": "SLPM_863.41",
+"offset": 364464,
+"kind": "rel16",
+"msg": 60
+},
+{
+"file": "SLPM_863.41",
+"offset": 364466,
+"kind": "rel16",
+"msg": 61
+},
+{
+"file": "SLPM_863.41",
+"offset": 364468,
+"kind": "rel16",
+"msg": 62
+},
+{
+"file": "SLPM_863.41",
+"offset": 364470,
+"kind": "rel16",
+"msg": 63
+},
+{
+"file": "SLPM_863.41",
+"offset": 364472,
+"kind": "rel16",
+"msg": 64
+},
+{
+"file": "SLPM_863.41",
+"offset": 364474,
+"kind": "rel16",
+"msg": 65
+},
+{
+"file": "SLPM_863.41",
+"offset": 364476,
+"kind": "rel16",
+"msg": 66
+},
+{
+"file": "SLPM_863.41",
+"offset": 364478,
+"kind": "rel16",
+"msg": 67
+},
+{
+"file": "SLPM_863.41",
+"offset": 364480,
+"kind": "rel16",
+"msg": 68
+},
+{
+"file": "SLPM_863.41",
+"offset": 364482,
+"kind": "rel16",
+"msg": 69
+},
+{
+"file": "SLPM_863.41",
+"offset": 364488,
+"kind": "rel16",
+"msg": 70
+},
+{
+"file": "SLPM_863.41",
+"offset": 364490,
+"kind": "rel16",
+"msg": 71
+},
+{
+"file": "SLPM_863.41",
+"offset": 364496,
+"kind": "rel16",
+"msg": 72
+},
+{
+"file": "SLPM_863.41",
+"offset": 364498,
+"kind": "rel16",
+"msg": 73
+},
+{
+"file": "SLPM_863.41",
+"offset": 364500,
+"kind": "rel16",
+"msg": 74
+},
+{
+"file": "SLPM_863.41",
+"offset": 364502,
+"kind": "rel16",
+"msg": 75
+},
+{
+"file": "SLPM_863.41",
+"offset": 364504,
+"kind": "rel16",
+"msg": 76
+},
+{
+"file": "SLPM_863.41",
+"offset": 364506,
+"kind": "rel16",
+"msg": 77
+},
+{
+"file": "SLPM_863.41",
+"offset": 364508,
+"kind": "rel16",
+"msg": 78
+},
+{
+"file": "SLPM_863.41",
+"offset": 364510,
+"kind": "rel16",
+"msg": 79
+},
+{
+"file": "SLPM_863.41",
+"offset": 364512,
+"kind": "rel16",
+"msg": 80
+},
+{
+"file": "SLPM_863.41",
+"offset": 364514,
+"kind": "rel16",
+"msg": 81
+},
+{
+"file": "SLPM_863.41",
+"offset": 364516,
+"kind": "rel16",
+"msg": 82
+},
+{
+"file": "SLPM_863.41",
+"offset": 364518,
+"kind": "rel16",
+"msg": 83
+},
+{
+"file": "SLPM_863.41",
+"offset": 364520,
+"kind": "rel16",
+"msg": 84
+},
+{
+"file": "SLPM_863.41",
+"offset": 364522,
+"kind": "rel16",
+"msg": 85
+},
+{
+"file": "SLPM_863.41",
+"offset": 364524,
+"kind": "rel16",
+"msg": 86
+},
+{
+"file": "SLPM_863.41",
+"offset": 364526,
+"kind": "rel16",
+"msg": 87
+},
+{
+"file": "SLPM_863.41",
+"offset": 364528,
+"kind": "rel16",
+"msg": 88
+},
+{
+"file": "SLPM_863.41",
+"offset": 364530,
+"kind": "rel16",
+"msg": 89
+},
+{
+"file": "SLPM_863.41",
+"offset": 364532,
+"kind": "rel16",
+"msg": 90
+},
+{
+"file": "SLPM_863.41",
+"offset": 364534,
+"kind": "rel16",
+"msg": 91
+},
+{
+"file": "SLPM_863.41",
+"offset": 364536,
+"kind": "rel16",
+"msg": 92
+},
+{
+"file": "SLPM_863.41",
+"offset": 364538,
+"kind": "rel16",
+"msg": 93
+},
+{
+"file": "SLPM_863.41",
+"offset": 364540,
+"kind": "rel16",
+"msg": 94
+},
+{
+"file": "SLPM_863.41",
+"offset": 364542,
+"kind": "rel16",
+"msg": 95
+},
+{
+"file": "SLPM_863.41",
+"offset": 364544,
+"kind": "rel16",
+"msg": 96
+},
+{
+"file": "SLPM_863.41",
+"offset": 364546,
+"kind": "rel16",
+"msg": 97
+},
+{
+"file": "SLPM_863.41",
+"offset": 364548,
+"kind": "rel16",
+"msg": 98
+},
+{
+"file": "SLPM_863.41",
+"offset": 364550,
+"kind": "rel16",
+"msg": 99
+},
+{
+"file": "SLPM_863.41",
+"offset": 364552,
+"kind": "rel16",
+"msg": 100
+},
+{
+"file": "SLPM_863.41",
+"offset": 364554,
+"kind": "rel16",
+"msg": 101
+},
+{
+"file": "SLPM_863.41",
+"offset": 364556,
+"kind": "rel16",
+"msg": 102
+},
+{
+"file": "SLPM_863.41",
+"offset": 364558,
+"kind": "rel16",
+"msg": 103
+},
+{
+"file": "SLPM_863.41",
+"offset": 364564,
+"kind": "rel16",
+"msg": 104
+},
+{
+"file": "SLPM_863.41",
+"offset": 364566,
+"kind": "rel16",
+"msg": 105
+},
+{
+"file": "SLPM_863.41",
+"offset": 364572,
+"kind": "rel16",
+"msg": 106
+},
+{
+"file": "SLPM_863.41",
+"offset": 364574,
+"kind": "rel16",
+"msg": 107
+},
+{
+"file": "SLPM_863.41",
+"offset": 364580,
+"kind": "rel16",
+"msg": 108
+},
+{
+"file": "SLPM_863.41",
+"offset": 364582,
+"kind": "rel16",
+"msg": 109
+},
+{
+"file": "SLPM_863.41",
+"offset": 364588,
+"kind": "rel16",
+"msg": 110
+},
+{
+"file": "SLPM_863.41",
+"offset": 364590,
+"kind": "rel16",
+"msg": 111
+},
+{
+"file": "SLPM_863.41",
+"offset": 364592,
+"kind": "rel16",
+"msg": 112
+},
+{
+"file": "SLPM_863.41",
+"offset": 364594,
+"kind": "rel16",
+"msg": 113
+},
+{
+"file": "SLPM_863.41",
+"offset": 364596,
+"kind": "rel16",
+"msg": 114
+},
+{
+"file": "SLPM_863.41",
+"offset": 364598,
+"kind": "rel16",
+"msg": 115
+},
+{
+"file": "SLPM_863.41",
+"offset": 364600,
+"kind": "rel16",
+"msg": 116
+},
+{
+"file": "SLPM_863.41",
+"offset": 364602,
+"kind": "rel16",
+"msg": 117
+},
+{
+"file": "SLPM_863.41",
+"offset": 364604,
+"kind": "rel16",
+"msg": 118
+},
+{
+"file": "SLPM_863.41",
+"offset": 364606,
+"kind": "rel16",
+"msg": 119
+},
+{
+"file": "SLPM_863.41",
+"offset": 364608,
+"kind": "rel16",
+"msg": 120
+},
+{
+"file": "SLPM_863.41",
+"offset": 364610,
+"kind": "rel16",
+"msg": 121
+},
+{
+"file": "SLPM_863.41",
+"offset": 364612,
+"kind": "rel16",
+"msg": 122
+},
+{
+"file": "SLPM_863.41",
+"offset": 364614,
+"kind": "rel16",
+"msg": 123
+},
+{
+"file": "SLPM_863.41",
+"offset": 364616,
+"kind": "rel16",
+"msg": 124
+},
+{
+"file": "SLPM_863.41",
+"offset": 364618,
+"kind": "rel16",
+"msg": 125
+},
+{
+"file": "SLPM_863.41",
+"offset": 364620,
+"kind": "rel16",
+"msg": 126
+},
+{
+"file": "SLPM_863.41",
+"offset": 364622,
+"kind": "rel16",
+"msg": 127
+},
+{
+"file": "SLPM_863.41",
+"offset": 364624,
+"kind": "rel16",
+"msg": 128
+},
+{
+"file": "SLPM_863.41",
+"offset": 364626,
+"kind": "rel16",
+"msg": 129
+},
+{
+"file": "SLPM_863.41",
+"offset": 364628,
+"kind": "rel16",
+"msg": 130
+},
+{
+"file": "SLPM_863.41",
+"offset": 364630,
+"kind": "rel16",
+"msg": 131
+},
+{
+"file": "SLPM_863.41",
+"offset": 364632,
+"kind": "rel16",
+"msg": 132
+},
+{
+"file": "SLPM_863.41",
+"offset": 364634,
+"kind": "rel16",
+"msg": 133
+},
+{
+"file": "SLPM_863.41",
+"offset": 364636,
+"kind": "rel16",
+"msg": 134
+},
+{
+"file": "SLPM_863.41",
+"offset": 364638,
+"kind": "rel16",
+"msg": 135
+},
+{
+"file": "SLPM_863.41",
+"offset": 364640,
+"kind": "rel16",
+"msg": 136
+},
+{
+"file": "SLPM_863.41",
+"offset": 364642,
+"kind": "rel16",
+"msg": 137
+},
+{
+"file": "SLPM_863.41",
+"offset": 364648,
+"kind": "rel16",
+"msg": 138
+},
+{
+"file": "SLPM_863.41",
+"offset": 364650,
+"kind": "rel16",
+"msg": 139
+},
+{
+"file": "SLPM_863.41",
+"offset": 364656,
+"kind": "rel16",
+"msg": 140
+},
+{
+"file": "SLPM_863.41",
+"offset": 364658,
+"kind": "rel16",
+"msg": 141
+},
+{
+"file": "SLPM_863.41",
+"offset": 364664,
+"kind": "rel16",
+"msg": 142
+},
+{
+"file": "SLPM_863.41",
+"offset": 364666,
+"kind": "rel16",
+"msg": 143
+},
+{
+"file": "SLPM_863.41",
+"offset": 364672,
+"kind": "rel16",
+"msg": 144
+},
+{
+"file": "SLPM_863.41",
+"offset": 364674,
+"kind": "rel16",
+"msg": 145
+},
+{
+"file": "SLPM_863.41",
+"offset": 364680,
+"kind": "rel16",
+"msg": 146
+},
+{
+"file": "SLPM_863.41",
+"offset": 364682,
+"kind": "rel16",
+"msg": 147
+},
+{
+"file": "SLPM_863.41",
+"offset": 364688,
+"kind": "rel16",
+"msg": 148
+},
+{
+"file": "SLPM_863.41",
+"offset": 364690,
+"kind": "rel16",
+"msg": 149
+},
+{
+"file": "SLPM_863.41",
+"offset": 364696,
+"kind": "rel16",
+"msg": 150
+},
+{
+"file": "SLPM_863.41",
+"offset": 364698,
+"kind": "rel16",
+"msg": 151
+},
+{
+"file": "SLPM_863.41",
+"offset": 364704,
+"kind": "rel16",
+"msg": 152
+},
+{
+"file": "SLPM_863.41",
+"offset": 364706,
+"kind": "rel16",
+"msg": 153
+},
+{
+"file": "SLPM_863.41",
+"offset": 364708,
+"kind": "rel16",
+"msg": 154
+},
+{
+"file": "SLPM_863.41",
+"offset": 364710,
+"kind": "rel16",
+"msg": 155
+},
+{
+"file": "SLPM_863.41",
+"offset": 364716,
+"kind": "rel16",
+"msg": 156
+},
+{
+"file": "SLPM_863.41",
+"offset": 364718,
+"kind": "rel16",
+"msg": 157
+},
+{
+"file": "SLPM_863.41",
+"offset": 364720,
+"kind": "rel16",
+"msg": 158
+},
+{
+"file": "SLPM_863.41",
+"offset": 364722,
+"kind": "rel16",
+"msg": 159
+},
+{
+"file": "SLPM_863.41",
+"offset": 364724,
+"kind": "rel16",
+"msg": 160
+},
+{
+"file": "SLPM_863.41",
+"offset": 364726,
+"kind": "rel16",
+"msg": 161
+},
+{
+"file": "SLPM_863.41",
+"offset": 364728,
+"kind": "rel16",
+"msg": 162
+},
+{
+"file": "SLPM_863.41",
+"offset": 364730,
+"kind": "rel16",
+"msg": 163
+},
+{
+"file": "SLPM_863.41",
+"offset": 364732,
+"kind": "rel16",
+"msg": 164
+},
+{
+"file": "SLPM_863.41",
+"offset": 364734,
+"kind": "rel16",
+"msg": 165
+},
+{
+"file": "SLPM_863.41",
+"offset": 364740,
+"kind": "rel16",
+"msg": 166
+},
+{
+"file": "SLPM_863.41",
+"offset": 364742,
+"kind": "rel16",
+"msg": 167
+},
+{
+"file": "SLPM_863.41",
+"offset": 364748,
+"kind": "rel16",
+"msg": 168
+},
+{
+"file": "SLPM_863.41",
+"offset": 364750,
+"kind": "rel16",
+"msg": 169
+},
+{
+"file": "SLPM_863.41",
+"offset": 364756,
+"kind": "rel16",
+"msg": 170
+},
+{
+"file": "SLPM_863.41",
+"offset": 364758,
+"kind": "rel16",
+"msg": 171
+},
+{
+"file": "SLPM_863.41",
+"offset": 364764,
+"kind": "rel16",
+"msg": 172
+},
+{
+"file": "SLPM_863.41",
+"offset": 364766,
+"kind": "rel16",
+"msg": 173
+},
+{
+"file": "SLPM_863.41",
+"offset": 364772,
+"kind": "rel16",
+"msg": 174
+},
+{
+"file": "SLPM_863.41",
+"offset": 364774,
+"kind": "rel16",
+"msg": 175
+},
+{
+"file": "SLPM_863.41",
+"offset": 364784,
+"kind": "rel16",
+"msg": 174
+},
+{
+"file": "SLPM_863.41",
+"offset": 364786,
+"kind": "rel16",
+"msg": 176
+},
+{
+"file": "SLPM_863.41",
+"offset": 364796,
+"kind": "rel16",
+"msg": 174
+},
+{
+"file": "SLPM_863.41",
+"offset": 364798,
+"kind": "rel16",
+"msg": 177
+},
+{
+"file": "SLPM_863.41",
+"offset": 364808,
+"kind": "rel16",
+"msg": 178
+},
+{
+"file": "SLPM_863.41",
+"offset": 364810,
+"kind": "rel16",
+"msg": 179
+},
+{
+"file": "SLPM_863.41",
+"offset": 364812,
+"kind": "rel16",
+"msg": 180
+},
+{
+"file": "SLPM_863.41",
+"offset": 364814,
+"kind": "rel16",
+"msg": 181
+},
+{
+"file": "SLPM_863.41",
+"offset": 364816,
+"kind": "rel16",
+"msg": 182
+},
+{
+"file": "SLPM_863.41",
+"offset": 364818,
+"kind": "rel16",
+"msg": 183
+},
+{
+"file": "SLPM_863.41",
+"offset": 364820,
+"kind": "rel16",
+"msg": 184
+},
+{
+"file": "SLPM_863.41",
+"offset": 364822,
+"kind": "rel16",
+"msg": 185
+},
+{
+"file": "SLPM_863.41",
+"offset": 364824,
+"kind": "rel16",
+"msg": 186
+},
+{
+"file": "SLPM_863.41",
+"offset": 364826,
+"kind": "rel16",
+"msg": 187
+},
+{
+"file": "SLPM_863.41",
+"offset": 364828,
+"kind": "rel16",
+"msg": 188
+},
+{
+"file": "SLPM_863.41",
+"offset": 364830,
+"kind": "rel16",
+"msg": 189
+},
+{
+"file": "SLPM_863.41",
+"offset": 364836,
+"kind": "rel16",
+"msg": 190
+},
+{
+"file": "SLPM_863.41",
+"offset": 364838,
+"kind": "rel16",
+"msg": 191
+},
+{
+"file": "SLPM_863.41",
+"offset": 364840,
+"kind": "rel16",
+"msg": 192
+},
+{
+"file": "SLPM_863.41",
+"offset": 364842,
+"kind": "rel16",
+"msg": 193
+},
+{
+"file": "SLPM_863.41",
+"offset": 364844,
+"kind": "rel16",
+"msg": 194
+},
+{
+"file": "SLPM_863.41",
+"offset": 364846,
+"kind": "rel16",
+"msg": 195
+},
+{
+"file": "SLPM_863.41",
+"offset": 364852,
+"kind": "rel16",
+"msg": 196
+},
+{
+"file": "SLPM_863.41",
+"offset": 364854,
+"kind": "rel16",
+"msg": 197
+},
+{
+"file": "SLPM_863.41",
+"offset": 364856,
+"kind": "rel16",
+"msg": 198
+},
+{
+"file": "SLPM_863.41",
+"offset": 364858,
+"kind": "rel16",
+"msg": 199
+},
+{
+"file": "SLPM_863.41",
+"offset": 364860,
+"kind": "rel16",
+"msg": 200
+},
+{
+"file": "SLPM_863.41",
+"offset": 364862,
+"kind": "rel16",
+"msg": 201
+},
+{
+"file": "SLPM_863.41",
+"offset": 364868,
+"kind": "rel16",
+"msg": 202
+},
+{
+"file": "SLPM_863.41",
+"offset": 364870,
+"kind": "rel16",
+"msg": 203
+},
+{
+"file": "SLPM_863.41",
+"offset": 364876,
+"kind": "rel16",
+"msg": 204
+},
+{
+"file": "SLPM_863.41",
+"offset": 364878,
+"kind": "rel16",
+"msg": 205
+},
+{
+"file": "SLPM_863.41",
+"offset": 364884,
+"kind": "rel16",
+"msg": 206
+},
+{
+"file": "SLPM_863.41",
+"offset": 364886,
+"kind": "rel16",
+"msg": 207
+},
+{
+"file": "SLPM_863.41",
+"offset": 364892,
+"kind": "rel16",
+"msg": 208
+},
+{
+"file": "SLPM_863.41",
+"offset": 364894,
+"kind": "rel16",
+"msg": 209
+},
+{
+"file": "SLPM_863.41",
+"offset": 364904,
+"kind": "rel16",
+"msg": 210
+},
+{
+"file": "SLPM_863.41",
+"offset": 364906,
+"kind": "rel16",
+"msg": 211
+},
+{
+"file": "SLPM_863.41",
+"offset": 364912,
+"kind": "rel16",
+"msg": 212
+},
+{
+"file": "SLPM_863.41",
+"offset": 364914,
+"kind": "rel16",
+"msg": 213
+},
+{
+"file": "SLPM_863.41",
+"offset": 364920,
+"kind": "rel16",
+"msg": 214
+},
+{
+"file": "SLPM_863.41",
+"offset": 364922,
+"kind": "rel16",
+"msg": 215
+},
+{
+"file": "SLPM_863.41",
+"offset": 364928,
+"kind": "rel16",
+"msg": 216
+},
+{
+"file": "SLPM_863.41",
+"offset": 364930,
+"kind": "rel16",
+"msg": 217
+},
+{
+"file": "SLPM_863.41",
+"offset": 364936,
+"kind": "rel16",
+"msg": 218
+},
+{
+"file": "SLPM_863.41",
+"offset": 364938,
+"kind": "rel16",
+"msg": 219
+},
+{
+"file": "SLPM_863.41",
+"offset": 364944,
+"kind": "rel16",
+"msg": 220
+},
+{
+"file": "SLPM_863.41",
+"offset": 364946,
+"kind": "rel16",
+"msg": 221
+},
+{
+"file": "SLPM_863.41",
+"offset": 364952,
+"kind": "rel16",
+"msg": 222
+},
+{
+"file": "SLPM_863.41",
+"offset": 364954,
+"kind": "rel16",
+"msg": 223
+},
+{
+"file": "SLPM_863.41",
+"offset": 364960,
+"kind": "rel16",
+"msg": 224
+},
+{
+"file": "SLPM_863.41",
+"offset": 364962,
+"kind": "rel16",
+"msg": 225
+},
+{
+"file": "SLPM_863.41",
+"offset": 364968,
+"kind": "rel16",
+"msg": 226
+},
+{
+"file": "SLPM_863.41",
+"offset": 364970,
+"kind": "rel16",
+"msg": 227
+},
+{
+"file": "SLPM_863.41",
+"offset": 364976,
+"kind": "rel16",
+"msg": 228
+},
+{
+"file": "SLPM_863.41",
+"offset": 364978,
+"kind": "rel16",
+"msg": 229
+},
+{
+"file": "SLPM_863.41",
+"offset": 364984,
+"kind": "rel16",
+"msg": 230
+},
+{
+"file": "SLPM_863.41",
+"offset": 364986,
+"kind": "rel16",
+"msg": 231
+},
+{
+"file": "SLPM_863.41",
+"offset": 364992,
+"kind": "rel16",
+"msg": 232
+},
+{
+"file": "SLPM_863.41",
+"offset": 364994,
+"kind": "rel16",
+"msg": 233
+},
+{
+"file": "SLPM_863.41",
+"offset": 365000,
+"kind": "rel16",
+"msg": 234
+},
+{
+"file": "SLPM_863.41",
+"offset": 365002,
+"kind": "rel16",
+"msg": 235
+},
+{
+"file": "SLPM_863.41",
+"offset": 365008,
+"kind": "rel16",
+"msg": 236
+},
+{
+"file": "SLPM_863.41",
+"offset": 365010,
+"kind": "rel16",
+"msg": 237
+},
+{
+"file": "SLPM_863.41",
+"offset": 365016,
+"kind": "rel16",
+"msg": 238
+},
+{
+"file": "SLPM_863.41",
+"offset": 365018,
+"kind": "rel16",
+"msg": 239
+},
+{
+"file": "SLPM_863.41",
+"offset": 365020,
+"kind": "rel16",
+"msg": 240
+},
+{
+"file": "SLPM_863.41",
+"offset": 365022,
+"kind": "rel16",
+"msg": 241
+},
+{
+"file": "SLPM_863.41",
+"offset": 365024,
+"kind": "rel16",
+"msg": 242
+},
+{
+"file": "SLPM_863.41",
+"offset": 365026,
+"kind": "rel16",
+"msg": 243
+},
+{
+"file": "SLPM_863.41",
+"offset": 365028,
+"kind": "rel16",
+"msg": 244
+},
+{
+"file": "SLPM_863.41",
+"offset": 365030,
+"kind": "rel16",
+"msg": 245
+},
+{
+"file": "SLPM_863.41",
+"offset": 365032,
+"kind": "rel16",
+"msg": 246
+},
+{
+"file": "SLPM_863.41",
+"offset": 365034,
+"kind": "rel16",
+"msg": 247
+},
+{
+"file": "SLPM_863.41",
+"offset": 365040,
+"kind": "rel16",
+"msg": 248
+},
+{
+"file": "SLPM_863.41",
+"offset": 365042,
+"kind": "rel16",
+"msg": 249
+},
+{
+"file": "SLPM_863.41",
+"offset": 365048,
+"kind": "rel16",
+"msg": 250
+},
+{
+"file": "SLPM_863.41",
+"offset": 365050,
+"kind": "rel16",
+"msg": 251
+},
+{
+"file": "SLPM_863.41",
+"offset": 365056,
+"kind": "rel16",
+"msg": 252
+},
+{
+"file": "SLPM_863.41",
+"offset": 365058,
+"kind": "rel16",
+"msg": 253
+},
+{
+"file": "SLPM_863.41",
+"offset": 365064,
+"kind": "rel16",
+"msg": 254
+},
+{
+"file": "SLPM_863.41",
+"offset": 365066,
+"kind": "rel16",
+"msg": 255
+},
+{
+"file": "SLPM_863.41",
+"offset": 365072,
+"kind": "rel16",
+"msg": 256
+},
+{
+"file": "SLPM_863.41",
+"offset": 365074,
+"kind": "rel16",
+"msg": 257
+},
+{
+"file": "SLPM_863.41",
+"offset": 365080,
+"kind": "rel16",
+"msg": 258
+},
+{
+"file": "SLPM_863.41",
+"offset": 365082,
+"kind": "rel16",
+"msg": 259
+},
+{
+"file": "SLPM_863.41",
+"offset": 365088,
+"kind": "rel16",
+"msg": 260
+},
+{
+"file": "SLPM_863.41",
+"offset": 365090,
+"kind": "rel16",
+"msg": 261
+},
+{
+"file": "SLPM_863.41",
+"offset": 365096,
+"kind": "rel16",
+"msg": 262
+},
+{
+"file": "SLPM_863.41",
+"offset": 365098,
+"kind": "rel16",
+"msg": 263
+},
+{
+"file": "SLPM_863.41",
+"offset": 365104,
+"kind": "rel16",
+"msg": 264
+},
+{
+"file": "SLPM_863.41",
+"offset": 365106,
+"kind": "rel16",
+"msg": 265
+},
+{
+"file": "SLPM_863.41",
+"offset": 365112,
+"kind": "rel16",
+"msg": 266
+},
+{
+"file": "SLPM_863.41",
+"offset": 365114,
+"kind": "rel16",
+"msg": 267
+},
+{
+"file": "SLPM_863.41",
+"offset": 365120,
+"kind": "rel16",
+"msg": 268
+},
+{
+"file": "SLPM_863.41",
+"offset": 365122,
+"kind": "rel16",
+"msg": 269
+},
+{
+"file": "SLPM_863.41",
+"offset": 365128,
+"kind": "rel16",
+"msg": 270
+},
+{
+"file": "SLPM_863.41",
+"offset": 365130,
+"kind": "rel16",
+"msg": 271
+},
+{
+"file": "SLPM_863.41",
+"offset": 365136,
+"kind": "rel16",
+"msg": 272
+},
+{
+"file": "SLPM_863.41",
+"offset": 365138,
+"kind": "rel16",
+"msg": 273
+},
+{
+"file": "SLPM_863.41",
+"offset": 365144,
+"kind": "rel16",
+"msg": 274
+},
+{
+"file": "SLPM_863.41",
+"offset": 365146,
+"kind": "rel16",
+"msg": 275
+},
+{
+"file": "SLPM_863.41",
+"offset": 365152,
+"kind": "rel16",
+"msg": 276
+},
+{
+"file": "SLPM_863.41",
+"offset": 365154,
+"kind": "rel16",
+"msg": 277
+},
+{
+"file": "SLPM_863.41",
+"offset": 365160,
+"kind": "rel16",
+"msg": 278
+},
+{
+"file": "SLPM_863.41",
+"offset": 365162,
+"kind": "rel16",
+"msg": 279
+},
+{
+"file": "SLPM_863.41",
+"offset": 365168,
+"kind": "rel16",
+"msg": 280
+},
+{
+"file": "SLPM_863.41",
+"offset": 365170,
+"kind": "rel16",
+"msg": 281
+},
+{
+"file": "SLPM_863.41",
+"offset": 365176,
+"kind": "rel16",
+"msg": 282
+},
+{
+"file": "SLPM_863.41",
+"offset": 365178,
+"kind": "rel16",
+"msg": 283
+},
+{
+"file": "SLPM_863.41",
+"offset": 365184,
+"kind": "rel16",
+"msg": 284
+},
+{
+"file": "SLPM_863.41",
+"offset": 365186,
+"kind": "rel16",
+"msg": 285
+},
+{
+"file": "SLPM_863.41",
+"offset": 365192,
+"kind": "rel16",
+"msg": 286
+},
+{
+"file": "SLPM_863.41",
+"offset": 365194,
+"kind": "rel16",
+"msg": 287
+},
+{
+"file": "SLPM_863.41",
+"offset": 365200,
+"kind": "rel16",
+"msg": 288
+},
+{
+"file": "SLPM_863.41",
+"offset": 365202,
+"kind": "rel16",
+"msg": 289
+},
+{
+"file": "SLPM_863.41",
+"offset": 365208,
+"kind": "rel16",
+"msg": 290
+},
+{
+"file": "SLPM_863.41",
+"offset": 365210,
+"kind": "rel16",
+"msg": 291
+},
+{
+"file": "SLPM_863.41",
+"offset": 365216,
+"kind": "rel16",
+"msg": 292
+},
+{
+"file": "SLPM_863.41",
+"offset": 365218,
+"kind": "rel16",
+"msg": 293
+},
+{
+"file": "SLPM_863.41",
+"offset": 365224,
+"kind": "rel16",
+"msg": 294
+},
+{
+"file": "SLPM_863.41",
+"offset": 365226,
+"kind": "rel16",
+"msg": 295
+},
+{
+"file": "SLPM_863.41",
+"offset": 365232,
+"kind": "rel16",
+"msg": 296
+},
+{
+"file": "SLPM_863.41",
+"offset": 365234,
+"kind": "rel16",
+"msg": 297
+},
+{
+"file": "SLPM_863.41",
+"offset": 365236,
+"kind": "rel16",
+"msg": 298
+},
+{
+"file": "SLPM_863.41",
+"offset": 365238,
+"kind": "rel16",
+"msg": 299
+},
+{
+"file": "SLPM_863.41",
+"offset": 365240,
+"kind": "rel16",
+"msg": 300
+},
+{
+"file": "SLPM_863.41",
+"offset": 365242,
+"kind": "rel16",
+"msg": 301
+},
+{
+"file": "SLPM_863.41",
+"offset": 365244,
+"kind": "rel16",
+"msg": 302
+},
+{
+"file": "SLPM_863.41",
+"offset": 365246,
+"kind": "rel16",
+"msg": 303
+},
+{
+"file": "SLPM_863.41",
+"offset": 365248,
+"kind": "rel16",
+"msg": 304
+},
+{
+"file": "SLPM_863.41",
+"offset": 365250,
+"kind": "rel16",
+"msg": 305
+},
+{
+"file": "SLPM_863.41",
+"offset": 365252,
+"kind": "rel16",
+"msg": 306
+},
+{
+"file": "SLPM_863.41",
+"offset": 365254,
+"kind": "rel16",
+"msg": 307
+},
+{
+"file": "SLPM_863.41",
+"offset": 365256,
+"kind": "rel16",
+"msg": 308
+},
+{
+"file": "SLPM_863.41",
+"offset": 365258,
+"kind": "rel16",
+"msg": 309
+},
+{
+"file": "SLPM_863.41",
+"offset": 365260,
+"kind": "rel16",
+"msg": 310
+},
+{
+"file": "SLPM_863.41",
+"offset": 365262,
+"kind": "rel16",
+"msg": 311
+},
+{
+"file": "SLPM_863.41",
+"offset": 365264,
+"kind": "rel16",
+"msg": 312
+},
+{
+"file": "SLPM_863.41",
+"offset": 365266,
+"kind": "rel16",
+"msg": 313
+},
+{
+"file": "SLPM_863.41",
+"offset": 365268,
+"kind": "rel16",
+"msg": 314
+},
+{
+"file": "SLPM_863.41",
+"offset": 365270,
+"kind": "rel16",
+"msg": 315
+},
+{
+"file": "SLPM_863.41",
+"offset": 365272,
+"kind": "rel16",
+"msg": 316
+},
+{
+"file": "SLPM_863.41",
+"offset": 365274,
+"kind": "rel16",
+"msg": 317
+},
+{
+"file": "SLPM_863.41",
+"offset": 365276,
+"kind": "rel16",
+"msg": 318
+},
+{
+"file": "SLPM_863.41",
+"offset": 365278,
+"kind": "rel16",
+"msg": 319
+},
+{
+"file": "SLPM_863.41",
+"offset": 365280,
+"kind": "rel16",
+"msg": 320
+},
+{
+"file": "SLPM_863.41",
+"offset": 365282,
+"kind": "rel16",
+"msg": 321
+},
+{
+"file": "SLPM_863.41",
+"offset": 365284,
+"kind": "rel16",
+"msg": 322
+},
+{
+"file": "SLPM_863.41",
+"offset": 365286,
+"kind": "rel16",
+"msg": 323
+},
+{
+"file": "SLPM_863.41",
+"offset": 365288,
+"kind": "rel16",
+"msg": 324
+},
+{
+"file": "SLPM_863.41",
+"offset": 365290,
+"kind": "rel16",
+"msg": 325
+},
+{
+"file": "SLPM_863.41",
+"offset": 365292,
+"kind": "rel16",
+"msg": 326
+},
+{
+"file": "SLPM_863.41",
+"offset": 365294,
+"kind": "rel16",
+"msg": 327
+},
+{
+"file": "SLPM_863.41",
+"offset": 365296,
+"kind": "rel16",
+"msg": 328
+},
+{
+"file": "SLPM_863.41",
+"offset": 365298,
+"kind": "rel16",
+"msg": 329
+},
+{
+"file": "SLPM_863.41",
+"offset": 365300,
+"kind": "rel16",
+"msg": 330
+},
+{
+"file": "SLPM_863.41",
+"offset": 365302,
+"kind": "rel16",
+"msg": 331
+},
+{
+"file": "SLPM_863.41",
+"offset": 365304,
+"kind": "rel16",
+"msg": 332
+},
+{
+"file": "SLPM_863.41",
+"offset": 365306,
+"kind": "rel16",
+"msg": 333
+},
+{
+"file": "SLPM_863.41",
+"offset": 365308,
+"kind": "rel16",
+"msg": 334
+},
+{
+"file": "SLPM_863.41",
+"offset": 365310,
+"kind": "rel16",
+"msg": 335
+},
+{
+"file": "SLPM_863.41",
+"offset": 365312,
+"kind": "rel16",
+"msg": 336
+},
+{
+"file": "SLPM_863.41",
+"offset": 365314,
+"kind": "rel16",
+"msg": 337
+},
+{
+"file": "SLPM_863.41",
+"offset": 365316,
+"kind": "rel16",
+"msg": 338
+},
+{
+"file": "SLPM_863.41",
+"offset": 365318,
+"kind": "rel16",
+"msg": 339
+},
+{
+"file": "SLPM_863.41",
+"offset": 365320,
+"kind": "rel16",
+"msg": 340
+},
+{
+"file": "SLPM_863.41",
+"offset": 365322,
+"kind": "rel16",
+"msg": 341
+},
+{
+"file": "SLPM_863.41",
+"offset": 365324,
+"kind": "rel16",
+"msg": 342
+},
+{
+"file": "SLPM_863.41",
+"offset": 365326,
+"kind": "rel16",
+"msg": 343
+},
+{
+"file": "SLPM_863.41",
+"offset": 365328,
+"kind": "rel16",
+"msg": 344
+},
+{
+"file": "SLPM_863.41",
+"offset": 365330,
+"kind": "rel16",
+"msg": 345
+},
+{
+"file": "SLPM_863.41",
+"offset": 365332,
+"kind": "rel16",
+"msg": 346
+},
+{
+"file": "SLPM_863.41",
+"offset": 365334,
+"kind": "rel16",
+"msg": 347
+},
+{
+"file": "SLPM_863.41",
+"offset": 365336,
+"kind": "rel16",
+"msg": 348
+},
+{
+"file": "SLPM_863.41",
+"offset": 365338,
+"kind": "rel16",
+"msg": 349
+},
+{
+"file": "SLPM_863.41",
+"offset": 365340,
+"kind": "rel16",
+"msg": 350
+},
+{
+"file": "SLPM_863.41",
+"offset": 365342,
+"kind": "rel16",
+"msg": 351
+},
+{
+"file": "SLPM_863.41",
+"offset": 365344,
+"kind": "rel16",
+"msg": 352
+},
+{
+"file": "SLPM_863.41",
+"offset": 365346,
+"kind": "rel16",
+"msg": 353
+},
+{
+"file": "SLPM_863.41",
+"offset": 365348,
+"kind": "rel16",
+"msg": 354
+},
+{
+"file": "SLPM_863.41",
+"offset": 365350,
+"kind": "rel16",
+"msg": 355
+},
+{
+"file": "SLPM_863.41",
+"offset": 365352,
+"kind": "rel16",
+"msg": 356
+},
+{
+"file": "SLPM_863.41",
+"offset": 365354,
+"kind": "rel16",
+"msg": 357
+},
+{
+"file": "SLPM_863.41",
+"offset": 365356,
+"kind": "rel16",
+"msg": 358
+},
+{
+"file": "SLPM_863.41",
+"offset": 365358,
+"kind": "rel16",
+"msg": 359
+},
+{
+"file": "SLPM_863.41",
+"offset": 365360,
+"kind": "rel16",
+"msg": 360
+},
+{
+"file": "SLPM_863.41",
+"offset": 365362,
+"kind": "rel16",
+"msg": 361
+},
+{
+"file": "SLPM_863.41",
+"offset": 365364,
+"kind": "rel16",
+"msg": 362
+},
+{
+"file": "SLPM_863.41",
+"offset": 365366,
+"kind": "rel16",
+"msg": 363
+},
+{
+"file": "SLPM_863.41",
+"offset": 365368,
+"kind": "rel16",
+"msg": 364
+},
+{
+"file": "SLPM_863.41",
+"offset": 365370,
+"kind": "rel16",
+"msg": 365
+},
+{
+"file": "SLPM_863.41",
+"offset": 365376,
+"kind": "rel16",
+"msg": 366
+},
+{
+"file": "SLPM_863.41",
+"offset": 365378,
+"kind": "rel16",
+"msg": 367
+},
+{
+"file": "SLPM_863.41",
+"offset": 365380,
+"kind": "rel16",
+"msg": 368
+},
+{
+"file": "SLPM_863.41",
+"offset": 365382,
+"kind": "rel16",
+"msg": 369
+},
+{
+"file": "SLPM_863.41",
+"offset": 365384,
+"kind": "rel16",
+"msg": 370
+},
+{
+"file": "SLPM_863.41",
+"offset": 365386,
+"kind": "rel16",
+"msg": 371
+},
+{
+"file": "SLPM_863.41",
+"offset": 365388,
+"kind": "rel16",
+"msg": 372
+},
+{
+"file": "SLPM_863.41",
+"offset": 365390,
+"kind": "rel16",
+"msg": 373
+},
+{
+"file": "SLPM_863.41",
+"offset": 365392,
+"kind": "rel16",
+"msg": 374
+},
+{
+"file": "SLPM_863.41",
+"offset": 365394,
+"kind": "rel16",
+"msg": 375
+},
+{
+"file": "SLPM_863.41",
+"offset": 365396,
+"kind": "rel16",
+"msg": 376
+},
+{
+"file": "SLPM_863.41",
+"offset": 365398,
+"kind": "rel16",
+"msg": 377
+},
+{
+"file": "SLPM_863.41",
+"offset": 365400,
+"kind": "rel16",
+"msg": 378
+},
+{
+"file": "SLPM_863.41",
+"offset": 365402,
+"kind": "rel16",
+"msg": 379
+},
+{
+"file": "SLPM_863.41",
+"offset": 365404,
+"kind": "rel16",
+"msg": 380
+},
+{
+"file": "SLPM_863.41",
+"offset": 365406,
+"kind": "rel16",
+"msg": 381
+},
+{
+"file": "SLPM_863.41",
+"offset": 365408,
+"kind": "rel16",
+"msg": 382
+},
+{
+"file": "SLPM_863.41",
+"offset": 365410,
+"kind": "rel16",
+"msg": 383
+},
+{
+"file": "SLPM_863.41",
+"offset": 365416,
+"kind": "rel16",
+"msg": 384
+},
+{
+"file": "SLPM_863.41",
+"offset": 365418,
+"kind": "rel16",
+"msg": 385
+},
+{
+"file": "SLPM_863.41",
+"offset": 365420,
+"kind": "rel16",
+"msg": 386
+},
+{
+"file": "SLPM_863.41",
+"offset": 365422,
+"kind": "rel16",
+"msg": 387
+},
+{
+"file": "SLPM_863.41",
+"offset": 365424,
+"kind": "rel16",
+"msg": 388
+},
+{
+"file": "SLPM_863.41",
+"offset": 365426,
+"kind": "rel16",
+"msg": 389
+},
+{
+"file": "SLPM_863.41",
+"offset": 365428,
+"kind": "rel16",
+"msg": 390
+},
+{
+"file": "SLPM_863.41",
+"offset": 365430,
+"kind": "rel16",
+"msg": 391
+},
+{
+"file": "SLPM_863.41",
+"offset": 365432,
+"kind": "rel16",
+"msg": 392
+},
+{
+"file": "SLPM_863.41",
+"offset": 365434,
+"kind": "rel16",
+"msg": 393
+},
+{
+"file": "SLPM_863.41",
+"offset": 365436,
+"kind": "rel16",
+"msg": 394
+},
+{
+"file": "SLPM_863.41",
+"offset": 365438,
+"kind": "rel16",
+"msg": 395
+},
+{
+"file": "SLPM_863.41",
+"offset": 365440,
+"kind": "rel16",
+"msg": 396
+},
+{
+"file": "SLPM_863.41",
+"offset": 365442,
+"kind": "rel16",
+"msg": 397
+},
+{
+"file": "SLPM_863.41",
+"offset": 365444,
+"kind": "rel16",
+"msg": 398
+},
+{
+"file": "SLPM_863.41",
+"offset": 365446,
+"kind": "rel16",
+"msg": 399
+},
+{
+"file": "SLPM_863.41",
+"offset": 365448,
+"kind": "rel16",
+"msg": 400
+},
+{
+"file": "SLPM_863.41",
+"offset": 365450,
+"kind": "rel16",
+"msg": 401
+},
+{
+"file": "SLPM_863.41",
+"offset": 365452,
+"kind": "rel16",
+"msg": 402
+},
+{
+"file": "SLPM_863.41",
+"offset": 365454,
+"kind": "rel16",
+"msg": 403
+},
+{
+"file": "SLPM_863.41",
+"offset": 365456,
+"kind": "rel16",
+"msg": 404
+},
+{
+"file": "SLPM_863.41",
+"offset": 365458,
+"kind": "rel16",
+"msg": 405
+},
+{
+"file": "SLPM_863.41",
+"offset": 365460,
+"kind": "rel16",
+"msg": 406
+},
+{
+"file": "SLPM_863.41",
+"offset": 365462,
+"kind": "rel16",
+"msg": 407
+},
+{
+"file": "SLPM_863.41",
+"offset": 365464,
+"kind": "rel16",
+"msg": 408
+},
+{
+"file": "SLPM_863.41",
+"offset": 365466,
+"kind": "rel16",
+"msg": 409
+},
+{
+"file": "SLPM_863.41",
+"offset": 365468,
+"kind": "rel16",
+"msg": 410
+},
+{
+"file": "SLPM_863.41",
+"offset": 365470,
+"kind": "rel16",
+"msg": 411
+},
+{
+"file": "SLPM_863.41",
+"offset": 365472,
+"kind": "rel16",
+"msg": 412
+},
+{
+"file": "SLPM_863.41",
+"offset": 365474,
+"kind": "rel16",
+"msg": 413
+},
+{
+"file": "SLPM_863.41",
+"offset": 365476,
+"kind": "rel16",
+"msg": 414
+},
+{
+"file": "SLPM_863.41",
+"offset": 365478,
+"kind": "rel16",
+"msg": 415
+},
+{
+"file": "SLPM_863.41",
+"offset": 365480,
+"kind": "rel16",
+"msg": 416
+},
+{
+"file": "SLPM_863.41",
+"offset": 365482,
+"kind": "rel16",
+"msg": 417
+},
+{
+"file": "SLPM_863.41",
+"offset": 365484,
+"kind": "rel16",
+"msg": 418
+},
+{
+"file": "SLPM_863.41",
+"offset": 365486,
+"kind": "rel16",
+"msg": 419
+},
+{
+"file": "SLPM_863.41",
+"offset": 365488,
+"kind": "rel16",
+"msg": 420
+},
+{
+"file": "SLPM_863.41",
+"offset": 365490,
+"kind": "rel16",
+"msg": 421
+},
+{
+"file": "SLPM_863.41",
+"offset": 365492,
+"kind": "rel16",
+"msg": 422
+},
+{
+"file": "SLPM_863.41",
+"offset": 365494,
+"kind": "rel16",
+"msg": 423
+},
+{
+"file": "SLPM_863.41",
+"offset": 365496,
+"kind": "rel16",
+"msg": 424
+},
+{
+"file": "SLPM_863.41",
+"offset": 365498,
+"kind": "rel16",
+"msg": 425
+},
+{
+"file": "SLPM_863.41",
+"offset": 365500,
+"kind": "rel16",
+"msg": 426
+},
+{
+"file": "SLPM_863.41",
+"offset": 365502,
+"kind": "rel16",
+"msg": 427
+},
+{
+"file": "SLPM_863.41",
+"offset": 365508,
+"kind": "rel16",
+"msg": 428
+},
+{
+"file": "SLPM_863.41",
+"offset": 365510,
+"kind": "rel16",
+"msg": 429
+},
+{
+"file": "SLPM_863.41",
+"offset": 365516,
+"kind": "rel16",
+"msg": 430
+},
+{
+"file": "SLPM_863.41",
+"offset": 365518,
+"kind": "rel16",
+"msg": 431
+},
+{
+"file": "SLPM_863.41",
+"offset": 365520,
+"kind": "rel16",
+"msg": 432
+},
+{
+"file": "SLPM_863.41",
+"offset": 365522,
+"kind": "rel16",
+"msg": 433
+},
+{
+"file": "SLPM_863.41",
+"offset": 365524,
+"kind": "rel16",
+"msg": 434
+},
+{
+"file": "SLPM_863.41",
+"offset": 365526,
+"kind": "rel16",
+"msg": 435
+},
+{
+"file": "SLPM_863.41",
+"offset": 365528,
+"kind": "rel16",
+"msg": 436
+},
+{
+"file": "SLPM_863.41",
+"offset": 365530,
+"kind": "rel16",
+"msg": 437
+},
+{
+"file": "SLPM_863.41",
+"offset": 365532,
+"kind": "rel16",
+"msg": 438
+},
+{
+"file": "SLPM_863.41",
+"offset": 365534,
+"kind": "rel16",
+"msg": 439
+},
+{
+"file": "SLPM_863.41",
+"offset": 365536,
+"kind": "rel16",
+"msg": 440
+},
+{
+"file": "SLPM_863.41",
+"offset": 365538,
+"kind": "rel16",
+"msg": 441
+},
+{
+"file": "SLPM_863.41",
+"offset": 365540,
+"kind": "rel16",
+"msg": 442
+},
+{
+"file": "SLPM_863.41",
+"offset": 365542,
+"kind": "rel16",
+"msg": 443
+},
+{
+"file": "SLPM_863.41",
+"offset": 365544,
+"kind": "rel16",
+"msg": 444
+},
+{
+"file": "SLPM_863.41",
+"offset": 365546,
+"kind": "rel16",
+"msg": 445
+},
+{
+"file": "SLPM_863.41",
+"offset": 365548,
+"kind": "rel16",
+"msg": 446
+},
+{
+"file": "SLPM_863.41",
+"offset": 365550,
+"kind": "rel16",
+"msg": 447
+},
+{
+"file": "SLPM_863.41",
+"offset": 365552,
+"kind": "rel16",
+"msg": 448
+},
+{
+"file": "SLPM_863.41",
+"offset": 365554,
+"kind": "rel16",
+"msg": 449
+},
+{
+"file": "SLPM_863.41",
+"offset": 365556,
+"kind": "rel16",
+"msg": 450
+},
+{
+"file": "SLPM_863.41",
+"offset": 365558,
+"kind": "rel16",
+"msg": 451
+},
+{
+"file": "SLPM_863.41",
+"offset": 365560,
+"kind": "rel16",
+"msg": 452
+},
+{
+"file": "SLPM_863.41",
+"offset": 365562,
+"kind": "rel16",
+"msg": 453
+},
+{
+"file": "SLPM_863.41",
+"offset": 365564,
+"kind": "rel16",
+"msg": 454
+},
+{
+"file": "SLPM_863.41",
+"offset": 365566,
+"kind": "rel16",
+"msg": 455
+},
+{
+"file": "SLPM_863.41",
+"offset": 365568,
+"kind": "rel16",
+"msg": 456
+},
+{
+"file": "SLPM_863.41",
+"offset": 365570,
+"kind": "rel16",
+"msg": 457
+},
+{
+"file": "SLPM_863.41",
+"offset": 365572,
+"kind": "rel16",
+"msg": 458
+},
+{
+"file": "SLPM_863.41",
+"offset": 365574,
+"kind": "rel16",
+"msg": 459
+},
+{
+"file": "SLPM_863.41",
+"offset": 365576,
+"kind": "rel16",
+"msg": 460
+},
+{
+"file": "SLPM_863.41",
+"offset": 365578,
+"kind": "rel16",
+"msg": 461
+},
+{
+"file": "SLPM_863.41",
+"offset": 365580,
+"kind": "rel16",
+"msg": 462
+},
+{
+"file": "SLPM_863.41",
+"offset": 365582,
+"kind": "rel16",
+"msg": 463
+},
+{
+"file": "SLPM_863.41",
+"offset": 365584,
+"kind": "rel16",
+"msg": 464
+},
+{
+"file": "SLPM_863.41",
+"offset": 365586,
+"kind": "rel16",
+"msg": 465
+},
+{
+"file": "SLPM_863.41",
+"offset": 365588,
+"kind": "rel16",
+"msg": 466
+},
+{
+"file": "SLPM_863.41",
+"offset": 365590,
+"kind": "rel16",
+"msg": 467
+},
+{
+"file": "SLPM_863.41",
+"offset": 365592,
+"kind": "rel16",
+"msg": 468
+},
+{
+"file": "SLPM_863.41",
+"offset": 365594,
+"kind": "rel16",
+"msg": 469
+},
+{
+"file": "SLPM_863.41",
+"offset": 365596,
+"kind": "rel16",
+"msg": 470
+},
+{
+"file": "SLPM_863.41",
+"offset": 365598,
+"kind": "rel16",
+"msg": 471
+},
+{
+"file": "SLPM_863.41",
+"offset": 365600,
+"kind": "rel16",
+"msg": 472
+},
+{
+"file": "SLPM_863.41",
+"offset": 365602,
+"kind": "rel16",
+"msg": 473
+},
+{
+"file": "SLPM_863.41",
+"offset": 365604,
+"kind": "rel16",
+"msg": 474
+},
+{
+"file": "SLPM_863.41",
+"offset": 365606,
+"kind": "rel16",
+"msg": 475
+},
+{
+"file": "SLPM_863.41",
+"offset": 365608,
+"kind": "rel16",
+"msg": 476
+},
+{
+"file": "SLPM_863.41",
+"offset": 365610,
+"kind": "rel16",
+"msg": 477
+},
+{
+"file": "SLPM_863.41",
+"offset": 365612,
+"kind": "rel16",
+"msg": 478
+},
+{
+"file": "SLPM_863.41",
+"offset": 365614,
+"kind": "rel16",
+"msg": 479
+},
+{
+"file": "SLPM_863.41",
+"offset": 365616,
+"kind": "rel16",
+"msg": 480
+},
+{
+"file": "SLPM_863.41",
+"offset": 365618,
+"kind": "rel16",
+"msg": 481
+},
+{
+"file": "SLPM_863.41",
+"offset": 365620,
+"kind": "rel16",
+"msg": 482
+},
+{
+"file": "SLPM_863.41",
+"offset": 365622,
+"kind": "rel16",
+"msg": 483
+},
+{
+"file": "SLPM_863.41",
+"offset": 365624,
+"kind": "rel16",
+"msg": 484
+},
+{
+"file": "SLPM_863.41",
+"offset": 365626,
+"kind": "rel16",
+"msg": 485
+},
+{
+"file": "SLPM_863.41",
+"offset": 365628,
+"kind": "rel16",
+"msg": 486
+},
+{
+"file": "SLPM_863.41",
+"offset": 365630,
+"kind": "rel16",
+"msg": 487
+},
+{
+"file": "SLPM_863.41",
+"offset": 365632,
+"kind": "rel16",
+"msg": 488
+},
+{
+"file": "SLPM_863.41",
+"offset": 365634,
+"kind": "rel16",
+"msg": 489
+},
+{
+"file": "SLPM_863.41",
+"offset": 365636,
+"kind": "rel16",
+"msg": 490
+},
+{
+"file": "SLPM_863.41",
+"offset": 365638,
+"kind": "rel16",
+"msg": 491
+},
+{
+"file": "SLPM_863.41",
+"offset": 365640,
+"kind": "rel16",
+"msg": 492
+},
+{
+"file": "SLPM_863.41",
+"offset": 365642,
+"kind": "rel16",
+"msg": 493
+}
+]
+}

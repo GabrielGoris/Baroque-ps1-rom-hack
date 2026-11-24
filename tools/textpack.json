@@ -1,0 +1,64 @@
+[
+ {
+  "text": "ETC/BP.MSB",
+  "table": "traducao/BP.tsv",
+  "refs": "tools/textrefs/BP.json",
+  "maxsize": 4096
+ },
+ {
+  "text": "ETC/ITEM.MSB",
+  "table": "traducao/ITEM.tsv",
+  "refs": "tools/textrefs/ITEM.json",
+  "maxsize": 22528,
+  "drop_from": 681,
+  "pad_to_original": false
+ },
+ {
+  "text": "ETC/CUD.MSB",
+  "table": "traducao/CUD.tsv",
+  "refs": "tools/textrefs/CUD.json",
+  "maxsize": 2048,
+  "drop_from": 40,
+  "pad_to_original": false
+ },
+ {
+  "text": "MSG/MSG0.MSB",
+  "table": "traducao/MSG0.tsv",
+  "refs": "tools/textrefs/MSG0.json",
+  "maxsize": 40960,
+  "drop_from": 423,
+  "pad_to_original": false
+ },
+ {
+  "text": "MSG/MSG1.MSB",
+  "table": "traducao/MSG1.tsv",
+  "refs": "tools/textrefs/MSG1.json",
+  "maxsize": 40960,
+  "drop_from": 414,
+  "pad_to_original": false
+ },
+ {
+  "text": "MSG/MSG2.MSB",
+  "table": "traducao/MSG2.tsv",
+  "refs": "tools/textrefs/MSG2.json",
+  "maxsize": 40960,
+  "drop_from": 530,
+  "pad_to_original": false
+ },
+ {
+  "text": "ETC/ALLMSG.MSB",
+  "table": "traducao/ALLMSG.tsv",
+  "refs": "tools/textrefs/ALLMSG.json",
+  "maxsize": 40960,
+  "drop_from": 264,
+  "pad_to_original": false
+ },
+ {
+  "text": "ETC/AB_MES.MSB",
+  "table": "traducao/AB_MES.tsv",
+  "refs": "tools/textrefs/AB_MES.json",
+  "maxsize": 322,
+  "drop_from": 15,
+  "pad_to_original": false
+ }
+]

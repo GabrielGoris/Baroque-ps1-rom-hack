@@ -1,0 +1,111 @@
+{
+"text": "ETC/AB_MES.MSB",
+"base": 2148817632,
+"refs": [
+{
+"file": "BIN01/BRIGHT.BIN",
+"offset": 532,
+"kind": "abs_lo",
+"msg": 12,
+"lui": 524
+},
+{
+"file": "BIN01/BRIGHT.BIN",
+"offset": 596,
+"kind": "abs_lo",
+"msg": 13,
+"lui": 524
+},
+{
+"file": "BIN01/BRIGHT.BIN",
+"offset": 604,
+"kind": "abs_lo",
+"msg": 14,
+"lui": 524
+},
+{
+"file": "BIN01/BRIGHT.BIN",
+"offset": 616,
+"kind": "abs_lo",
+"msg": 0,
+"lui": 608
+},
+{
+"file": "BIN01/BRIGHT.BIN",
+"offset": 644,
+"kind": "abs_lo",
+"msg": 1,
+"lui": 636
+},
+{
+"file": "BIN01/BRIGHT.BIN",
+"offset": 672,
+"kind": "abs_lo",
+"msg": 2,
+"lui": 664
+},
+{
+"file": "BIN01/BRIGHT.BIN",
+"offset": 700,
+"kind": "abs_lo",
+"msg": 3,
+"lui": 692
+},
+{
+"file": "BIN01/BRIGHT.BIN",
+"offset": 840,
+"kind": "abs_lo",
+"msg": 4,
+"lui": 832
+},
+{
+"file": "BIN01/BRIGHT.BIN",
+"offset": 868,
+"kind": "abs_lo",
+"msg": 5,
+"lui": 860
+},
+{
+"file": "BIN01/BRIGHT.BIN",
+"offset": 896,
+"kind": "abs_lo",
+"msg": 6,
+"lui": 888
+},
+{
+"file": "BIN01/BRIGHT.BIN",
+"offset": 924,
+"kind": "abs_lo",
+"msg": 7,
+"lui": 916
+},
+{
+"file": "BIN01/BRIGHT.BIN",
+"offset": 1328,
+"kind": "abs_lo",
+"msg": 8,
+"lui": 1320
+},
+{
+"file": "BIN01/BRIGHT.BIN",
+"offset": 1356,
+"kind": "abs_lo",
+"msg": 9,
+"lui": 1348
+},
+{
+"file": "BIN01/BRIGHT.BIN",
+"offset": 1384,
+"kind": "abs_lo",
+"msg": 10,
+"lui": 1376
+},
+{
+"file": "BIN01/BRIGHT.BIN",
+"offset": 1556,
+"kind": "abs_lo",
+"msg": 11,
+"lui": 1548
+}
+]
+}
